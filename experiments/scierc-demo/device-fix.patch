@@ -1,0 +1,13 @@
+diff --git a/graph_evaluation/metrics/graph_matching.py b/graph_evaluation/metrics/graph_matching.py
+index 331a7a3..971062f 100644
+--- a/graph_evaluation/metrics/graph_matching.py
++++ b/graph_evaluation/metrics/graph_matching.py
+@@ -120,7 +120,7 @@ def get_bert_score(all_gold_edges, all_pred_edges):
+                 candidates.append(pred_edge)
+                 ref_cand_index[(gold_edge, pred_edge)] = len(references) - 1
+ 
+-    _, _, bs_F1 = score_bert(cands=candidates, refs=references, model_type="bert-base-uncased", lang='en', idf=False, device="cuda:7")
++    _, _, bs_F1 = score_bert(cands=candidates, refs=references, model_type="bert-base-uncased", lang='en', idf=False, device=("cuda:7" if __import__("torch").cuda.is_available() else ("mps" if __import__("torch").backends.mps.is_available() else "cpu")))
+     print("Computed bert scores for all pairs")
+ 
+     precisions, recalls, f1s = [], [], []
