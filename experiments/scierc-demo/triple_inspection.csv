@@ -1,0 +1,130 @@
+doc_id,doc_topic,head,relation,tail,judge_verdict,exact_gold_match,comment
+doc_01,Japanese named entity recognition (Amorph),Recognition of proper nouns,part of,morphological analysis,kept,yes,Stated verbatim: 'Recognition of proper nouns ... studied as a part of the more general problem of morphological analysis'.
+doc_01,Japanese named entity recognition (Amorph),Recognition of proper nouns,used for,Japanese text,rejected,no,"Recognition happens IN Japanese text, it is not 'used for' it; relation misstates the sentence."
+doc_01,Japanese named entity recognition (Amorph),morphological analysis,used for,Japanese text processing,kept,yes,Text: 'morphological analysis in Japanese text processing'.
+doc_01,Japanese named entity recognition (Amorph),Recognition of proper nouns,part of,Japanese information extraction,kept,no,Text: 'It has also been studied in the framework of Japanese information extraction'.
+doc_01,Japanese named entity recognition (Amorph),approach,used for,Multi-lingual Evaluation Task -LRB- MET -RRB-,kept,yes,Text: 'Our approach to the Multi-lingual Evaluation Task (MET) for Japanese text'.
+doc_01,Japanese named entity recognition (Amorph),Multi-lingual Evaluation Task -LRB- MET -RRB-,used for,Japanese text,rejected,yes,"MET is a task ON Japanese text, not a tool used for it; unsupported relation direction."
+doc_01,Japanese named entity recognition (Amorph),morphological analyzer,used for,recognition and classification of proper names,kept,no,Text: 'Our morphological analyzer has done all the necessary work for the recognition and classification of proper names'.
+doc_01,Japanese named entity recognition (Amorph),Named Entity -LRB- NE -RRB- items,part of,Japanese text,kept,yes,Text: 'Named Entity (NE) items in the Japanese text'.
+doc_01,Japanese named entity recognition (Amorph),Amorph,hyponym of,morphological analyzer,kept,no,Text: 'The analyzer is called Amorph' - Amorph names the analyzer.
+doc_01,Japanese named entity recognition (Amorph),dictionary lookup,part of,Amorph,kept,yes,Text: 'Amorph recognizes NE items in two stages: dictionary lookup and rule application'.
+doc_01,Japanese named entity recognition (Amorph),rule application,part of,Amorph,kept,yes,Same sentence: second of Amorph's two stages.
+doc_01,Japanese named entity recognition (Amorph),dictionaries,used for,segment and tag Japanese character strings,kept,no,Text: 'it uses several kinds of dictionaries to segment and tag Japanese character strings'.
+doc_01,Japanese named entity recognition (Amorph),rules,used for,identify NE items,kept,no,Text: 'a set of rules is applied ... in order to identify NE items'.
+doc_01,Japanese named entity recognition (Amorph),information,used for,final output,rejected,no,'Information' is too vague to be an entity; adds no usable knowledge.
+doc_02,3D stereo reconstruction with geometric constraints,a priori geometric constraints,used for,3 -- D stereo reconstruction scheme,kept,no,Text: 'incorporate a priori geometric constraints in a 3-D stereo reconstruction scheme'.
+doc_02,3D stereo reconstruction with geometric constraints,iterative deformation of a 3 -- D surface mesh,used for,minimize an objective function,kept,no,Text: 'based on the iterative deformation of a 3-D surface mesh to minimize an objective function'.
+doc_02,3D stereo reconstruction with geometric constraints,anisotropic meshing,conjunction,non-quadratic approach to regularization,kept,no,Text: 'combining anisotropic meshing with a non-quadratic approach to regularization'.
+doc_02,3D stereo reconstruction with geometric constraints,triangulations with few vertices,used for,reconstruction results,kept,no,Text: 'satisfactory reconstruction results using triangulations with few vertices'.
+doc_02,3D stereo reconstruction with geometric constraints,Structural or numerical constraints,used for,reconstruction process,kept,yes,Text: 'Structural or numerical constraints can then be added locally to the reconstruction process'.
+doc_02,3D stereo reconstruction with geometric constraints,constrained optimization scheme,used for,reconstruction process,kept,no,Text: 'added ... through a constrained optimization scheme'.
+doc_02,3D stereo reconstruction with geometric constraints,differential features,used for,constraints for 3 -- D reconstruction,kept,no,Text: 'differential features ... efficiently used as constraints for 3-D reconstruction'.
+doc_02,3D stereo reconstruction with geometric constraints,a priori knowledge,feature of,object shape,rejected,no,Text says results are consistent WITH a priori knowledge about object shape; 'feature of' misstates it.
+doc_02,3D stereo reconstruction with geometric constraints,image information,used for,3 -- D shape,rejected,yes,Text says image information alone is NOT sufficient to recover 3-D shape - the triple drops the negation.
+doc_03,Weakly supervised dependency parser for speech,weakly supervised dependency parser,used for,speech syntax,kept,yes,Text: 'a weakly supervised dependency parser that can model speech syntax'.
+doc_03,Weakly supervised dependency parser for speech,hand-crafted rules,used for,basic syntactic knowledge,kept,no,Text: 'a few hand-crafted rules that encode basic syntactic knowledge'.
+doc_03,Weakly supervised dependency parser for speech,Bayesian inference,used for,sampling the rules,kept,no,Text: 'Bayesian inference then samples the rules'.
+doc_03,Weakly supervised dependency parser for speech,complex tree structures,used for,discriminative model 's posterior,rejected,yes,"Trees MAXIMIZE the posterior, they are not 'used for' it; relation is wrong."
+doc_03,Weakly supervised dependency parser for speech,posterior,feature of,sparse se-lectional preferences,rejected,no,"Backwards: the posterior ENCODES the preferences, preferences are not a feature holder of the posterior."
+doc_03,Weakly supervised dependency parser for speech,model,evaluate for,English and Czech newspaper texts,kept,no,Text: 'The model is evaluated on English and Czech newspaper texts'.
+doc_03,Weakly supervised dependency parser for speech,French broadcast news transcriptions,used for,validation,kept,no,Text: 'then validated on French broadcast news transcriptions'.
+doc_03,Weakly supervised dependency parser for speech,n-gram models,feature of,lack of structures,rejected,no,The lack of structures is a shortcoming OF n-gram models; head/tail inverted.
+doc_03,Weakly supervised dependency parser for speech,Labeled data,compare,hand-crafted rules,rejected,no,Text says labeled data is REPLACED BY rules; 'compare' is not the stated relation.
+doc_04,LCS-Marine spoken dialogue logistics system,Listen-Communicate-Show -LRB- LCS -RRB-,hyponym of,paradigm for human interaction with data sources,kept,no,Text: 'LCS is a new paradigm for human interaction with data sources'.
+doc_04,LCS-Marine spoken dialogue logistics system,spoken language understanding system,conjunction,intelligent mobile agents,kept,no,Text: 'integrate a spoken language understanding system with intelligent mobile agents'.
+doc_04,LCS-Marine spoken dialogue logistics system,intelligent mobile agents,used for,mediate between users and information sources,kept,no,Text: 'agents that mediate between users and information sources'.
+doc_04,LCS-Marine spoken dialogue logistics system,LCS-Marine,hyponym of,application,kept,no,Text: 'an application of this approach called LCS-Marine'.
+doc_04,LCS-Marine spoken dialogue logistics system,tactical personnel,used for,logistics system,rejected,no,Personnel CONVERSE WITH the logistics system; people are not 'used for' systems.
+doc_04,LCS-Marine spoken dialogue logistics system,"mobile , intelligent agent",used for,execution of the request,kept,no,"Text: 'passed to a mobile, intelligent agent for execution'."
+doc_04,LCS-Marine spoken dialogue logistics system,field exercises,evaluate for,capability,rejected,no,"Weakly grounded: demonstration in exercises is mentioned, but 'evaluate for capability' overstates a vague pair."
+doc_04,LCS-Marine spoken dialogue logistics system,LCS-Marine,used for,supply or information request,rejected,no,Users place requests THROUGH LCS-Marine; the triple compresses this into an unsupported relation.
+doc_05,Interpretation of English nominal compounds,domain independent model,used for,automated interpretation of nominal compounds in English,kept,no,Text: 'A domain independent model is proposed for the automated interpretation of nominal compounds in English'.
+doc_05,Interpretation of English nominal compounds,productive rules of interpretation,part of,model,rejected,no,The model ACCOUNTS FOR the rules; 'part of' is not stated.
+doc_05,Interpretation of English nominal compounds,morpho-syntactic and semantic characteristics,feature of,nominal constituents,kept,yes,Text: 'inferred from the morpho-syntactic and semantic characteristics of the nominal constituents'.
+doc_05,Interpretation of English nominal compounds,Pustejovsky 's principles,used for,predicative information associated with nominals,kept,no,Text: 'Pustejovsky's principles concerning the predicative information associated with nominals'.
+doc_05,Interpretation of English nominal compounds,model,used for,interpretation of compounds in real texts,kept,no,Text: 'this model may be applied to the interpretation of compounds in real texts'.
+doc_05,Interpretation of English nominal compounds,generalizable semantic principles,compare,domain-specific semantic information,kept,yes,Text: 'draw a line between generalizable semantic principles and domain-specific semantic information'.
+doc_05,Interpretation of English nominal compounds,complementary semantic information,used for,interpretation of compounds,rejected,no,"Text states it as a CONDITION ('provided that'), not an instrument; nuance lost."
+doc_06,Histogram-based interest point detectors,histogram information,used for,detecting interest points,kept,yes,Text: 'a new method for detecting interest points using histogram information'.
+doc_06,Histogram-based interest point detectors,existing interest point detectors,feature of,pixel-wise differences in image intensity,rejected,no,Inverted: existing detectors MEASURE pixel-wise differences; the differences are not a feature holder.
+doc_06,Histogram-based interest point detectors,histogram-based representations,part of,our detectors,kept,no,Text: 'our detectors incorporate histogram-based representations'.
+doc_06,Histogram-based interest point detectors,proposed detectors,used for,large-scale structures,kept,no,Text: 'able to capture large-scale structures'.
+doc_06,Histogram-based interest point detectors,proposed detectors,used for,distinctive textured patterns,kept,no,Same sentence: 'and distinctive textured patterns'.
+doc_06,Histogram-based interest point detectors,"invariance to rotation , illumination variation , and blur",feature of,proposed detectors,kept,no,"Text: 'exhibit strong invariance to rotation, illumination variation, and blur'."
+doc_06,Histogram-based interest point detectors,histogram-based interest point detectors,used for,matching textured scenes,kept,yes,Text: 'perform particularly well for the tasks of matching textured scenes'.
+doc_06,Histogram-based interest point detectors,repeatability,conjunction,distinctiveness,rejected,yes,These are the two evaluation criteria; listing them as a bare conjunction adds no relational knowledge.
+doc_06,Histogram-based interest point detectors,space-time interest point detection,used for,action classification,kept,yes,Text: 'space-time interest point detection for action classification'.
+doc_07,Plume restricted-domain parser,Plume,hyponym of,restricted domain parser,kept,yes,Text: 'a restricted domain parser called Plume'.
+doc_07,Plume restricted-domain parser,semantic caseframe instantiation,part of,Plume 's approach to parsing,kept,no,Text: 'Plume's approach to parsing is based on semantic caseframe instantiation'.
+doc_07,Plume restricted-domain parser,efficiency on grammatical input,feature of,semantic caseframe instantiation,kept,no,Text: 'This has the advantages of efficiency on grammatical input'.
+doc_07,Plume restricted-domain parser,robustness,feature of,ungrammatical input,rejected,no,"Robustness is a property of the PARSER in the face of ungrammatical input, not of the input."
+doc_07,Plume restricted-domain parser,Plume,used for,simple declarative and imperative utterances,kept,no,Text: 'Plume is well adapted to simple declarative and imperative utterances'.
+doc_07,Plume restricted-domain parser,"passives , relative clauses and interrogatives",part of,patchy syntactic coverage,rejected,no,These constructions CAUSE patchy coverage when handled ad hoc; 'part of' misstates it.
+doc_07,Plume restricted-domain parser,Plume,used for,passives,rejected,yes,Text says Plume handles passives in an AD HOC manner and the extension is future design; current claim overstated.
+doc_07,Plume restricted-domain parser,Carnegie-Mellon University,used for,Plume,rejected,no,Plume BUILDS ON previous work at CMU; a university is not 'used for' a parser.
+doc_08,Unlexicalized German parser (NEGRA),unlexicalized parser,used for,German,kept,yes,Text: 'an unlexicalized parser for German'.
+doc_08,Unlexicalized German parser (NEGRA),smoothing,conjunction,suffix analysis,kept,yes,Text: 'employs smoothing and suffix analysis'.
+doc_08,Unlexicalized German parser (NEGRA),smoothing and suffix analysis,used for,labelled bracket F-score of 76.2,kept,no,Text links the techniques to achieving the 76.2 F-score.
+doc_08,Unlexicalized German parser (NEGRA),NEGRA corpus,evaluate for,unlexicalized parser,kept,yes,Text: 'higher than previously reported results on the NEGRA corpus'.
+doc_08,Unlexicalized German parser (NEGRA),smoothing,used for,unlexicalized parser,kept,yes,Text: 'the use of smoothing in an unlexicalized parser'.
+doc_08,Unlexicalized German parser (NEGRA),smoothing,feature of,parsing results,rejected,no,Text discusses the INTERPLAY between smoothing and parsing results; 'feature of' unsupported.
+doc_09,Spectral clustering for entity relations,unsupervised learning approach,used for,disambiguate various relations between named entities,kept,no,Text: 'an unsupervised learning approach to disambiguate various relations between named entities'.
+doc_09,Spectral clustering for entity relations,lexical and syntactic features,used for,unsupervised learning approach,kept,yes,Text: 'by use of various lexical and syntactic features from the contexts'.
+doc_09,Spectral clustering for entity relations,eigenvectors of an adjacency graph 's Laplacian,used for,recover a submanifold of data,kept,no,Text: 'calculating eigenvectors of an adjacency graph's Laplacian to recover a submanifold of data'.
+doc_09,Spectral clustering for entity relations,cluster number estimation,used for,eigenvectors,rejected,yes,"Inverted: estimation is performed ON the eigenvectors, eigenvectors are the input not the goal."
+doc_09,Spectral clustering for entity relations,ACE corpora,evaluate for,spectral clustering based approach,kept,yes,Text: 'Experiment results on ACE corpora show ...'.
+doc_09,Spectral clustering for entity relations,spectral clustering based approach,compare,other clustering methods,kept,no,Text: 'outperforms the other clustering methods'.
+doc_09,Spectral clustering for entity relations,contexts,used for,lexical and syntactic features,rejected,no,Redundant with the kept features triple and 'contexts' alone is too vague an entity.
+doc_10,Mathematical formalism for combining structures,generic mathematical formalism,used for,combination of various structures,kept,no,Text: 'a generic mathematical formalism for the combination of various structures'.
+doc_10,Mathematical formalism for combining structures,strings,hyponym of,various structures,kept,no,"Text lists 'strings, trees, dags, graphs' as the structures."
+doc_10,Mathematical formalism for combining structures,trees,hyponym of,various structures,kept,no,Same list.
+doc_10,Mathematical formalism for combining structures,dags,hyponym of,various structures,kept,no,Same list.
+doc_10,Mathematical formalism for combining structures,graphs,hyponym of,various structures,kept,no,Same list.
+doc_10,Mathematical formalism for combining structures,polarization of the objects,used for,saturation of the final structure,kept,no,Text: 'The polarization of the objects ... controls the saturation of the final structure'.
+doc_10,Mathematical formalism for combining structures,formalism,used for,grammar formalisms,rejected,yes,The formalism SIMULATES grammar formalisms; 'used for' is the wrong relation and duplicates the hyponym rows.
+doc_10,Mathematical formalism for combining structures,rewriting systems,hyponym of,grammar formalisms,kept,yes,"Text: 'grammar formalisms, such as rewriting systems ...'."
+doc_10,Mathematical formalism for combining structures,dependency grammars,hyponym of,grammar formalisms,kept,yes,Same list.
+doc_10,Mathematical formalism for combining structures,TAG,hyponym of,grammar formalisms,kept,yes,Same list.
+doc_10,Mathematical formalism for combining structures,HPSG,hyponym of,grammar formalisms,kept,yes,Same list.
+doc_10,Mathematical formalism for combining structures,LFG,hyponym of,grammar formalisms,kept,yes,Same list.
+doc_11,Mixed-signal inner-product computation,mixed-signal paradigm,used for,high-resolution parallel inner-product computation,kept,yes,Text: 'A mixed-signal paradigm is presented for high-resolution parallel inner-product computation'.
+doc_11,Mixed-signal inner-product computation,mixed-signal paradigm,used for,efficient implementation of kernels in image processing,kept,no,Text: 'suitable for efficient implementation of kernels in image processing'.
+doc_11,Mixed-signal inner-product computation,analog array,part of,externally digital architecture,kept,no,Text: 'At the core of the externally digital architecture is a ... analog array'.
+doc_11,Mixed-signal inner-product computation,analog array,used for,binary-binary partial matrix-vector multiplication,kept,no,Text: 'analog array performing binary-binary partial matrix-vector multiplication'.
+doc_11,Mixed-signal inner-product computation,random modulation scheme,used for,near-Bernoulli statistics,kept,yes,Text: 'A random modulation scheme produces near-Bernoulli statistics'.
+doc_11,Mixed-signal inner-product computation,real image data,evaluate for,approach,kept,yes,Text: 'The approach is validated with real image data'.
+doc_11,Mixed-signal inner-product computation,CID/DRAM analog array prototype,evaluate for,approach,kept,no,Text: 'with experimental results from a CID/DRAM analog array prototype'.
+doc_11,Mixed-signal inner-product computation,random statistics,part of,analog summation of binary products,rejected,yes,Text says full resolution is OWED TO random statistics IN the summation; 'part of' garbles the causal claim.
+doc_12,Affine specialization of multifocal tensors,"projective unifocal , bifocal , and trifocal tensors",used for,affine case,rejected,no,"The tensors are SPECIALIZED TO the affine case, not used for it; relation wrong."
+doc_12,Affine specialization of multifocal tensors,affine specialization,part of,known projective relations,rejected,no,The specialization is derived FROM the projective relations; 'part of' inverts the derivation.
+doc_12,Affine specialization of multifocal tensors,trifocal tensor,feature of,affine cameras,rejected,no,Constraints on the tensor are given FOR affine cameras; the tensor is not a feature of cameras.
+doc_12,Affine specialization of multifocal tensors,factorization,used for,estimation of the tensors from point correspondences,kept,no,Text: 'estimation of the tensors from point correspondences is achieved through factorization'.
+doc_12,Affine specialization of multifocal tensors,line correspondences,used for,estimation of the tensors,kept,no,Text: 'discuss the estimation from line correspondences'.
+doc_12,Affine specialization of multifocal tensors,geometric interpretation,feature of,trifocal tensor,kept,no,"Text: 'constraints on the components of the trifocal tensor, together with a simple geometric interpretation'."
+doc_13,Thai noun classifier selection,algorithm,used for,selecting an appropriate classifier word for a noun,kept,no,Text: 'an algorithm for selecting an appropriate classifier word for a noun'.
+doc_13,Thai noun classifier selection,classifier selection,part of,Thai language,rejected,no,"Classifier selection is a phenomenon IN Thai, not a component of the language; vacuous as a KG fact."
+doc_13,Thai noun classifier selection,rule-based approach,used for,default rule,kept,no,Text: 'in the rule-based approach is to give a default rule'.
+doc_13,Thai noun classifier selection,corpus-based method,used for,Noun Classifier Associations -LRB- NCA -RRB-,kept,yes,Text: 'a corpus-based method ... which generates Noun Classifier Associations (NCA)'.
+doc_13,Thai noun classifier selection,Noun Classifier Associations -LRB- NCA -RRB-,used for,classifier assignment,kept,yes,Text: 'to overcome the problems in classifier assignment'.
+doc_13,Thai noun classifier selection,Noun Classifier Associations -LRB- NCA -RRB-,used for,semantic construction of noun phrase,kept,yes,Same sentence: 'and semantic construction of noun phrase'.
+doc_13,Thai noun classifier selection,concept hierarchy constraints,used for,Noun Classifier Associations -LRB- NCA -RRB-,rejected,no,NCA is recomposed UNDER the constraints; 'used for' reverses instrument and object.
+doc_13,Thai noun classifier selection,large corpus,used for,Noun Classifier Associations -LRB- NCA -RRB-,kept,no,Text: 'The NCA is created statistically from a large corpus'.
+doc_14,Transparent object shape recovery,perception of transparent objects from images,hyponym of,hard problem in vision,kept,no,Text: 'known to be a very hard problem in vision'.
+doc_14,Transparent object shape recovery,model-based approach,used for,recover the shapes and the poses of transparent objects,kept,no,Text: 'a novel model-based approach to recover the shapes and the poses of transparent objects'.
+doc_14,Transparent object shape recovery,known motion,used for,model-based approach,kept,no,Text: 'from known motion'.
+doc_14,Transparent object shape recovery,multiple layers with different refractive indices,part of,objects,kept,no,Text: 'composed of multiple layers with different refractive indices'.
+doc_14,Transparent object shape recovery,simulations,evaluate for,algorithm,kept,no,Text: 'conducted numerous simulations to verify the practical feasibility of our algorithm'.
+doc_14,Transparent object shape recovery,real scenes,evaluate for,algorithm,kept,no,Text: 'applied it to real scenes'.
+doc_14,Transparent object shape recovery,moving observer,used for,transparent objects,rejected,no,The paper explores what a moving observer can SAY ABOUT transparent objects; 'used for' unsupported.
+doc_14,Transparent object shape recovery,features,part of,transparent object,rejected,no,Text contrasts features imaged THROUGH the object with attached ones; 'part of' misreads it.
+doc_15,3D object category learning,probabilistic framework,used for,learning visual models of 3D object categories,kept,no,Text: 'a novel probabilistic framework for learning visual models of 3D object categories'.
+doc_15,3D object category learning,appearance information,conjunction,geometric constraints,kept,yes,Text: 'combining appearance information and geometric constraints'.
+doc_15,3D object category learning,parts,part of,objects,kept,no,Text: 'Objects are represented as a coherent ensemble of parts'.
+doc_15,3D object category learning,salient image features,part of,part,kept,no,Text: 'Each part is a collection of salient image features'.
+doc_15,3D object category learning,generative framework,used for,learning a model,kept,no,Text: 'A generative framework is used for learning a model'.
+doc_15,3D object category learning,model,feature of,relative position of parts,rejected,no,Inverted: the model CAPTURES the relative position; position is not a feature holder of the model.
+doc_15,3D object category learning,generative proba-bilistic framework,used for,3D object categorization,kept,yes,Text: 'among the first to propose a generative probabilistic framework for 3D object categorization'.
+doc_15,3D object category learning,car category,evaluate for,detection task,kept,no,Text: 'test our algorithm on the detection task ... by using car category'.
+doc_15,3D object category learning,Savarese et al. 2007,conjunction,PASCAL VOC 2006,kept,no,Text: 'from both the Savarese et al. 2007 and PASCAL VOC 2006 datasets'.
+doc_15,3D object category learning,detection and classification,used for,position and viewpoint of the model,rejected,no,Backwards: detection is achieved BY determining position and viewpoint; relation direction wrong.
