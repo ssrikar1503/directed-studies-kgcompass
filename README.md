@@ -11,6 +11,20 @@ science knowledge graph with verified triplet accuracy, feeding two research
 directions: evaluation of KG-construction approaches, and graph pruning for
 accuracy.
 
+## KG Quality Evaluation (Oct 2026)
+
+**`KG_Quality_Evaluation_Report.docx` / `.pdf`** - full evaluation of the
+AnimalRAG GraphRAG knowledge graphs (all 38 topic groups + test set,
+83,554 triples): judged triple accuracy (58% correct / 26% imprecise /
+16% wrong on a verified 50-triple sample), relation-vocabulary analysis
+(7,603 relation types, 56% singletons), 15.2% trivial triples, and a
+contradiction census (495 unqualified opposing-claim pairs, present in
+every group). Data behind every number:
+
+- `experiments/sumanth-kg-eval/all-groups/per_group_quality.csv`
+- `experiments/sumanth-kg-eval/all-groups/contradictions.csv`
+- `experiments/sumanth-kg-eval/sample50_judged.csv` (auditable verdicts)
+
 ## Repo contents
 
 - `STUDY_PLAN.md` - semester plan, capstone vs directed studies split
