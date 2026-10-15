@@ -1,0 +1,51 @@
+idx,subject,relation,object,effect,verdict,evidence_comment
+0,riboflavin,is component of,diet,neutral,correct,Rottger premix lists riboflavin 480 mg/kg; included via premix
+1,iodine,increases content in,thyroid gland,positive,correct,"Li: 10,000 ug I/kg raised thyroid iodine +122% vs control"
+2,high dietary iodine,increases,thyroid gland,positive,imprecise,"Schone: iodine raises thyroid IODINE STORES, not 'the thyroid gland'; object granularity wrong (gland enlargement is caused by glucosinolates, not iodine here)"
+3,animal feed,transfers to,pork,positive,imprecise,"It is IODINE from feed that transfers to pork, not 'animal feed'; wrong head entity"
+4,iodine,influences concentration in,skin,positive,correct,"Li: skin iodine +321%, dose influence p<0.01"
+5,iodine,has no effect on,carcass characteristics,neutral,correct,Li: carcass characteristics not influenced by iodine dose or source
+6,iodine,does not influence,thyroxine,neutral,correct,Li: T4 not influenced by supplementation
+7,iodine,increases in,meat,positive,correct,"Li: muscle iodine increased (+131% at 10,000 ug/kg KI), with source interaction"
+8,animal feed,transfers to,milk,positive,imprecise,"Iodine transfers to milk, not 'animal feed'; wrong head entity"
+9,iodized salt,is source of,iodine,positive,correct,Schone: iodized salt used in food processing and household as iodine source
+10,triiodothyronine,is measured in,plasma,neutral,correct,Li methods: T3 determined in plasma by ELISA
+11,spleen,is part of,empty body,neutral,wrong,"Rottger defines empty body as carcase WITHOUT head, innards and tibiotarsi; spleen is an innard weighed separately - contradicted by the source's own definition"
+12,potassium iodide,is source of,milk,positive,wrong,Garbled: KI is a source of IODINE used in dairy feeding; 'potassium iodide is source of milk' is nonsense
+13,glucosinolates,decreases,blood serum,negative,imprecise,"Schone: glucosinolates decreased serum IODINE level (at low iodine offer); object should be serum iodine, not 'blood serum', and the low-iodine condition is dropped"
+14,dry matter,is component of,diet,neutral,correct,Trivial but supported: DM analyzed in diets
+15,thyroid gland,reflects better than,blood serum,positive,correct,Schone: 'thyroid iodine reflected the dietary iodine better than blood serum iodine'
+16,iodine,is concentrated in,meat,neutral,wrong,Contradicts source: Schone concludes iodine CANNOT be concentrated in pork ('no possibilities to concentrate this trace element...in pork'); its own description admits fortification failed
+17,iodine,is measured in,thyroid gland,neutral,correct,Trivial but supported: thyroid iodine analyzed by ICP-MS
+18,potassium iodide,increases,liver,positive,imprecise,Rottger: KI increases iodine CONCENTRATION IN liver; 'increases liver' is wrong object granularity
+19,iodine,causes,hypothyroidism,negative,imprecise,"Li: EXCESS iodine intake leads to hypothyroidism; the condition 'excess' is dropped, making the flat triple misleading"
+20,iodine,is associated with,triiodothyronine,neutral,imprecise,Relation 'is associated with' is uninformative; the actual finding was NO significant change in T3 - the relation fails to carry it
+21,rape,reduces,thyroid gland,negative,wrong,Surface inverted: Schone shows rapeseed INCREASED thyroid weight (enlargement) while reducing thyroid IODINE stores; 'rape reduces thyroid gland' asserts the opposite of the gland-size finding
+22,ash,is measured in,feed,neutral,correct,Trivial but supported: ash determined in diets
+23,high dietary iodine,increases,blood serum,positive,imprecise,Increases blood serum IODINE CONCENTRATION; 'increases blood serum' wrong granularity
+24,potassium iodide,decreases,triiodothyronine,negative,imprecise,"Li reports this as ANOTHER study's finding (Schone 1999, 10,000 ug/kg); present study found NO T3 effect; attribution and dose condition dropped"
+25,iodine,is concentrated in,milk,positive,correct,Li: carryover of iodine into milk much higher than into pork
+26,potassium iodate,is related to,iodine,positive,imprecise,True but uninformative: relation should be 'is source of' (KIO3 supplies iodine); 'is related to' carries no knowledge
+27,swine feed,improves,human iodine supply,positive,wrong,"Citation-context leak: Li CITES Rambeck's aim of improving human iodine supply via swine feed, but the paper's own conclusion is that pork contribution is MARGINAL"
+28,liver,accumulates,iodine,positive,correct,Rottger: liver iodine higher than meat and rises with dose
+29,fattening pig,serves as a model for,human,neutral,correct,Li: pig might serve as a model for dietary iodine excess in humans (hedge 'might' dropped but minor)
+30,iodine,has no significant impact on,growth performance,neutral,correct,Rottger conclusion: no significant impact on growing performance
+31,blood serum,is measured for,iodine,neutral,correct,Trivial but supported: serum iodine measured
+32,dry matter,is measured in,feed,neutral,correct,Trivial but supported: DM determined in diets
+33,iodine,poses no risk to,human_health,neutral,wrong,Dangerous overgeneralization: Li says no risk of iodine excess FROM PORK at these feed levels; flat 'iodine poses no risk to human health' contradicts the same paper's excess-iodine-causes-hypothyroidism statement (and triple 19 in the same graph)
+34,iodine source,influences,iodine content in tissue,positive,correct,Li: iodine source is a major influencing factor on tissue iodine; KI accumulated more than KIO3 in muscle
+35,pectoral meat,is measured for,iodine,neutral,correct,Trivial but supported: pectoral meat iodine measured
+36,iodine,increases,blood serum,positive,imprecise,Same as 23: object should be serum iodine concentration
+37,mineral premix,is component of,grower diet,positive,correct,Li Table 1: mineral premix 3% of grower diet
+38,iodine source,has no effect on,average daily gain,neutral,wrong,"Contradicted: Li found a SIGNIFICANT iodine source influence on ADG over the entire period (p=0.041, KIO3 lower than KI); description cherry-picks the finisher phase"
+39,iodine,does not affect,fattening performance,neutral,correct,Schone conclusion: moderate and high iodine dosages did not affect fattening performance
+40,vitamin A,is component of,diet,neutral,correct,Rottger premix lists vitamin A
+41,iodine,is measured in,tissue,neutral,correct,Trivial but supported: iodine measured in various tissues
+42,iodine,affects,fattening performance,neutral,wrong,Self-contradicting: relation says 'affects' while its own description and the source say iodine did NOT affect fattening performance; also directly contradicts triple 39 in the same graph
+43,iodine,induces,hypothyroidism,positive,imprecise,Schone cites iodine-INDUCED hypothyroidism under overdose (Markou); condition dropped as in 19
+44,HCl-lysine,is component of,grower diet,positive,correct,Li Table 1: HCl-lysine 0.20% of grower diet
+45,iodine,has no effect on,carcass parameters,neutral,correct,Li: no supplementation or source influence on any carcass parameters
+46,iodine,has no impact on,body weight gain,neutral,correct,Rottger: no significant effect on body weight gain
+47,peas,is component of,grower diet,neutral,correct,Li Table 1: peas 7.5% of grower diet
+48,iodine,is required for synthesis of,tetraiodothyronine,positive,correct,Rottger intro: iodine required for synthesis of T3 and T4
+49,iodine supplementation,increases,iodine,positive,imprecise,Tautological surface 'increases iodine'; means raised iodine CONCENTRATION in tissues and serum; object truncated
