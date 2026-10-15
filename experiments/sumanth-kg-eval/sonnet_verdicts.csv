@@ -1,0 +1,51 @@
+idx,verdict,evidence
+0,correct,Rottger premix lists 480 mg riboflavin per kg in broiler diets.
+1,correct,Li: 10000 ug I/kg increased thyroid iodine content (+122%).
+2,imprecise,"Schone: high dietary iodine increases thyroid iodine stores, not the gland itself."
+3,imprecise,Li: iodine from animal feed is transferred to food; triple drops iodine as the transferred entity.
+4,correct,Li: significant iodine dose influence on skin iodine (p<0.01).
+5,correct,Li: carcass composition did not differ; no iodine effect on any carcass parameter.
+6,correct,Li: neither T4 nor T3 nor their ratio influenced by iodine supplementation.
+7,imprecise,Li: dietary iodine raised muscle iodine but Schone found little effect; subject/relation vague.
+8,imprecise,Li: carryover of iodine from feed into milk is high; triple drops iodine as transferred entity.
+9,correct,Li: iodized salt most popular in human nutrition to compensate low iodine intake.
+10,correct,Li: T4 and T3 in plasma determined by ELISA.
+11,imprecise,Rottger: spleen and empty body were each weighed for carcase composition; spleen not part of empty body.
+12,wrong,Garbled: no paper says potassium iodide is a source of milk.
+13,imprecise,Schone: rapeseed cake with glucosinolates decreased serum IODINE when iodine offer was low.
+14,correct,Li Table 1 lists dry matter in analyzed diet composition (weak but supported).
+15,imprecise,Schone: thyroid IODINE reflected DIETARY iodine better than serum iodine; entities simplified.
+16,wrong,Schone: muscle must be classified as a low iodine food; iodine not concentrated in meat.
+17,correct,Schone/Rottger: iodine concentration analysed in thyroid tissue.
+18,imprecise,"Rottger: KI raised liver iodine concentration, not the liver itself."
+19,imprecise,Li: EXCESS iodine intake leads to hypothyroidism; condition dropped.
+20,imprecise,Li: T3 not changed by iodine; relation is uninformative and hides the null result.
+21,imprecise,Schone: rape-fed pigs had lower thyroid iodine stores; also depends on glucosinolates/low iodine.
+22,correct,Schone: ash content determined in feed.
+23,imprecise,"Schone: high dietary iodine increases serum iodine concentration, not serum."
+24,imprecise,Li cites Schone 2006 for T3 decrease at 10000 KI; its own data show no effect; condition dropped.
+25,correct,Li: carryover of iodine into milk is much higher than into pork.
+26,imprecise,Rottger tested calcium iodate Ca(IO3)2 in broilers not potassium iodate; relation vague.
+27,imprecise,Li: pork contribution to human iodine intake is marginal; claim only in a cited title.
+28,correct,Rottger: liver iodine higher than meat.
+29,correct,Li: the pig might serve as a model to study dietary iodine excess in humans.
+30,correct,Rottger: iodine treatment did not significantly affect growth performance.
+31,correct,Rottger: iodine measured in blood serum.
+32,correct,Schone: dry matter determined in feed.
+33,imprecise,Li: no risk of excess in human nutrition at feed levels up to EU limit; condition dropped.
+34,imprecise,Li: source effects mostly nonsignificant; source as major factor is speculation across studies.
+35,correct,Rottger: iodine determined in pectoral meat.
+36,imprecise,"Schone: higher dietary iodine increases serum iodine concentration, not serum."
+37,correct,Li Table 1: mineral premix 3.0% in grower diet.
+38,imprecise,Li: ADG did not differ in finisher but source significantly affected ADG overall; phase dropped.
+39,correct,Schone: iodine dosages did not affect fattening performance.
+40,correct,Rottger: premix contains 360 mg vitamin A per kg.
+41,correct,Rottger: iodine measured in thyroid liver pectoral and thigh meat of broilers.
+42,wrong,Schone: different iodine dosages did not affect fattening performance; triple inverts.
+43,imprecise,Hypothyroidism arises from excess (or deficiency) iodine; condition dropped.
+44,correct,Li Table 1: HCl-lysine 0.20% in grower diet.
+45,correct,Li: no iodine supplementation or source influence on any carcass parameters.
+46,correct,Rottger: no significant impact on FI BWG or FCR.
+47,correct,Li Table 1: peas 7.5% in grower diet.
+48,correct,Rottger: iodine required for synthesis of T3 and T4 (tetraiodothyronine).
+49,imprecise,Rottger: supplementation raised iodine CONCENTRATION in tissues/serum; triple tautological.
