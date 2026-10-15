@@ -5,7 +5,7 @@ g10 Cattle_Influence_Meat,pea diet,does not increase,influences,m. longissimus d
 g10 Cattle_Influence_Meat,lake fodder,increases,reduces,cow milk
 g10 Cattle_Influence_Meat,soybean oil,does not affect,influences,taihe silky fowl
 g10 Cattle_Influence_Meat,cortisol,did not correlate with,influences,learning performance
-g10 Cattle_Influence_Meat,cortisol,did not correlate with,influences,memory performance
+g10 Cattle_Influence_Meat,cortisol,does not correlate with,influences,memory performance
 g10 Cattle_Influence_Meat,immunopotentiator,increases,decreases,bcl 2
 g10 Cattle_Influence_Meat,chlorogenic acid,increases,reduces,bcl 2
 g10 Cattle_Influence_Meat,fish oil,does not affect,influences,taihe silky fowl
@@ -13,11 +13,11 @@ g10 Cattle_Influence_Meat,palm oil,does not affect,influences,taihe silky fowl
 g02 Chicken_Calcium_Enriched,camelina cake,increases,reduces,saturated fatty acids
 g02 Chicken_Calcium_Enriched,lys3 mutant,has no change in,increases,d-hordein
 g02 Chicken_Calcium_Enriched,feeding intensity,increases,decreases,zinc
-g02 Chicken_Calcium_Enriched,calcium,has no effect on,affects,iron
+g02 Chicken_Calcium_Enriched,calcium,has no effect on,increases,iron
 g02 Chicken_Calcium_Enriched,camelina cake,does not increase,increases,docosapentaenoic acid
 g02 Chicken_Calcium_Enriched,camelina cake,no increase,increases,docosahexaenoic acid
-g02 Chicken_Calcium_Enriched,body weight,does not change,affects,copper
-g02 Chicken_Calcium_Enriched,camelina seed,has no effect on,reduces,body weight
+g02 Chicken_Calcium_Enriched,body weight,does not change,influences,copper
+g02 Chicken_Calcium_Enriched,camelina seed,has no effect on,influences,body weight
 g02 Chicken_Calcium_Enriched,camelina oil,has no effect,influences,body weight
 g02 Chicken_Calcium_Enriched,camelina oil,has no effect,increases,crude protein
 g02 Chicken_Calcium_Enriched,camelina cake,increases,reduces,feed intake
@@ -31,7 +31,7 @@ g02 Chicken_Calcium_Enriched,lys3.a mutant,increases,reduces,gamma-3 hordein
 g02 Chicken_Calcium_Enriched,rapeseed feed,increases,decreases,willingness to pay
 g02 Chicken_Calcium_Enriched,extrusion,increases,reduces,amino acid digestibility
 g03 Model_Production_Male,oak fruit,increases,reduces,volatile fatty acids
-g03 Model_Production_Male,oak fruit,has no significant effect on,increases,microbial protein
+g03 Model_Production_Male,oak fruit,has no significant effect on,influences,microbial protein
 g03 Model_Production_Male,diazinon,increases,reduces,superoxide dismutase
 g03 Model_Production_Male,carbon dioxide,boosts,suppresses,photosynthesis
 g03 Model_Production_Male,diazinon,increases,reduces,17-beta estradiol
@@ -72,17 +72,17 @@ g16 Nutrition_Human_Products,selenium,has no effect on,impacts,muscle fat
 g16 Nutrition_Human_Products,selenium,increases,reduces,backfat
 g16 Nutrition_Human_Products,hydrochloric acid,does not affect,increases,microplastics
 g16 Nutrition_Human_Products,monounsaturated fatty acids,has no effect,influences,insulin secretion
-g41 Organic_Acids_Essential,essential oils,increases,reduces,voluntary feed intake
-g41 Organic_Acids_Essential,organic acids,has no effect on,improves,voluntary feed intake
+g41 Organic_Acids_Essential,essential oils,increases,decreases,voluntary feed intake
+g41 Organic_Acids_Essential,organic acids,has no effect on,influences,voluntary feed intake
 g41 Organic_Acids_Essential,organic acids,increases,reduces,nitrogen
-g41 Organic_Acids_Essential,organic acids,not affect,improves,egg quality
+g41 Organic_Acids_Essential,organic acids,not affect,influences,egg quality
 g41 Organic_Acids_Essential,essential oils,increases,decreases,feed intake
-g41 Organic_Acids_Essential,citric acid,does not affect,improves,crude protein
+g41 Organic_Acids_Essential,citric acid,does not affect,increases,crude protein
 g41 Organic_Acids_Essential,organic acids,increases,decreases,feed
-g41 Organic_Acids_Essential,organic acids,has no effect on,reduces,feed intake
+g41 Organic_Acids_Essential,organic acids,has no effect on,increases,feed intake
 g41 Organic_Acids_Essential,organic acids,is not effective,increases,small intestine
 g41 Organic_Acids_Essential,formic acid,does not significantly affect,influences,intestinal microbiota
-g41 Organic_Acids_Essential,citric acid,does not improve utilization of,improves,phosphorus
+g41 Organic_Acids_Essential,citric acid,does not improve utilization of,increases,phosphorus
 g41 Organic_Acids_Essential,citric acid,does not affect,improves,amino acid
 g41 Organic_Acids_Essential,sodium butyrate,has no additional effect on,improves,feed conversion ratio
 g41 Organic_Acids_Essential,acidified drinking water,increases,decreases,body weight
@@ -94,10 +94,10 @@ g15 Nutrition_Human_Novel,cotton,does not affect,affects,dry matter
 g15 Nutrition_Human_Novel,thermal processing,increases,reduces,cholesterol
 g15 Nutrition_Human_Novel,heat treatment,has no effect on,increases,20α-hydroxycholesterol
 g08 What_Cryptoxanthin_Vitamin,high-β-cryptoxanthin maize,does not increase,increases,egg yolk
-g08 What_Cryptoxanthin_Vitamin,boron,has no negative effect on,affects,immune status
+g08 What_Cryptoxanthin_Vitamin,boron,does not affect,affects,immune status
 g08 What_Cryptoxanthin_Vitamin,boron,has no negative effect on,affects,growth
 g08 What_Cryptoxanthin_Vitamin,boron,has no negative effect on,affects,calcium
-g08 What_Cryptoxanthin_Vitamin,boron,has no negative effect on,affects,magnesium
+g08 What_Cryptoxanthin_Vitamin,boron,has no negative effect on,increases,magnesium
 testset,fish oil,has no effect on,increases,eicosapentaenoic acid
 testset,aflatoxin b1,increases,decreases,glutathione peroxidase
 testset,deoxynivalenol,has no effect on,affects,total antioxidant capacity
@@ -120,43 +120,43 @@ g30 Performance_Digestive_Enzymes,cluster bean peptide,increases,reduces,amylase
 g30 Performance_Digestive_Enzymes,tomato pomace,no effect,increases,glutathione peroxidase
 g30 Performance_Digestive_Enzymes,lycopene,does not change,affects,laying hen
 g28 Feed_Human_Moringa,moringa oleifera,increases,reduces,goat milk
-g28 Feed_Human_Moringa,moringa oleifera,has no negative effect on,improves,milk yield
-g28 Feed_Human_Moringa,moringa oleifera,has no effect on,improves,growth performance
+g28 Feed_Human_Moringa,moringa oleifera,has no effect,increases,milk yield
+g28 Feed_Human_Moringa,moringa oleifera,has no effect on,influences,growth performance
 g28 Feed_Human_Moringa,moringa oleifera,increases,reduces,alpha-tocopherol
-g28 Feed_Human_Moringa,moringa oleifera,has no negative effect on,improves,nutrient digestibility
-g28 Feed_Human_Moringa,moringa oleifera,does not affect,improves,feed intake
-g28 Feed_Human_Moringa,moringa oleifera,has no impact on,lowers,feed conversion ratio
+g28 Feed_Human_Moringa,moringa oleifera,has no negative effect on,affects,nutrient digestibility
+g28 Feed_Human_Moringa,moringa oleifera,does not affect,increases,feed intake
+g28 Feed_Human_Moringa,moringa oleifera,has no impact on,increases,feed conversion ratio
 g28 Feed_Human_Moringa,moringa oleifera,increases,decreases,crude protein
 g28 Feed_Human_Moringa,moringa oleifera,has no impact on,improves,average daily weight gain
-g28 Feed_Human_Moringa,moringa oleifera leaf meal,has no impact on,improves,average daily weight gain
+g28 Feed_Human_Moringa,moringa oleifera leaf meal,has no impact on,increases,average daily weight gain
 g28 Feed_Human_Moringa,moringa oleifera leaf meal,has no significant effect on,increases,body weight
-g28 Feed_Human_Moringa,ulva rigida,has no negative effect,improves,growth performance
+g28 Feed_Human_Moringa,ulva rigida,has no significant effect on,affects,growth performance
 g28 Feed_Human_Moringa,ulva rigida,has no negative effect on,affects,body composition
 g28 Feed_Human_Moringa,porphyra dioica,has no negative effect on,affects,growth performance
 g13 Iodine_Thyroid_Content,iodine,does not affect,influences,thyroid gland
 g13 Iodine_Thyroid_Content,iodine,does not influence,influences,feed conversion ratio
 g13 Iodine_Thyroid_Content,iodine,has no significant impact on,influences,growth performance
-g13 Iodine_Thyroid_Content,iodine,has no effect on,reduces,average daily gain
+g13 Iodine_Thyroid_Content,iodine,has no effect on,influences,average daily gain
 g13 Iodine_Thyroid_Content,glucosinolates,increases,decreases,blood serum
-g13 Iodine_Thyroid_Content,iodine,does not affect,affects,fattening performance
+g13 Iodine_Thyroid_Content,iodine,has no effect on,affects,fattening performance
 g13 Iodine_Thyroid_Content,iodine,has no significant effect on,affects,slaughtering performance
 g13 Iodine_Thyroid_Content,iodine,does not influence,influences,thyroxine
 g13 Iodine_Thyroid_Content,iodine,does not influence,influences,triiodothyronine
 g13 Iodine_Thyroid_Content,iodine,has no effect on,influences,carcass characteristics
-g13 Iodine_Thyroid_Content,iodine,does not affect,impacts,growth
+g13 Iodine_Thyroid_Content,iodine,does not affect,affects,growth
 g13 Iodine_Thyroid_Content,iodine,does not affect,impacts,slaughter performance
 g13 Iodine_Thyroid_Content,feed iodine concentration,increases,decreases,thyroid gland
 g27 Meat_Quality_Factors,black soldier fly larvae meal,does not significantly affect,increases,monounsaturated fatty acids
 g27 Meat_Quality_Factors,black soldier fly meal,does not reduce,reduces,breast weight
 g27 Meat_Quality_Factors,black soldier fly meal,does not compromise,affects,meat quality
-g23 Acid_Fatty_Oil,ahiflower oil,does not differ,increases,eicosapentaenoic acid
+g23 Acid_Fatty_Oil,ahiflower oil,does not differ,diminishes,eicosapentaenoic acid
 g23 Acid_Fatty_Oil,flaxseed oil,increases,decreases,very-long-chain n-3 fatty acids
 g23 Acid_Fatty_Oil,fish oil,has no effect on,increases,eicosapentaenoic acid
 g23 Acid_Fatty_Oil,ahiflower oil,has no effect on,influences,egg yolk
 g23 Acid_Fatty_Oil,ahiflower oil,does not differ,increases,docosapentaenoic acid
 g23 Acid_Fatty_Oil,cinnamon essential oil,increases,reduces,saturated fatty acids
 g23 Acid_Fatty_Oil,cinnamon essential oil,increases,reduces,polyunsaturated fatty acids
-g23 Acid_Fatty_Oil,cinnamomum cassia essential oil,increases,reduces,saturated fatty acids
+g23 Acid_Fatty_Oil,cinnamomum cassia essential oil,increases,diminishes,saturated fatty acids
 g23 Acid_Fatty_Oil,extruded linseed,has no effect,reduces,saturated fatty acids
 g23 Acid_Fatty_Oil,extruded linseed,has no effect,increases,monounsaturated fatty acids
 g23 Acid_Fatty_Oil,vitamin e,has no effect on,influences,conjugated linoleic acid
@@ -176,25 +176,25 @@ g23 Acid_Fatty_Oil,cinnamomum cassia essential oil,has no effect on,influences,c
 g23 Acid_Fatty_Oil,cinnamomum cassia essential oil,increases,reduces,reactive oxygen species
 g23 Acid_Fatty_Oil,cinnamomum cassia essential oil,increases,reduces,lipid peroxidation
 g23 Acid_Fatty_Oil,cinnamomum cassia essential oil,increases,decreases,antioxidant capacity
-g14 Acid_Milk_Fatty,hemp seed,does not negatively affect,improves,goat milk
+g14 Acid_Milk_Fatty,hemp seed,does not negatively affect,modifies,goat milk
 g14 Acid_Milk_Fatty,concentrate,increases,decreases,linoleic acid
-g14 Acid_Milk_Fatty,mixed shrubs–grass rangeland,does not negatively affect,improves,goat milk
-g14 Acid_Milk_Fatty,saturated fatty acids,increases in,reduces,goat milk
+g14 Acid_Milk_Fatty,mixed shrubs–grass rangeland,does not negatively affect,influences,goat milk
+g14 Acid_Milk_Fatty,saturated fatty acids,increases,decreases,goat milk
 g14 Acid_Milk_Fatty,hempseed cake,increases,decreases,milk fat
 g14 Acid_Milk_Fatty,aflatoxin,does not affect,affects,dry matter intake
-g14 Acid_Milk_Fatty,concentrate,increases,reduces,conjugated linoleic acid
+g14 Acid_Milk_Fatty,concentrate,increases,decreases,conjugated linoleic acid
 g14 Acid_Milk_Fatty,hemp seed,does not negatively affect,increases,milk yield
 g14 Acid_Milk_Fatty,hemp seed,does not change,increases,vitamin a
 g14 Acid_Milk_Fatty,hempseed cake,increases,decreases,goat milk
-g14 Acid_Milk_Fatty,forage lucerne,has no effect on,affects,milk yield
+g14 Acid_Milk_Fatty,forage lucerne,has no effect on,influences,milk yield
 g14 Acid_Milk_Fatty,forage lucerne,has no effect on,increases,nitrogen
 g14 Acid_Milk_Fatty,oilseed byproducts,does not lead to detrimental effects on,influences,goat milk
 g14 Acid_Milk_Fatty,"hemp, pumpkin, and sunflower byproduct",increases,reduces,omega-6 fatty acids
-g14 Acid_Milk_Fatty,herbage,has no effect on,increases,butyric acid
+g14 Acid_Milk_Fatty,herbage,has no effect on,influences,butyric acid
 g14 Acid_Milk_Fatty,hemp seed,does not change,decreases,delta-9-desaturase
 g14 Acid_Milk_Fatty,linoleic acid,increases,reduces,milk fat
-g14 Acid_Milk_Fatty,sunflower meal,does not adversely affect,decreases,milk yield
-g14 Acid_Milk_Fatty,linseed byproducts,does not significantly alter,reduces,milk yield
+g14 Acid_Milk_Fatty,sunflower meal,has no detrimental effect on,decreases,milk yield
+g14 Acid_Milk_Fatty,linseed byproducts,has no significant effect on,increases,milk yield
 g14 Acid_Milk_Fatty,hempseed cake,increases,reduces,stearic acid
 g14 Acid_Milk_Fatty,hempseed cake,increases,decreases,saturated fatty acids
 g14 Acid_Milk_Fatty,egg yolk,has no effect on,increases,ldl:hdl ratio
@@ -205,7 +205,7 @@ g14 Acid_Milk_Fatty,pumpkin seed byproducts,has no effect on,improves,fatty acid
 g14 Acid_Milk_Fatty,"hemp, pumpkin, and sunflower byproduct",increases,reduces,polyunsaturated fatty acids
 g14 Acid_Milk_Fatty,silicoglycidol,does not affect,improves,dry matter digestibility
 g37 Carcass_Meat_Performance,orange essential oil,increases,reduces,dry matter intake
-g37 Carcass_Meat_Performance,portulaca oleracea,does not affect,improves,carcass traits
+g37 Carcass_Meat_Performance,portulaca oleracea,does not affect,influences,carcass traits
 g37 Carcass_Meat_Performance,monascus purpureus,increases,decreases,fermented moringa oleifera
 g37 Carcass_Meat_Performance,fermented moringa oleifera leaves,increases,reduces,broiler breast meat
 g37 Carcass_Meat_Performance,moringa oleifera,increases,reduces,production performance
@@ -217,11 +217,11 @@ g37 Carcass_Meat_Performance,sodium monensin,increases,reduces,feed efficiency
 g37 Carcass_Meat_Performance,moringa oleifera,does not affect,influences,eviscerated yield
 g37 Carcass_Meat_Performance,monascus-fermented moringa oleifera,increases,decreases,l* value
 g37 Carcass_Meat_Performance,fermented moringa oleifera,increases,decreases,shear value
-g37 Carcass_Meat_Performance,soybean oil,does not affect,influences,growth performance
+g37 Carcass_Meat_Performance,soybean oil,does not alter,influences,growth performance
 g37 Carcass_Meat_Performance,soybean oil,does not affect,reduces,cholesterol
 g37 Carcass_Meat_Performance,soybean oil,does not affect,reduces,triglycerides
 g37 Carcass_Meat_Performance,soybean oil,increases,reduces,myristic acid
-g37 Carcass_Meat_Performance,sunflower oil,does not affect,influences,growth performance
+g37 Carcass_Meat_Performance,sunflower oil,does not alter,influences,growth performance
 g37 Carcass_Meat_Performance,sunflower oil,does not increase,increases,palmitic acid
 g37 Carcass_Meat_Performance,oil,has no effect on,influences,total gain
 g37 Carcass_Meat_Performance,oil,has no effect on,influences,average daily gain
@@ -230,20 +230,20 @@ g37 Carcass_Meat_Performance,orange essential oil,does not affect,influences,eat
 g37 Carcass_Meat_Performance,orange essential oil,increases,reduces,cold carcass weight
 g37 Carcass_Meat_Performance,orange essential oil,increases,decreases,hydroxyprolin index
 g37 Carcass_Meat_Performance,nettle meal,has no effect on,influences,feed intake
-g29 Performance_Growth_Digest,soil,increases,reduces,ferrum
+g29 Performance_Growth_Digest,soil,increases,decreases,ferrum
 g29 Performance_Growth_Digest,malondialdehyde,has no effect on,reduces,peroxidase
-g29 Performance_Growth_Digest,soil,has no effect on,impacts,growth performance
+g29 Performance_Growth_Digest,soil,has no effect on,influences,growth performance
 g29 Performance_Growth_Digest,soil,increases,decreases,zinc
 g29 Performance_Growth_Digest,toxin binder,increases,reduces,aflatoxin b1
 g29 Performance_Growth_Digest,soil,increases,decreases,cuprum
 g29 Performance_Growth_Digest,malondialdehyde,has no effect on,reduces,superoxide dismutase
 g29 Performance_Growth_Digest,encapsulated organic acids,has no effect on,reduces,coliforms
 g29 Performance_Growth_Digest,soil,increases,decreases,lead
-g29 Performance_Growth_Digest,soybean lecithin,has no effect,improves,feed conversion ratio
+g29 Performance_Growth_Digest,soybean lecithin,does not change,improves,feed conversion ratio
 g29 Performance_Growth_Digest,encapsulated organic acids,has no effect on,increases,lactobacillus
 g29 Performance_Growth_Digest,aflatoxin b1,has no effect on,increases,spleen
-g29 Performance_Growth_Digest,malondialdehyde,has no effect on,affects,growth performance
-g29 Performance_Growth_Digest,soybean lecithin,has no effect,reduces,feed intake
+g29 Performance_Growth_Digest,malondialdehyde,has no effect on,influences,growth performance
+g29 Performance_Growth_Digest,soybean lecithin,has no effect,increases,feed intake
 g29 Performance_Growth_Digest,aflatoxin b1,increases,reduces,heterophil
 g29 Performance_Growth_Digest,soil,increases,reduces,potassium
 g29 Performance_Growth_Digest,soil,increases,reduces,sodium
@@ -253,8 +253,8 @@ g29 Performance_Growth_Digest,organic acid,has no significant effect on,increase
 g29 Performance_Growth_Digest,malondialdehyde,has no effect on,reduces,ca2+/mg2+-atpase
 g29 Performance_Growth_Digest,malondialdehyde,has no effect on,reduces,intestinal fold
 g29 Performance_Growth_Digest,malondialdehyde,has no effect on,reduces,muscular thickness
-g29 Performance_Growth_Digest,soybean lecithin,has no effect on,improves,yolk color
-g29 Performance_Growth_Digest,soybean lecithin,has no interaction with,improves,fat digestibility
+g29 Performance_Growth_Digest,soybean lecithin,has no effect on,increases,yolk color
+g29 Performance_Growth_Digest,soybean lecithin,has no interaction with,influences,fat digestibility
 g29 Performance_Growth_Digest,but,does not reduce,increases,cloacal endotoxin
 g29 Performance_Growth_Digest,but,increases,decreases,gram-negative bacteria
 g29 Performance_Growth_Digest,butyric acid,increases,reduces,feed intake
@@ -263,17 +263,17 @@ g29 Performance_Growth_Digest,bacillus pumilus sa388,increases,decreases,feed in
 g29 Performance_Growth_Digest,aflatoxin b1,increases,reduces,heart
 g29 Performance_Growth_Digest,aflatoxin b1,increases,reduces,leukocyte
 g29 Performance_Growth_Digest,aflatoxin b1,increases,reduces,heterophil to lymphocyte ratio
-g29 Performance_Growth_Digest,aflatoxin b1,has no effect on,reduces,antibody titer
+g29 Performance_Growth_Digest,aflatoxin b1,has no significant effect on,reduces,antibody titer
 g29 Performance_Growth_Digest,aflatoxin b1,has no effect,reduces,breast muscle
 g29 Performance_Growth_Digest,erythromycin,does not prevent reduction of,reduces,lactobacillus
 g29 Performance_Growth_Digest,soil,increases,reduces,crude lipid
 g29 Performance_Growth_Digest,soil,has no effect on,affects,digestibility
 g29 Performance_Growth_Digest,organic acid,has no effect on,influences,digestibility
 g29 Performance_Growth_Digest,organic acid,has no significant effect on,influences,carcass characteristics
-g29 Performance_Growth_Digest,basal diet,has no effect on,affects,cloacal endotoxin
+g29 Performance_Growth_Digest,basal diet,has no effect on,influences,cloacal endotoxin
 g29 Performance_Growth_Digest,malondialdehyde,has no effect on,reduces,feed utilization
 g29 Performance_Growth_Digest,soybean lecithin,increases,reduces,egg mass
-g29 Performance_Growth_Digest,soybean lecithin,has no effect,increases,body weight
+g29 Performance_Growth_Digest,soybean lecithin,does not change,increases,body weight
 g29 Performance_Growth_Digest,soybean lecithin,does not change,increases,average daily feed intake
 g29 Performance_Growth_Digest,campylobacter jejuni,increases,reduces,crypt depth
 g01 Review_Dairy_Based,selenium,poses no threat to,impacts,human health
@@ -283,18 +283,18 @@ g01 Review_Dairy_Based,balanced ration,no change,increases,uric acid
 g01 Review_Dairy_Based,liver,does not significantly affect,affects,human intake
 g01 Review_Dairy_Based,ascorbic acid,does not enhance,affects,zinc
 g01 Review_Dairy_Based,microbial phytase,increases,reduces,phosphorous
-g01 Review_Dairy_Based,microbial phytase,does not increase uptake of,affects,cadmium
+g01 Review_Dairy_Based,microbial phytase,does not increase,affects,cadmium
 g01 Review_Dairy_Based,nitrogen retention,does not overlap with,increases,nitrogen use efficiency
 g01 Review_Dairy_Based,nitrogen intake,does not overlap with,reduces,nitrogen use efficiency
 g07 Biohydrogenation_Unsat_Fatty,ensiled olive cake,increases,reduces,saturated fatty acids
-g07 Biohydrogenation_Unsat_Fatty,ensiled olive cake,does not affect,improves,dairy products
+g07 Biohydrogenation_Unsat_Fatty,ensiled olive cake,does not affect,increases,dairy products
 g07 Biohydrogenation_Unsat_Fatty,ensiled olive cake,increases,decreases,monounsaturated fatty acids
-g07 Biohydrogenation_Unsat_Fatty,starch,has no effect on,affects,biohydrogenation
+g07 Biohydrogenation_Unsat_Fatty,starch,has no significant effect on,influences,biohydrogenation
 g07 Biohydrogenation_Unsat_Fatty,microbial phytase,increases,reduces,phosphorus
 g07 Biohydrogenation_Unsat_Fatty,seleno-methionine,increases,reduces,stearic acid
 g07 Biohydrogenation_Unsat_Fatty,alpha-linolenic acid,has no effect on,increases,saturated fatty acids
 g07 Biohydrogenation_Unsat_Fatty,alpha-linolenic acid,increases,reduces,stearic acid
-g07 Biohydrogenation_Unsat_Fatty,strontium,no interaction with,improves,breaking strength
+g07 Biohydrogenation_Unsat_Fatty,strontium,no interaction with,increases,breaking strength
 g07 Biohydrogenation_Unsat_Fatty,strontium,no interaction with,increases,bone mineral content
 g07 Biohydrogenation_Unsat_Fatty,ensiled olive cake,no change in expression,increases,solute carrier family 2 member 1
 g07 Biohydrogenation_Unsat_Fatty,ensiled olive cake,has no effect on,increases,fatty acid synthase
@@ -304,14 +304,14 @@ g07 Biohydrogenation_Unsat_Fatty,sunflower oil,does not change,influences,rumina
 g07 Biohydrogenation_Unsat_Fatty,sunflower oil,increases,decreases,trans c18:1
 g07 Biohydrogenation_Unsat_Fatty,strontium,no interaction with,increases,bone mineral density
 g07 Biohydrogenation_Unsat_Fatty,weight,does not improve,improves,plasma lipid parameters
-g07 Biohydrogenation_Unsat_Fatty,ensiled olive cake,has no effect on,increases,very-low-density lipoprotein receptor
+g07 Biohydrogenation_Unsat_Fatty,ensiled olive cake,no change in expression,increases,very-low-density lipoprotein receptor
 g07 Biohydrogenation_Unsat_Fatty,ensiled olive cake,has no effect on,increases,fatty acid binding protein 3
 g07 Biohydrogenation_Unsat_Fatty,olive cake,has no effect on,increases,oleic acid
 g07 Biohydrogenation_Unsat_Fatty,plant oil,has no effect on,increases,fatty acid synthase
 g07 Biohydrogenation_Unsat_Fatty,js71,increases,reduces,linoleic acid
-g40 Potential_Application_Garlic,garlic powder,has no negative influence on,improves,broiler chicken
-g40 Potential_Application_Garlic,garlic powder,has no effect on,lowers,cholesterol
-g40 Potential_Application_Garlic,garlic powder,does not affect,improves,growth performance
+g40 Potential_Application_Garlic,garlic powder,has no negative influence on,affects,broiler chicken
+g40 Potential_Application_Garlic,garlic powder,has no effect on,influences,cholesterol
+g40 Potential_Application_Garlic,garlic powder,does not affect,influences,growth performance
 g40 Potential_Application_Garlic,garlic powder,has no effect on,increases,high-density lipoprotein
 g40 Potential_Application_Garlic,garlic powder,increases,decreases,red blood cells
 g40 Potential_Application_Garlic,garlic powder,increases,decreases,white blood cells
@@ -327,8 +327,8 @@ g40 Potential_Application_Garlic,garlic powder,increases,reduces,ldl cholesterol
 g40 Potential_Application_Garlic,garlic powder,increases,decreases,packed cell volume
 g04 High_Dairy_Host,anti-müllerian hormone,does not correlate with,influences,primordial follicle
 g04 High_Dairy_Host,anti-müllerian hormone,does not correlate with,influences,oocyte
-g04 High_Dairy_Host,early feeding,does not affect,impacts,fecal microbiome
-g04 High_Dairy_Host,early feeding,does not affect,influences,endotoxin
+g04 High_Dairy_Host,early feeding,has no effect on,impacts,fecal microbiome
+g04 High_Dairy_Host,early feeding,has no significant effect on,influences,endotoxin
 g04 High_Dairy_Host,crude protein,increases,reduces,nitrogen efficiency
 g04 High_Dairy_Host,high-starch diet,no difference,decreases,dry matter intake
 g04 High_Dairy_Host,low-starch diet,no difference,increases,dry matter intake
@@ -336,44 +336,44 @@ g04 High_Dairy_Host,probiotic,increases,reduces,average daily feed intake
 g04 High_Dairy_Host,prebiotics and probiotics,has no effect,increases,average daily feed intake
 g25 Amino_Acid_Ileal,phytic acid,does not decrease,affects,amino acid
 g25 Amino_Acid_Ileal,phytic acid,increases,reduces,sodium
-g25 Amino_Acid_Ileal,phytic acid,does not decrease,reduces,apparent ileal digestibility
+g25 Amino_Acid_Ileal,phytic acid,does not decrease,influences,apparent ileal digestibility
 g25 Amino_Acid_Ileal,lupinus angustifolius,increases,decreases,branched-chain fatty acids
 g25 Amino_Acid_Ileal,licorice root extract,has no effect on,increases,leucine
 g25 Amino_Acid_Ileal,particle size,increases,reduces,nitrogen
 g25 Amino_Acid_Ileal,phytic acid,has no effect on,impacts,isoleucine
 g25 Amino_Acid_Ileal,phytic acid,has no effect on,impacts,leucine
-g25 Amino_Acid_Ileal,phytic acid,does not affect,increases,endogenous loss
+g25 Amino_Acid_Ileal,phytic acid,has no effect on,increases,endogenous loss
 g25 Amino_Acid_Ileal,phytic acid,has no effect on,influences,lysine
 g25 Amino_Acid_Ileal,particle size,increases,reduces,energy
-g33 Pig_Antioxidant_Meta,organic acid,has no impact on,improves,average daily gain
-g33 Pig_Antioxidant_Meta,organic acid,has no effect,improves,gain to feed ratio
-g33 Pig_Antioxidant_Meta,organic acid,does not change,improves,feed efficiency
-g33 Pig_Antioxidant_Meta,organic acid,has no effect on,improves,average daily feed intake
+g33 Pig_Antioxidant_Meta,organic acid,has no effect,influences,average daily gain
+g33 Pig_Antioxidant_Meta,organic acid,is not significantly different from,influences,gain to feed ratio
+g33 Pig_Antioxidant_Meta,organic acid,does not change,influences,feed efficiency
+g33 Pig_Antioxidant_Meta,organic acid,has no effect on,influences,average daily feed intake
 g33 Pig_Antioxidant_Meta,bovine milk,does not affect,reduces,adipogenesis
 g33 Pig_Antioxidant_Meta,mirna,does not mediate,affects,porcine adipose stem cells
 g33 Pig_Antioxidant_Meta,ochratoxin a,does not pose risk to,impacts,human health
 g33 Pig_Antioxidant_Meta,bovine milk,increases,decreases,insulin
 g33 Pig_Antioxidant_Meta,bovine milk,does not affect,affects,mtorc1
 g33 Pig_Antioxidant_Meta,inoculum size,increases,decreases,dpph scavenging activity
-g20 Feed_Livestock_Feeds,bamboo charcoal,has no effect on,improves,weight gain
-g20 Feed_Livestock_Feeds,bamboo charcoal,does not affect,improves,feed conversion ratio
-g20 Feed_Livestock_Feeds,bamboo charcoal,does not affect,increases,feed intake
+g20 Feed_Livestock_Feeds,bamboo charcoal,has no effect on,increases,weight gain
+g20 Feed_Livestock_Feeds,bamboo charcoal,does not affect,affects,feed conversion ratio
+g20 Feed_Livestock_Feeds,bamboo charcoal,has no effect on,increases,feed intake
 g20 Feed_Livestock_Feeds,bamboo charcoal,has no effect on,improves,nitrogen retention
 g20 Feed_Livestock_Feeds,no grazing,increases,reduces,grass
-g20 Feed_Livestock_Feeds,bamboo charcoal,no effect,improves,digestibility
-g21 Intestinal_Microbiota_Pigs,clostridium tyrobutyricum,has no significant effect on,improves,gut microbiota
+g20 Feed_Livestock_Feeds,bamboo charcoal,has no effect on,improves,digestibility
+g21 Intestinal_Microbiota_Pigs,clostridium tyrobutyricum,has no significant effect on,modifies,gut microbiota
 g21 Intestinal_Microbiota_Pigs,astragalus polysaccharide,enhances,reduces,feed conversion ratio
 g21 Intestinal_Microbiota_Pigs,agaricus subrufescens fermented rye,increases,decreases,mucins
 g21 Intestinal_Microbiota_Pigs,clostridium tyrobutyricum,no significant change,increases,villus height
-g21 Intestinal_Microbiota_Pigs,inulin-type fructans,does not influence,improves,magnesium
+g21 Intestinal_Microbiota_Pigs,inulin-type fructans,does not influence,influences,magnesium
 g21 Intestinal_Microbiota_Pigs,agaricus subrufescens fermented rye,has no significant effect on,reduces,feed conversion ratio
 g21 Intestinal_Microbiota_Pigs,astragalus polysaccharide,increases,reduces,interferon gamma
 g21 Intestinal_Microbiota_Pigs,aflatoxin b1,increases,reduces,grx3
 g21 Intestinal_Microbiota_Pigs,curcumin,has no effect on,improves,kidney
 g21 Intestinal_Microbiota_Pigs,clostridium tyrobutyricum,not associated with,impacts,energy intake
-g21 Intestinal_Microbiota_Pigs,wheat bran,does not affect,reduces,physical activity
+g21 Intestinal_Microbiota_Pigs,wheat bran,has no effect on,reduces,physical activity
 g21 Intestinal_Microbiota_Pigs,deoxynivalenol,has no effect on,affects,total antioxidant capacity
-g12 Feed_Poultry_Additives,bee propolis,has no significant effect on,improves,body weight
+g12 Feed_Poultry_Additives,bee propolis,has no significant effect on,increases,body weight
 g12 Feed_Poultry_Additives,nucleotides,has no effect,improves,growth performance
 g12 Feed_Poultry_Additives,bee propolis,increases,reduces,feed intake
 g12 Feed_Poultry_Additives,bee propolis,has no effect on,increases,carcass traits
@@ -398,4 +398,99 @@ g12 Feed_Poultry_Additives,yucca schidigera extract,does not improve,increases,b
 g12 Feed_Poultry_Additives,yucca schidigera extract,does not improve,improves,digestibility
 g12 Feed_Poultry_Additives,nucleotides,does not affect,increases,body weight gain
 g12 Feed_Poultry_Additives,nucleotides,does not affect,reduces,feed intake
-g12 Feed_Poultry_Additives,nucleotides,does not affect,improves,gastrointestinal tract
+g12 Feed_Poultry_Additives,nucleotides,does not affect,influences,gastrointestinal tract
+g12 Feed_Poultry_Additives,nucleotides,has no effect,improves,carcass yield
+g12 Feed_Poultry_Additives,nano-curcumin,has no effect on,increases,milk yield
+g12 Feed_Poultry_Additives,black soldier fly larvae meal,increases,reduces,egg mass
+g05 Dairy_Impact_Goats,heat stress,does not affect,affects,milk yield
+g05 Dairy_Impact_Goats,compound feed,has no effect on,influences,milk yield
+g05 Dairy_Impact_Goats,soybean oil,does not increase,increases,milk yield
+g05 Dairy_Impact_Goats,heat stress,does not affect,influences,dairy goat
+g05 Dairy_Impact_Goats,lemon leaves,does not affect,influences,dry matter intake
+g05 Dairy_Impact_Goats,lemon leaves,increases,reduces,carbon
+g05 Dairy_Impact_Goats,lemon leaves and rice straw,increases,reduces,fatty acid translocase
+g31 Dairy_Farms_Food,by-products,does not impact,reduces,land use
+g31 Dairy_Farms_Food,soil fertility,does not have relevant effects,influences,land use_efficiency
+g11 Alfalfa_Intake_Cattle,soya bean hulls,has no effect on,increases,feed conversion ratio
+g11 Alfalfa_Intake_Cattle,soya bean hulls,has no effect on,influences,dry matter intake
+g11 Alfalfa_Intake_Cattle,soya bean hulls,no difference,decreases,live weight gain
+g11 Alfalfa_Intake_Cattle,soya bean hulls,no difference,influences,feed efficiency
+g11 Alfalfa_Intake_Cattle,whole cottonseed,does not reduce,reduces,metabolic heat production
+g11 Alfalfa_Intake_Cattle,selenium,has no effect on,increases,retained nitrogen
+g11 Alfalfa_Intake_Cattle,soya bean hulls,increases,reduces,carcass fat score
+g11 Alfalfa_Intake_Cattle,soya bean hulls,increases,decreases,monounsaturated fatty acids
+g11 Alfalfa_Intake_Cattle,soya bean hulls,increases,decreases,linoleic acid
+g11 Alfalfa_Intake_Cattle,alfalfa silage,increases,reduces,milk fat
+g11 Alfalfa_Intake_Cattle,whole cottonseed,increases,decreases,milk protein
+g11 Alfalfa_Intake_Cattle,whole cottonseed,does not alter,influences,dry matter intake
+g11 Alfalfa_Intake_Cattle,heat treatment,has no effect on,increases,raw milk
+g11 Alfalfa_Intake_Cattle,soya bean hulls,increases,reduces,slaughter weight
+g11 Alfalfa_Intake_Cattle,soya bean hulls,increases,reduces,carcass weight
+g11 Alfalfa_Intake_Cattle,soya bean hulls,does not affect,improves,beef cattle
+g11 Alfalfa_Intake_Cattle,soya bean hulls,increases,decreases,crude protein
+g11 Alfalfa_Intake_Cattle,soya bean hulls,has no effect on,influences,lumbar fat depth
+g11 Alfalfa_Intake_Cattle,soya bean hulls,has no effect on,decreases,polyunsaturated fatty acids
+g11 Alfalfa_Intake_Cattle,soya bean hulls,increases,reduces,estimated daily carcass gain
+g11 Alfalfa_Intake_Cattle,pelleting,does not affect,influences,milk production
+g26 Food_Human_Chain,crude protein,has no effect on,increases,cow's milk
+g26 Food_Human_Chain,ration balancing,increases,reduces,methane
+g26 Food_Human_Chain,crude protein,increases,reduces,urinary nitrogen
+g26 Food_Human_Chain,crude protein,does not improve,increases,fat-corrected milk
+g26 Food_Human_Chain,crude protein,increases,reduces,manure nitrogen
+g18 Health_Human_Exposure2,triadimenol,does not affect,reduces,offal
+g18 Health_Human_Exposure2,triadimenol,does not significantly affect,affects,growth performance
+g18 Health_Human_Exposure2,sodium nitrite,does not raise concern for,impacts,human health
+g18 Health_Human_Exposure2,bentonite clay,has no effect on,reduces,aflatoxin b1
+g18 Health_Human_Exposure2,bentonite clay,has no effect on,reduces,ochratoxin a
+g18 Health_Human_Exposure2,triadimenol,does not affect,affects,broiler chicken
+g18 Health_Human_Exposure2,triadimenol,increases,decreases,c-reactive protein
+g18 Health_Human_Exposure2,sodium nitrite,does not accumulate in,impacts,animal
+g18 Health_Human_Exposure2,bentonite clay,has no effect on,reduces,antibody
+g36 Farm_Animals_Lactation,olive cake,increases,reduces,nitrogenous component
+g36 Farm_Animals_Lactation,olive by-products,increases,lowers,bovine milk
+g36 Farm_Animals_Lactation,olive cake,has no effect on,affects,daily gain
+g36 Farm_Animals_Lactation,olive cake,has no effect on,increases,bovine milk
+g17 Health_Human_Exposure,saxitoxin dihydrochloride,increases,decreases,catalase
+g17 Health_Human_Exposure,rice bran crude lecithin,does not adversely affect,affects,rumen
+g17 Health_Human_Exposure,storage,increases,decreases,glucoraphanin
+g17 Health_Human_Exposure,chicken egg,poses no significant non-carcinogenic risk,impacts,human health
+g17 Health_Human_Exposure,rice bran crude lecithin,has no significant effect on,increases,ammonia-n
+g17 Health_Human_Exposure,rice bran crude lecithin,has no significant effect on,increases,short-chain fatty acids
+g17 Health_Human_Exposure,rice bran crude lecithin,has no significant effect on,affects,rumen microbes
+g17 Health_Human_Exposure,rice bran crude lecithin,increases,reduces,non-esterified fatty acids
+g06 Selenium_Nutrition_Livestock,igf-i,has no effect on,increases,lactase-phlorizin hydrolase
+g06 Selenium_Nutrition_Livestock,igf-i,does not increase,affects,pro-lph
+g06 Selenium_Nutrition_Livestock,animal products,is not a must for,improves,human health
+g06 Selenium_Nutrition_Livestock,zinc nanoparticles,has no effect on,improves,dry matter intake
+g06 Selenium_Nutrition_Livestock,zinc nanoparticles,enhances,reduces,bovine gamete
+g06 Selenium_Nutrition_Livestock,age,is not a function of,decreases,energy
+g06 Selenium_Nutrition_Livestock,igf-i,has no effect on,influences,villus height
+g06 Selenium_Nutrition_Livestock,igf-i,does not affect,influences,cell proliferation
+g06 Selenium_Nutrition_Livestock,novel feed resources,does not compete with,reduces,human-edible components
+g35 Properties_Nutritional_Pot,linum usitatissimum,has no effect on,increases,hdl cholesterol
+g35 Properties_Nutritional_Pot,age,increases,decreases,polyunsaturated fatty acids
+g35 Properties_Nutritional_Pot,linum usitatissimum,has no significant effect on,improves,interleukin-6
+g35 Properties_Nutritional_Pot,linum usitatissimum,has no effect on,improves,glycemic control
+g35 Properties_Nutritional_Pot,rhust coriaria,increases,reduces,lipid oxidation
+g24 Acid_Cla_Egg,oregano essential oil,increases,reduces,linoleic acid
+g24 Acid_Cla_Egg,conjugated linoleic acid,does not change,increases,body weight
+g24 Acid_Cla_Egg,soybean oil,increases,reduces,immunoglobulin m
+g24 Acid_Cla_Egg,soybean oil,increases,reduces,immunoglobulin t
+g24 Acid_Cla_Egg,oregano essential oil,increases,reduces,saturated fatty acids
+g24 Acid_Cla_Egg,oregano essential oil,increases,reduces,monounsaturated fatty acids
+g24 Acid_Cla_Egg,organic matter,increases,reduces,manganese
+g24 Acid_Cla_Egg,organic matter,increases,reduces,nano zinc
+g24 Acid_Cla_Egg,organic matter,increases,reduces,copper
+g24 Acid_Cla_Egg,organic matter,increases,reduces,chromium
+g24 Acid_Cla_Egg,cr picolinate,has no effect on,increases,shell thickness
+g38 Nutritional_Value_Meat,schizochytrium sp.,increases,decreases,off-flavors
+g38 Nutritional_Value_Meat,arthrospira platensis,has no effect on,increases,ph
+g38 Nutritional_Value_Meat,arthrospira platensis,has no influence on,impacts,broiler chicken
+g38 Nutritional_Value_Meat,chlorella vulgaris,increases,decreases,n-3 polyunsaturated fatty acids
+g38 Nutritional_Value_Meat,schizochytrium sp.,increases,decreases,saturated fatty acids
+g34 Pig_Bovine_Metagenomic,black mulberry leaf powder,has no significant effect on,influences,egg
+g34 Pig_Bovine_Metagenomic,deoxynivalenol,does not alter,decreases,paracellular flux
+g34 Pig_Bovine_Metagenomic,deoxynivalenol,has no effect on,increases,occludin
+g34 Pig_Bovine_Metagenomic,beauvericin,does not alter,decreases,paracellular flux
+g34 Pig_Bovine_Metagenomic,beauvericin,does not alter,decreases,transepithelial electrical resistance
+g34 Pig_Bovine_Metagenomic,circrna-08436,increases,reduces,cholesterol
