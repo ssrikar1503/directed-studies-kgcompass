@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,SDS-Page technique was used to verify the efficiency of the process in selecting targeted proteins (Napin I process).
+1,correct,Glutamic acid increased by 3.48% in licorice group (Table: 2903 to 3004 mg/100 g).
+2,correct,Phosphorus increased by 23.53% in meat of licorice-fed quail.
+3,imprecise,"PA reduced AID of minerals; paper states PA has limited effect on AA digestibility, so bare 'apparent ileal digestibility' is imprecise."
+4,imprecise,Paper says tyrosine digestibility in human milk is up to 100%; it is not a statement that milk contains tyrosine.
+5,imprecise,PDCAAS assesses protein quality of foods via amino acid score x digestibility; 'crude protein' is the wrong object.
+6,correct,IAAO protocol: breath sampled for 13CO2 enrichment (F13CO2) to measure oxidation.
+7,correct,Moisture decreased 1.87% with licorice extract (64.1 vs 62.9 g/100 g).
+8,correct,Choosing varieties with best cysteine/methionine incl. V. faba (winter) would increase feed quality for pigs.
+9,correct,Table 1: Ser mean 4.3 g/16 g N in Vicia faba seed protein.
+10,correct,Discussion: deficiency and absence of vitamins in meat lead to hypovitaminosis and avitaminosis.
+11,correct,Particle size of lupins linearly increased apparent digestibility of crude protein.
+12,correct,Table 1: Pro mean 3.5 +/- 0.1 g/16 g N in Pisum sativum.
+13,correct,Significant negative correlation of methionine to crude protein in L. angustifolius and V. faba (r = -0.83).
+14,correct,Table 1 lists cysteine content of the cruciferin fraction (1.3 g/100 g AA).
+15,correct,IAAO BCAA requirements derived from BCAA proportion in egg protein (Table 1).
+16,correct,Table 2: S% mean 0.2 in Pisum sativum seeds.
+17,imprecise,"Trivially generic; paper reports AA composition of legume seeds, 'feed contains amino acid' is uninformative."
+18,correct,"Low content of branched-chain amino acids in napin fractions, most particularly leucine."
+19,correct,"Live weight 159.85 g vs 147.12 g, 7.96% greater with licorice extract."
+20,correct,Incorporating licorice into diets is an effective method that enhances poultry productivity.
+21,correct,Table 1: Glycine max Asp mean 10.3 +/- 0.5 g/16 g N.
+22,imprecise,"Napin I-TT is a heated fraction; histidine appears only as one endogenous flow/digestibility value, relation uninformative."
+23,imprecise,"TiO2 was an indigestible marker for digestibility calculation, not a marker for amino acid itself."
+24,correct,PER determines ability of protein to support growth in young rapidly growing rats.

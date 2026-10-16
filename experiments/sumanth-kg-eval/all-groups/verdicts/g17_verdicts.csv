@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,Paper assesses co-occurring mycotoxins incl. aflatoxin and ochratoxin A in dairy MOE analysis.
+1,correct,Methods: feeding rate measured as algal cells ingested per animal per hour.
+2,correct,Table/text: cattle feed from India had highest AFB1 (406.1 ug/kg).
+3,imprecise,"Paper reports FB1+FB2 and total FBs in poultry feed; FB3 only named generally, not specifically in broiler feed."
+4,correct,Starch reaching hindgut gives more lactate and lower pH than forage diets.
+5,wrong,Sterculin does not appear anywhere in the paper.
+6,imprecise,Paper says AFB1 is metabolised to AFM1 which enters milk; aflatoxin B series itself not shown present in milk.
+7,wrong,Malathion/rainbow trout appears only in a reference title; 'malathion causes rainbow trout' is nonsensical.
+8,correct,"Table 1 lists Penicillium as producer of OTA, PAT, ROQC, CIT."
+9,correct,Reduced ChEs activity leads to acetylcholine accumulation (cholinergic crisis).
+10,correct,"T-2 and HT-2 are toxic to animals, with pigs being particularly sensitive."
+11,correct,Cited study reports major interspecies differences in citrinin ADME in pigs vs broilers; pig CIT kinetics described.
+12,correct,Sinigrin was isolated in the 1830s from black mustard (Brassica nigra) seeds.
+13,imprecise,Cyanobacteria synthesize saxitoxins; the dihydrochloride salt is just the purchased standard.
+14,wrong,Table 1: red cabbage row shows '-' for glucobrassicanapin (GBN).
+15,correct,Discussion: Cr toxicity generates free radicals and DNA adducts.
+16,correct,Paper monitors mycotoxin incl. aflatoxin exposure in poultry biomarkers (AFB1 in chicken plasma).
+17,correct,Both papers state mycotoxins pose risk to animal health.
+18,correct,Loss of CAT activity compensated by increased GPx; Se-dependent GPx rose.
+19,correct,"AFB1 and AFL detected in poultry plasma, urine, feces."
+20,correct,Aflatoxins cause severe health consequences in livestock incl. liver disease.
+21,correct,Cited reference: Lactobacilli which attach to the crop epithelium of the fowl.
+22,correct,CYP450 enzymes activate procarcinogens such as nitrosamines and aflatoxins.
+23,correct,AFB1 detected in plasma of poultry (bolus dosing) and listed for pig plasma biomarkers.
+24,correct,Alkyl glucosinolates such as glucoraphanin do not contribute to bitter attribute.

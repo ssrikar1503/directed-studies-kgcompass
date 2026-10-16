@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,"Reference title: ""A two-enzyme constituted mixture to improve the degradation of Arthrospira platensis microalga cell wall for monogastric diets""."
+1,imprecise,"Paper says nutrient-dense meat lessened the need for a bulky digestive system in early humans, not that meat reduces the digestive system."
+2,correct,Table lists histidine 2.5-2.6 in silkworm pupae amino acid profile.
+3,correct,VA associated with anti-inflammatory and anti-diabetic effects.
+4,correct,"""The production of ROS is positively correlated with PUFA levels."""
+5,correct,Peroxidation generates malondialdehyde and volatile compounds causing off-flavor.
+6,imprecise,"Paper links copper DEFICIENCY (in celiac disease etc.) to issues; ""associated with"" drops deficiency and direction."
+7,correct,"Pork lipid nutritional value is poor due to low n-3 LC-PUFA (EPA, DHA)."
+8,correct,Spirulina studied in broiler diets; microalgae used as supplements/ingredients.
+9,imprecise,Only a reference title mentions iron in Longissimus Angus; text does not state iron is concentrated there.
+10,correct,Alfaia et al.: 10% C. vulgaris in broilers gave slight improvement in meat quality.
+11,correct,"""By adding SP oil to the diet, the area of gastric ulcer and secretion decreases."""
+12,correct,"Anti-nutrients include saponin, at low acceptable concentrations."
+13,correct,"Oleic acid (C18:1n-9) identified, accounting for about 26% of total FA."
+14,correct,Abstract: changes in livestock nutrition and breeding can alter nutritional value of red meat.
+15,correct,Heme iron linked to increased risk of colorectal cancer via intestinal processes.
+16,imprecise,Only a reference title mentions amino acid supplementation and performance in growing-finishing pigs; text discusses meat composition.
+17,imprecise,Soluble carbohydrate appears only in a cited reference title; paper does not report it as seaweed content.
+18,correct,Schizochytrium sp. reported to promote carcass yield and meat FA profile.
+19,correct,"""SP is an excellent calcium, potassium, iron, and zinc source."""
+20,correct,Microalgae are an alternative to synthetic additives in the feed.
+21,correct,RRR-alpha-tocopheryl acetate is the natural vitamin E source compared in lambs for alpha-tocopherol deposition.
+22,imprecise,"Benefit was for SP oil enriched via esterification/saponification (sodium salt); condition dropped from ""treats""."
+23,correct,"""Effect of genetic line has been reported on zinc content in meat from lambs and pigs."""
+24,imprecise,"Paper ties PUFA generally to CNS disorders; DHA is mentioned only as EPA-derived/found with fish oil, no nervous system role stated."

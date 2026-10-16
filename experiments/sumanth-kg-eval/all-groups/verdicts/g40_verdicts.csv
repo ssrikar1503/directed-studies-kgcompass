@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,Sec 2.3: 'Molasses is utilized as a fertilizer' (sugar beet molasses).
+1,correct,"Conclusion: Sargassum addition can ensure a good supply of calcium, sodium, potassium, phosphorus, and magnesium."
+2,correct,Meal contains low niacin and riboflavin 'due to the drying process'.
+3,correct,Text: enhanced blood flow 'may facilitate the rapid transfer of volatile fatty acids' to bloodstream (hedged).
+4,correct,Garlic reduces digesta pH in broilers (Yang et al.); 10 g/kg garlic+turmeric reduced digestive tract pH.
+5,imprecise,Only a reference title mentions poultry/algae; the paper has no seaweed-supplement-for-broiler statement; 'broiler' is unsupported.
+6,imprecise,"Citric acid is cited as reducing arsenic concentration in seaweed, not specifically inorganic arsenic."
+7,correct,Table 2 lists proline 0.08-0.18 g/100 g in Sargassum meal.
+8,correct,Hall (2011): elevated sugar content leads to increased total microbial glycogen accumulation.
+9,correct,"Conclusion: Sargassum addition can ensure a good supply of ... phosphorus, and magnesium."
+10,imprecise,Broiler chick drinking-water molasses appears only as a reference title; no improvement claim in text.
+11,correct,Cows given higher proportion of soybean molasses yielded more milk than standard rations (Gao & Oba 2016).
+12,correct,Cited ref 64: combined Azadirachta indica and Khaya senegalensis extracts in chickens infected with Eimeria oocysts.
+13,correct,Table 1 lists phenols 6.1-9.2 ug/mL for Sargassum.
+14,correct,"Garlic powder enhances palatability, which increases the animal's appetite (El-Naggar and Ibrahim 2018)."
+15,correct,Reference cites diallyl trisulfide blocking NF-kB and ERK/MAPK signaling pathways (cancer context).
+16,correct,"Tables 3-4 show garlic decreased or had no effect on yolk and serum cholesterol; mixed, so 'affects' is fair."
+17,correct,Reference title: 'Polyunsaturated fatty acids in various macroalgae'; PUFA table for Sargassum.
+18,correct,Table 1: alginate sulfates 5.4-7.0 % (text 5-7%).
+19,correct,Cited reference concerns metabolism and organ distribution of arsenic in Tilapia mossambica.
+20,imprecise,Text says garlic's antioxidant traits aid gut function; antioxidants-as-antibiotic-alternative modulating microflora is a garbled reference title.
+21,correct,Lee et al. 2020: complex with garlic extract tended to increase antioxidant status of lactating cows.
+22,correct,"Nrf2 interacts with antioxidant response elements to induce enzymes such as GSH, SOD and CAT."
+23,correct,Table 1 lists magnesium as cofactor for kinase and decarboxylase.
+24,correct,Reference 141 title: Microbial pathways in colonic sulfur metabolism and links with health and disease.

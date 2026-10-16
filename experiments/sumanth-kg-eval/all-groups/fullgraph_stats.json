@@ -1,0 +1,52 @@
+{
+ "falkordb_graph": "animalrag_all_papers",
+ "papers": 283,
+ "chunks": 20554,
+ "chunks_with_entities": 17305,
+ "entities": 30515,
+ "relations": 79855,
+ "communities": 6319,
+ "community_reports": 171,
+ "top_entities": [
+  [
+   "bovine milk",
+   1576
+  ],
+  [
+   "crude protein",
+   1207
+  ],
+  [
+   "aflatoxin B1",
+   1155
+  ],
+  [
+   "animal feed",
+   950
+  ],
+  [
+   "human health",
+   906
+  ],
+  [
+   "broiler chicken",
+   848
+  ],
+  [
+   "dairy cow",
+   811
+  ],
+  [
+   "beef",
+   788
+  ],
+  [
+   "chicken egg",
+   736
+  ],
+  [
+   "nano-selenium",
+   696
+  ]
+ ]
+}

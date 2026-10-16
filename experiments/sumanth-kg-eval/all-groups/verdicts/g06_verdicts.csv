@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,"Henchion: ""The ratio of animal to plant-sourced protein varies across regions"" (0.29 Africa to 1.08 Europe)."
+1,correct,"Nanominerals: ""milk yield has been suppressed by nano-Zn intake in dairy animals""."
+2,correct,Fisinin: selenium-yeast diets produce Se-enriched eggs/meat; meat and milk can also be enriched.
+3,correct,"Mu: ""quinolone-resistant bacteria and the resistance genes have been prevalent in livestock feedlots""."
+4,correct,Nanominerals: male goats given nano-Se had higher final weight and ADG (Taihang black goats).
+5,correct,"Makkar: feed-land proportion changes ""clearly have implications on human diets by 2050""."
+6,correct,"Nanominerals reviews SeNP applications in ruminants (growth, antioxidant status, blood Se)."
+7,correct,"Cao: ""Feed can provide the necessary nutrients for raising animals""."
+8,correct,Makkar: food-feed competition and climate change are complex challenges for sustainable food production.
+9,imprecise,"Paper says other-nutrient-enriched eggs (vit E, iodine) can further enhance quality/marketing; Se itself not said to enhance quality."
+10,correct,Makkar Table 1: meal worm valine 6.0 g/16 g N.
+11,correct,Wittmann abstract: animal welfare among drivers of plant-based protein product R&D.
+12,correct,"Burrin: oral IGF-I ""does not affect LPH activity"" though it alters processing."
+13,imprecise,"Nasal discharge found in donkeys (50% on farm E) but ""is associated with dairy donkey"" is an uninformative relation."
+14,correct,Fisinin cites Natella 2007: Se supplementation prevents post-prandial formation of atherogenic LDL (LDL minus).
+15,correct,"Fisinin: ""Similar effect of selenium-yeast was observed with quail (Surai 2006)"" on tissue accumulation."
+16,correct,"Nanominerals: ""children are significantly more prone than adults when it comes to hazardous chemicals""."
+17,correct,"Wittmann: ""insoluble fiber, which accounts for 3.28% of the starting sample"" of defatted flakes."
+18,correct,Makkar: synthetic amino acids can meet essential amino acid deficiency in alternative feeds.
+19,correct,Henchion: micronutrients from plant foods alone can be difficult; non-protein micronutrients in ASF.
+20,correct,"Makkar: ""Over 90% of the water use in the livestock sector is for irrigation of feed crops""."
+21,imprecise,"Only a reference title (Se yeast and vit E affect post-lambing ewes physiological responses); ""improves"" is unsupported."
+22,imprecise,"Paper: SEARO lowest for white meat and eggs; AFRO lowest for red meat/dairy, so ""lowest of animal-sourced foods"" overgeneralizes."
+23,correct,Wittmann cites Pierce: water-soluble soybean polysaccharides formed from spent flakes by H2O2 treatment.
+24,imprecise,"Cao: alternatives proposed but ""unable to be used on a large scale""; plain ""used in chicken"" drops this limitation."

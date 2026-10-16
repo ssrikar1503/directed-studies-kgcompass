@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,imprecise,"Prebiotics vs Salmonella appears only as a cited reference title, not as a stated finding in the text."
+1,correct,Intro: OAs/EOs 'potentially improve the gastrointestinal tract function in general'.
+2,correct,Abstract/intro: organic acids' effect on the GIT of broiler and laying hens; GIT health improved.
+3,correct,Borges et al.: 200 ug/ml Piper aduncum can cause harmful effects on erythrocytes in 24 h.
+4,correct,EOs replace antibiotic growth promoters and improve animal performance and health.
+5,correct,"OA prevents conversion of oxymyoglobin to metmyoglobin, improving meat redness."
+6,correct,OAs work by reducing colonization of pathogenic microorganisms in the intestines.
+7,imprecise,Faecal microbiota of weaned piglets appears only in a reference title; no finding on organic acids is stated.
+8,imprecise,Text links DECREASED harmful bacteria to anti-inflammatory response; triple drops the decrease and misstates direction.
+9,imprecise,Table lists Orgacids with low meat cholesterol; 'affects' is vague but the effect is a reduction.
+10,correct,"Acidic anion shown to complex with Ca, P, magnesium and zinc, improving mineral digestibility."
+11,correct,Pennyroyal oil 'causes hallucinations and produces abortions'.
+12,wrong,Oregano EO has antimicrobial/antioxidant properties; it does not 'exhibit antibiotic growth promoters'; garbled object.
+13,correct,"Undissociated OA reduces cytoplasmic pH, disrupting normal metabolic processes of bacteria."
+14,imprecise,"Ascorbic acid and phytase efficacy appears only in a cited reference title (Afsharmanesh and Porreza), not as a result."
+15,correct,Koyuncu: strongest Salmonella reduction in pelleted and compound mash feed with 1% formic acid (S. Putten among strains).
+16,correct,OAs lowered the pH of the chyme; OAs lower the pH of the surrounding environment.
+17,correct,Hassan et al.: OA/salts in feed reduced Salmonella in the intestinal microbiota of broilers.
+18,imprecise,Paper says dietary acidifiers for pigs and poultry; 'broiler' is narrower than stated.
+19,correct,'The addition of OAs and EOs also causes the intestinal lining to thin' (abstract).
+20,imprecise,Text says EO membrane damage/permeability aids OA bactericidal effect; surface 'more OAs permeate' is loosely stated.
+21,correct,Accumulation of RCOO- anions will interfere with RNA and DNA synthesis.
+22,imprecise,Rosemary EO on layers appears only as a reference title; no stated finding in the text body.
+23,correct,Protective acids reduced fecal ammonia in lactating sows; OAs reduce ammonia production.
+24,correct,In vitro investigations have shown plant extracts and EOs have antioxidant effects.

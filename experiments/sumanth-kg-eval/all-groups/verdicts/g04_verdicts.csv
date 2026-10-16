@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,Paper discusses ovarian primordial follicles and their activation in lambs.
+1,correct,Parenteral boost of yeast-derived rHBsAg rapidly increased anti-HBV S Ag antibody levels.
+2,correct,Text: high SFA in insect meals could pose concerns via expected negative impacts on nutraceutical quality of ruminant products.
+3,imprecise,C20:2 n-6 is only a measured fatty acid in the tables; 'is associated with' is uninformative and gives no stated association.
+4,correct,Intro: high-starch diets shift ruminal fermentation endproducts toward greater propionate and lactate.
+5,imprecise,Urea was measured as plasma urea (and serum was used for AMH); 'blood serum contains plasma urea' conflates serum and plasma.
+6,correct,Methods: 18 Santa Ines ewe lambs fed isocaloric diets of two protein levels for 92 days.
+7,correct,Intro: probiotics in first week of life can increase diversity and abundance of Lactobacillus (Nakphaichit 2011).
+8,correct,Results: Balțată Românească protein 24.62% vs Belgian Blue 22.43%.
+9,correct,Discussion: S. enterica homologs can utilize inositol as a sole carbon source in vitro.
+10,correct,"Abstract: PCV-2a, -2b and -2d are the main genotypes; PCV-2b is a genotype of PCV-2."
+11,correct,Methods list Grylloides sigillatus (GS) among the full-fat insect meals tested.
+12,correct,Methods: concentrates provided to cows via an automatic feeding station.
+13,imprecise,Insulin induced differentiation of bovine pre-adipocytes in vitro; measured serum insulin is not stated to induce adipogenesis.
+14,imprecise,Butyrate proportion was greatest only for HI meal (12.1 g/100 g VFA); not a general property of insect meal.
+15,correct,Intro: ACACA among genes under PPARg control during adipocyte terminal differentiation.
+16,correct,eFCR energy 5.55 vs 1.39 in by-product vs control group; by-products raised eFCR.
+17,correct,Results: Hubbard JA757 had higher FCR than Ross 308 in starter and grower phases.
+18,correct,Methods: DM intake and average daily gain used to estimate feed conversion efficiency.
+19,correct,Intro: probiotics can modulate microbiome composition in chickens.
+20,correct,"Text: siderophore iron scavenging chelates iron, transporting it back to the cell."
+21,imprecise,Paper says edible fractions of feedstuffs are used to calculate eFCR; 'component of' is loose and uninformative.
+22,correct,Okadaic acid promoted nerve growth factor secretion; cited work reports increased NGF mRNA.
+23,imprecise,"Bacillus claim appears only in a reference title (Froebel 2020), not in the paper's own text."
+24,imprecise,"HI is Hermetia illucens (black soldier fly) with high C14:0; housefly (MD) C14:0 is only 2.32%, so entity is wrong."

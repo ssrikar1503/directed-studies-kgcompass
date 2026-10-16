@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,"P1: 'In Europe, the total merit index is used to select dairy cows.'"
+1,correct,"P1: undernutrition, malnutrition or heat stress early in life lead to metabolic disturbances."
+2,imprecise,P2: dry matter was lowest in muscle of lambs fed olive cake; triple omits muscle and is a single study.
+3,correct,P2: olive cake is featured by high NDF (51.3% DM).
+4,wrong,P3: study is on sheep/goat milk and concludes Greece milk is not contaminated; not bovine.
+5,correct,P4: natural vs synthetic vitamin E administration can affect bioavailability.
+6,imprecise,"P4 only cites a reference title on IGFBP control of involution; text itself ties IGF-I, not IGFBP, to involution."
+7,correct,P4: milk contains lactoferrin among bioactive components.
+8,imprecise,P2: leaves provide half of energy/amino acid needs of sheep and goats at maintenance; object too vague.
+9,correct,P4: phenylalanine among amino acids available for milk protein synthesis in goat mammary gland.
+10,wrong,P1: HIGHER age at first calving (23-26 mo+) raised 305-d milk; early AFC is not stated to increase it.
+11,imprecise,P2 only lists a reference on urinary purine derivatives in goats/wethers; no effect stated.
+12,imprecise,P1: myopathies correlated with lower bone calcium/phosphate; wooden breast 'reduces phosphate' drops bone and correlation.
+13,correct,P2: olive cake supplemented with urea increased digestibility/CP.
+14,correct,P1: medullary bone is rich in hydroxyapatites [Ca10(PO4)6(OH)2].
+15,correct,P3: pirimiphos methyl detected in one concentrate feed sample (0.011).
+16,correct,P5: sheep and pigs continue to be used for uterine and fetal nutrition research.
+17,correct,P5: sheep and pigs continue to be used for uterine and fetal nutrition research.
+18,correct,P5: protein/EAA requirement data critical with priorities on EAA needs during pregnancy.
+19,correct,P4: milk lipids and lipid-soluble substances are bioactive.
+20,correct,P4: availability of antioxidants to mammary cells becomes crucial under oxidative stress.
+21,imprecise,"P1: hens suffer keel bone fractures from week 30; 'develops keel bone' is garbled, should be fractures."
+22,correct,"P1: strain, age, housing had only weak effects on keel bone fracture prevalence."
+23,correct,"P2: three-phase gives 550 kg, two-phase 800 kg of olive cake (per ton of olives)."
+24,correct,P2: calcium and phosphorus are the two main elements for bone formation.

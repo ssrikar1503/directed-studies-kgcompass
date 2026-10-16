@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,imprecise,Paper: unprocessed soybeans cause pancreatic enlargement; object 'pancreas' drops the enlargement effect.
+1,correct,Low-Fe diet (5 mg/kg for 40 d) used to induce NFA in rats.
+2,correct,Oil is extracted from conditioned flakes via successive hexane solvent washes.
+3,correct,Text lists 9-methylsulfinylnonyl-Gls among camelina glucosinolates.
+4,imprecise,"Only appears as a reference title (pigs fed short-season corn hybrids), not a finding of this paper."
+5,correct,"Asparagine, a crucial component in ammonia biosynthesis (Lomelino et al.)."
+6,correct,Camelina had no influence on organoleptic quality of meat; no flavor/tenderness differences.
+7,correct,Dairy goats contribute to human nutrition and food security per the paper.
+8,imprecise,Table 7: dry extrusion gave NR of 59%; 'results in nitrogen retention' is uninformative.
+9,imprecise,Paper discusses cooking/storage raising lipid oxidation; thermal feed fats appear only as a reference title.
+10,wrong,Paper: 'dietary cow milk does not aid recovery from anaemia'; transferrin stayed low on cow milk diet.
+11,imprecise,"D-pinitol only 'frequently reported as an antidiabetic agent', not shown to inhibit diabetes."
+12,correct,Discussion: transcription factors (HvMYB46/83) putatively control CslF6 expression.
+13,imprecise,Only very low Fe concentrations in lamb fat tissue; 'lipid' is wrong entity and magnitude omitted.
+14,correct,"Dairy goats are the source of goat milk, as described in the paper."
+15,imprecise,Feed ingredients can enhance calcium deposited in eggshells; 'calcium increases egg shell' is vague.
+16,correct,Methionine with cystine are first limiting amino acids in poultry; reported together.
+17,correct,Table 3: camelina oil oleic acid (C18:1n-9) 15.70%.
+18,imprecise,Paper: CGA alleviates cadmium-induced injury; the cadmium condition is dropped.
+19,correct,"Within same feeding intensity and weight, males had higher daily weight gain (338 vs 262 g)."
+20,correct,Conventional-oleic cultivars possess higher linoleic acid than high-oleic cultivars.
+21,imprecise,"Beclin1 is an autophagy-related indicator, not specifically a marker of incomplete autophagy."
+22,correct,Eggs readily available from hens as livestock-derived food.
+23,correct,Breeding programs increased oleic acid concentrations in high-oleic cultivars.
+24,imprecise,"Plasma parameters appears only in a reference title (Wang et al. 2016), not a result of this paper."

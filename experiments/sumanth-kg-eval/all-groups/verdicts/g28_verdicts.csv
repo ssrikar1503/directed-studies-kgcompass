@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,imprecise,"Paper says Moringa 'might enhance' ALA-to-DHA conversion efficiency, mechanism unexplored; triple drops ALA and hedge."
+1,correct,'Laminaria sp. are known to be the best iodine accumulators among all living systems.'
+2,correct,Peptides 'may have ... plasma- and hepatic-cholesterol-reducing' activities.
+3,correct,"Intro: MFGM emerging role in promoting anti-inflammatory, antimicrobial, cholesterol-lowering benefits."
+4,correct,"Reference title: de-epoxynivalenol, a metabolite of DON, produced by in vitro rumen incubation; DON converted to DOM-1."
+5,correct,'Most distinct feature ... is its methanogenic inhibitor content'.
+6,correct,Moringa silage replacing alfalfa hay/maize silage showed no negative effect on nutrient digestibility (Holstein cows).
+7,imprecise,YNKL is an ACE-inhibitory peptide from Undaria pinnatifida (IC50 21 uM); object 'ACE inhibition' makes 'inhibits ACE inhibition' garbled.
+8,imprecise,Paper: chickens retain only 10% of intrinsic Hg in fish meal; triple says 'laying hen' and omits the limited-retention quantity.
+9,correct,Amino acids incl. histidine are low in most macroalgal proteins but their concentration is higher than in terrestrial plants.
+10,imprecise,"Paper: DSTs enhance feed formulation techniques and profitability, not animal feed itself."
+11,imprecise,Paper: contaminated feed can leave mycotoxin residues in meat; 'feed is source of pork' misstates this.
+12,correct,Dietary polyphenols (Moringa) protect alpha-tocopherol and others from oxidation in the digestive environment.
+13,correct,Silage consisted of a blend of fresh Moringa foliage with other ingredients.
+14,imprecise,Paper: goat milk SCC naturally high and not necessarily indicating mastitis; 'periparturient' mastitis is a narrower entity.
+15,correct,"'Porphyra sp., Chondrus crispus, and Ulva pertusa are all rich in arginine.'"
+16,imprecise,Knowledge base aggregates sensor data tracking livestock; direction/relation 'animal monitored by knowledge base' misstates it.
+17,imprecise,Paper: a goal of ruminant nutrition is to optimize protein intake to maximize growth; not a general causal claim.
+18,imprecise,Adsorbents are feed additives to bind mycotoxins; 'used as animal feed' is the wrong role/granularity.
+19,imprecise,KFYG is an ACE-inhibitory peptide from Undaria pinnatifida (IC50 90.5 uM); 'inhibits ACE inhibition' is garbled.
+20,correct,"Anti-nutritional compounds have an adverse impact on palatability, digestibility and nutrient utilization."
+21,correct,"'K. marxianus was sensitive to all trichothecene toxins, but ... not inhibited by other mycotoxins.'"
+22,correct,Carnosine isolated from macroalgae (Acanthophora delilei); antioxidant peptides carnosine and glutathione.
+23,imprecise,Higher polar lipid concentration needed to maintain milk fat stability/structure in Moringa-fed goats; condition dropped.
+24,correct,"'Heat stress also alters mineral metabolism, leading to electrolyte imbalances.'"

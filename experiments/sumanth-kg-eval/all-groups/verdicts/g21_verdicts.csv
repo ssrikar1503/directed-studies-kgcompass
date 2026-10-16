@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,imprecise,Lactulose stimulated apparent Mg absorption in rats (lowered ileal pH); 'affects' hides the positive direction.
+1,imprecise,Isotonic sugars may increase permeability and facilitate Mg absorption in jejunum and ileum; villus is not the agent.
+2,correct,Weaning (day 44 vs 27) decreased claudin CLDN3/CLDN5 expression in caecum of Ctrl pigs per Results.
+3,imprecise,Paper: 5-HT in islet beta cells can affect insulin secretion via autocrine pathways; object should be insulin secretion.
+4,imprecise,Feeding levels (not feed per se) and fibrous diets reduce these behaviours after a meal; 'feed' is the wrong entity.
+5,imprecise,Paper mentions asymptomatic carriage in small ruminants but does not state Listeria resides in the GI tract of food animals.
+6,correct,In obese mice oral butyrate down-regulated body weight via energy expenditure and lipid oxidation (Gao 2009).
+7,correct,Andosan (A. blazei Murill extract) users showed decreased plasma pro-inflammatory molecules including IL-2 (cited clinical studies).
+8,imprecise,"P. distasonis (Parabacteroides, not Prevotella) alleviated obesity by generating succinate and secondary BAs."
+9,correct,Anti-apoptotic BCL2 expression was increased in ROM pigs after weaning.
+10,wrong,Paper says oral behaviours (stereotypies) are useful for postprandial satiety; physical activity/AHP is a less reliable indicator.
+11,correct,L. mali APS1 modulated gut-brain axis to increase energy expenditure and suppressed appetite.
+12,correct,Obese mice were intervened with C. tyrobutyricum by gavage for six weeks.
+13,correct,NK cells from ROM-treated animals were more activated (all time points; day 26 pre-weaning).
+14,correct,Cardiorespiratory fitness and fat mass were irrelevant to alpha diversity in overweight/obese participants.
+15,correct,"0.01% APS in zebrafish diet upregulated indices of intestinal health, immune response and growth."
+16,correct,Dietary fibres reduce overall physical activity (lesser extent) in sows; fermentable fibre reduces it for hours post-meal.
+17,correct,"Gut microbiota subject to manipulation owing to dependence on diet; composition influenced by genes, diets, environment."
+18,correct,"Post-weaning, ROM pigs had higher level of Ruminococcaceae_UGG_014."
+19,correct,Antioxidants in rice bran have immune-enhancing properties including increment of the gut-mucosal barrier.
+20,imprecise,"Benzoic acid appears only as a cited reference title; the claim is about growth performance, not a finding of this paper."
+21,correct,"Curcumin inhibited AFB1-induced mitochondrial-mediated oxidative stress in duck kidney (reduced MDA, 8-OHdG)."
+22,imprecise,Paper: deregulation of muscle metabolism may induce CVD; skeletal muscle itself 'associated with' CVD is loose.
+23,correct,"MLN cells from ROM animals produced more IL-10 upon ex vivo stimulation, pre-weaning."
+24,imprecise,Ct treatment reduced HFD-induced colonic TNF-alpha; 'regulates' is uninformative and 'mixed' not supported.

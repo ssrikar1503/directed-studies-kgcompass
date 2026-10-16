@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,Aim: determine optimal OEO inclusion rate to optimize daily gain (ADG) and feed efficiency.
+1,wrong,"Table 7: FMOH L*45 80.22 and MOH 59.25 vs CON 53.96; L* increased, not decreased."
+2,correct,"Orange essential oil composition: 95.1% D-limonene, 3.8% myrcene, 1.1% alpha-pinene."
+3,imprecise,"Tocopherols are attributed to walnut co-products, not stated for egg yolk itself."
+4,correct,Lipid oxidation is discussed as determining meat quality and oxidative stability.
+5,correct,"Methods: Hue = tan-1(b/a) x 57.29, computed from redness and yellowness."
+6,wrong,Soybean meal is a diet ingredient (14%); 'source of Arabi lamb' is nonsensical and lambs are Dorper x Santa Ines.
+7,imprecise,Ash is a lamb meat composition item; pork only appears in discussion of other studies.
+8,imprecise,"Phosphorus is listed as a walnut-leaf nutrient affecting yolk, not stated as egg yolk content."
+9,imprecise,Appears only in a reference title; paper itself does not examine intestinal microbe modulation.
+10,correct,MON vs Control: reduction in desaturation index of 18-carbon fatty acids (P<0.05).
+11,imprecise,"Vitamin B5 is listed as a walnut co-product component, not egg yolk."
+12,imprecise,"Sea buckthorn meal (with walnut leaves) was given to laying hens, not broiler chickens."
+13,correct,Discussion: reduced Delta9-desaturase expression explains variation in CLA accumulation in fat.
+14,correct,Moringa oleifera leaf supplement in broiler diets is the study subject.
+15,correct,Intro: Quercus brantii acorns reported to have antioxidant properties.
+16,correct,"Text: rosemary and components improve nutrient digestibility, lipids absorption and synthesis."
+17,correct,"Study evaluates fermented Moringa effects on carcass traits (e.g., abdominal fat differed, P<0.01)."
+18,imprecise,Only a high 10% dose reduced performance; the dose condition is dropped.
+19,correct,Carcass traits such as leg muscle yield and abdominal fat differed among Moringa groups.
+20,imprecise,Statistics section says diet was a fixed effect in the model; no finding that diet influences intake.
+21,wrong,"Direction inverted: diets supply metabolizable energy to chickens, not chickens providing ME."
+22,correct,Rumen tissue sampled from the dorsal sac region in rumen morphometry methods.
+23,imprecise,"Vogtmann method determines acid-insoluble ash as digestibility marker, not ash content generally."
+24,imprecise,"Monensin used as a control additive, but lambs were Dorper x Santa Ines, not Arabi."

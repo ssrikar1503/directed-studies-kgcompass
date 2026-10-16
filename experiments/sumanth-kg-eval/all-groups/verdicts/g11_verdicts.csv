@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,wrong,"Table 4: isobutyric acid higher in alfalfa silage (0.93) than hay (0.82, P=0.052); direction inverted."
+1,correct,Sheep received Se-yeast at five levels (0-12 ug/kg BW).
+2,correct,Replacing barley with SH linearly increased FCR in Exp 2a/2b; no effect in Exp 1; feed efficiency was evaluated.
+3,imprecise,Abstract: PG higher in AHAS/AS vs AH but differences not statistically significant (a tendency only).
+4,correct,Pasture was alfalfa and tall fescue (1:1).
+5,imprecise,VFA were measured in rumen fluid (Sec 2.6); 'is source of' misstates a measurement relation.
+6,correct,"Intro: sodium selenite significantly affected Fe and Se contents in lung, muscle, liver of lambs (Palani 2019)."
+7,wrong,"Retained N and retained N/N intake were not affected by Se (Table 4, p>0.4); hypothesis not supported."
+8,correct,Table 2: plasma urea 6.67 in AHAS vs 4.79 AH and 5.00 AS (P<0.001).
+9,correct,Review: WCS milk yield response variable; hot-weather and dairy cow studies discussed.
+10,correct,Abstract: omega-6/omega-3 ratio decreased with more alfalfa silage (P<0.001).
+11,imprecise,PE tended to be higher in AHAS/AS vs AH but not significant (abstract); 'increases' overstated.
+12,imprecise,Paper says reducing WCS particle size improves digestibility; 'particle size improves WCS' is garbled.
+13,correct,"Back fat (rump, rib, lumbar) measured by ultrasound scanner in cattle (Sec 2.2.2)."
+14,wrong,"Table 3: milk yield was lower in AS (33.70 kg/d) than AH (36.14) and AHAS (35.78), P=0.011."
+15,correct,Discussion: omega-6 PUFAs have pro-inflammatory activity (Warner 2019).
+16,correct,Meat fatty acid table: C18:1 t11 shows linear increase with SH inclusion (L).
+17,imprecise,Abstract: SM higher in AS/AHAS but differences not statistically significant at subclass level.
+18,correct,Concentrate offered as a supplement to grass silage in Exp 1 and 2a.
+19,imprecise,Review reports variable milk response to WCS; 'raw milk' wrong entity; infusion result was for cottonseed meal.
+20,imprecise,Intro: sodium selenite improved Se status in blood (Faixova 2016); 'improves blood' too coarse.
+21,imprecise,Intro: Se yeast maximized digestibility of NDF in dairy cows (Wang 2009); 'digestibility' dropped.
+22,correct,Exp 1: concentrate supplement type had no effect on skeletal measurements.
+23,imprecise,"Mycotoxins in farm silages appears only as a cited reference title, not a statement in the paper."
+24,correct,Abstract: increasing SH linearly increased conjugated linoleic acid in M. longissimus.

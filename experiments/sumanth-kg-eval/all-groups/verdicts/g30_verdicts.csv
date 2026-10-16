@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,imprecise,Plasma digestive enzymes decreased at hatch but increased at 28 d (Abstract); increase is only age-specific.
+1,correct,Abstract/Results: CBP decreased plasma cholesterol (Tables 4-5).
+2,correct,Discussion: reducing hatching oxidative stress enhances post-hatch performance (Choi); implies oxidative stress impairs it.
+3,correct,Table 1 gives dietary CP as a percentage of diet.
+4,correct,Amylase and lipase activities measured in blood plasma (Figs 2-3).
+5,imprecise,"VLDL was consistently lowered by CBP (Tables 4-5), not merely 'affected'; relation uninformative."
+6,imprecise,Abstract: bioactive peptides 'hold the potential' to benefit human health; not shown for CBP.
+7,correct,Discussion: HMGCR serves as the rate-limiting enzyme of cholesterol synthesis.
+8,correct,Table 9 and Results: TP enhanced ileal amylase and lipase activities.
+9,imprecise,Table 7: VLDL reduced at all TP levels; 'influences' is vague and 'mixed' misleading.
+10,correct,"Table 7/Results: TP supplementation reduced triglycerides, best at 9%."
+11,correct,Discussion: tomato pomace is a rich product of fatty acids.
+12,correct,Discussion: lycopene 200 mg/kg in quail reduced LDL (Sahin 2006).
+13,correct,LDL measured in plasma lipid profile of quail breeders (Table 7).
+14,correct,Table 1: starter diet soybean meal 37.3%.
+15,correct,"Discussion cites lycopene reducing serum cholesterol, TG and LDL."
+16,correct,Results: TP 3 and 12% reduced plasma cholesterol (Table 7).
+17,imprecise,Silymarin appears only in a reference title (lycopene and silymarin vs aflatoxicosis); text credits lycopene.
+18,imprecise,"Feed intake was measured on broilers, but 'measured by broiler chicken' reverses the relation; malformed."
+19,imprecise,Table 7: TG reduced at all TP levels vs control; 'influences/mixed' is vague.
+20,correct,Creatinine measured as kidney function marker in quail (Table 6).
+21,correct,Table 10: TP increased egg yolk lutein concentration.
+22,correct,Discussion: Hajati found grape seed extract in ovo improved hatched chick performance.
+23,imprecise,Abstract: CBP did not significantly affect carcass characteristics (Table 3); 'impacts' misleading.
+24,imprecise,"Discussion: Schaal postulated in ovo injection may increase lipid consumption, not lipid itself."

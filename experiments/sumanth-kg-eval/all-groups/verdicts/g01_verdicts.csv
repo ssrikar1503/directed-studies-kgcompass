@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,imprecise,Paper says rumen changes affect milk exosome concentrations; 'microparticle-derived exosome' is an odd entity not in text.
+1,correct,Methane and SF6 concentrations were determined by gas chromatography (methods).
+2,imprecise,"Indoleacetaldehyde is signature in A1A2 and A2A2 groups only, not dairy cows generally."
+3,correct,Table lists phosphorous content of cowpea seeds/haulms/hay.
+4,correct,Fig 7 text: phospholipid-hydroperoxide glutathione peroxidase promotes production of 12-HETE.
+5,correct,Cited Huang 2021 title: rumen bacterial community correlated to production traits during freshening period.
+6,correct,'more optimal rumen function because of the more balanced nutrient supply'.
+7,correct,Farmers feed grains/crushed maize and grains listed among feed ingredients for milking animals.
+8,imprecise,"HPAI 2007 outbreak appears only in a reference title (Nigeria farm distribution), not as a mortality finding."
+9,correct,"Paper stresses farm management, hygiene and vaccination as Salmonella control practices."
+10,imprecise,"Paper says higher milk yield from the same feed lowers carbon footprint, not cow milk itself."
+11,correct,"Chicken liver, neck bone and egg yolk stored the highest Se levels."
+12,imprecise,Paper says cowpea hay (not haulms) was offered as complement to buffalo grass hay for Pedi goats.
+13,correct,"Whole grain amino acid profile is high in lysine, leucine and arginine."
+14,correct,Cowpea components lacking in sulphur-containing amino acids like methionine.
+15,wrong,Paper concerns dietary protein in pigs; milk protein is not discussed as supporting tissue repair.
+16,correct,Phylum level: most annotated genes belonged to Bacteroidetes (45%).
+17,correct,Arachidonic acid and Glycerophospholipid metabolism significantly enriched in A1A1VSA1A2.
+18,correct,"Concerns about negative effects of supplemental iron with infections, particularly malaria and diarrheal diseases."
+19,imprecise,Increasing dietary Se to 900 ug/kg raised Se concentration in liver; 'increases liver' drops the concentration granularity.
+20,correct,Interaction of diet with gut microbiome influences faecal CP digestibility (Verschuren 2021).
+21,correct,Regional mapping/Shirali signals on SSC9 for feed intake; association stated without direction.
+22,correct,"Large fiber consumption negatively correlated with cancer, diabetes, obesity (cited [84])."
+23,imprecise,Paper discusses mycotoxins/aflatoxin in feed; Fusarium appears only in a reference title.
+24,imprecise,Paper only says to select pigs under suboptimal hygiene for adaptive capacity; not hygiene as an NUE factor per se.

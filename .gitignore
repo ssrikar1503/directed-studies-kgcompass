@@ -5,3 +5,4 @@ GraphJudge/
 __pycache__/
 experiments/sumanth-kg-eval/all-groups/csv/
 experiments/sumanth-kg-eval/papers/
+experiments/sumanth-kg-eval/papers_tmp/

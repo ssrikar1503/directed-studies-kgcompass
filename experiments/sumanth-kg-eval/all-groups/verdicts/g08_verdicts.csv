@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,imprecise,"retrieve.pdf is a boron-in-goats study; methionine only appears in a reference, and 'affects' is uninformative."
+1,correct,"'In the mouse embryo, high expression levels of bco mRNA were reported at E7 by Northern blot.'"
+2,correct,"'lactoferrin was unable to induce apoptosis, but the peptide lactoferricin was' (THP-1 cells)."
+3,imprecise,Saposins are activator proteins 'required for the hydrolysis' of sphingolipids by lysosomal hydrolases; they do not hydrolyze.
+4,correct,"Maturation is listed as a whey function, with whey-immune system interaction as the example."
+5,correct,'Favorable effects of lycopene on human health have been reported (31).'
+6,correct,bco 'is preferentially expressed in the retinal pigment epithelium of the human eye' (cited work).
+7,correct,"Introduction: chicken can 'deposit nutrients of value to human health, such as provitamin A carotenoids'."
+8,correct,Prosaposin stimulated 'choline acetyltransferase activity in human neuroblastoma (SK-N-MC) cells'.
+9,imprecise,"Expression was analyzed in chicken (liver, duodenum, lung, kidney), not specifically laying hen."
+10,correct,'ordinary yogurt had no hypocholesterolemic effect' in rats.
+11,imprecise,Saposins are activators 'required for the hydrolysis' of gluco- and galactocerebrosides; hydrolases do the hydrolysis.
+12,correct,'Epidemiological studies report that beta-cryptoxanthin is associated with reduced risk of inflammatory disorders.'
+13,correct,'The growth-promoting properties of milk are well established.'
+14,correct,bco is the carotene oxygenase central to vitamin A formation from carotenoids; relation is vague but supported.
+15,imprecise,Paper says infection is a cause of morbidity/mortality in formula-fed infants; 'causes neonate' is malformed.
+16,correct,Lactoferrin benefits include 'its ability to decrease bacterial infection and inflammation'.
+17,correct,Milk is the sole food during intensive growth and supports growth and development.
+18,correct,Ingested lactoferrin 'would survive transit through the gastrointestinal tract as partially degraded forms' (adult mice).
+19,wrong,Paper shows loss/mutation of bco causes the ninaB phenotype; the enzyme does not cause ninaB (inverted).
+20,correct,'The laying hen has a natural ability to deposit' carotenoids such as lutein into egg yolk.
+21,correct,BCO-II cleavage of beta-carotene yields beta-apo-10'-carotenal and beta-ionone.
+22,correct,Milk contains factors 'known as prebiotics' and milk oligosaccharides have prebiotic properties.
+23,correct,'Micellar casein forms clots within the stomach...increases their hydrolysis.'
+24,correct,Lactoferrin 'damages the outer membrane of Gram-negative bacteria'.

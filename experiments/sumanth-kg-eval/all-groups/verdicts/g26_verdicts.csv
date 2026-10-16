@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,wrong,Paper says higher productivity dilutes maintenance costs; nothing about diluting protein-corrected milk.
+1,correct,Meat items are tabulated as sources of n-3 PUFA in the UK diet.
+2,correct,Table lists brewers grains as a by-product feed with feed value.
+3,correct,Fodder crops are irrigated with Hudiara drain wastewater.
+4,imprecise,Only says replacing alfalfa silage with trefoil silage lowered milk urea; relation is vague.
+5,correct,Poultry meat is a major meat source in the consumption data.
+6,correct,Manure for fertilizing crops is described as principal use maintaining fertility.
+7,imprecise,"Subject too broad; lipid values given per specific food (e.g., eggs), not animal products generally."
+8,correct,Table lists bacon and ham among meats contributing VLC n-3 PUFA intake.
+9,imprecise,Paper discusses dietary CP and N excretion/milk urea; rumen ammonia only in a corn grinding study.
+10,imprecise,"Paper: fat plus protein yield per unit DM intake 11% greater, not total lipid yield."
+11,imprecise,Mustard oil appears only in a reference title (fish oil and mustard oil trial); relation 'treated in' garbled.
+12,correct,Microwave treatment may destroy trichothecenes in corn (Scott 1998).
+13,imprecise,Paper says protein quality varies in meeting requirements; bare 'protein meets requirements' drops that.
+14,imprecise,Uranium in cattle milk appears only in a reference title; paper studies Cd/trace elements in buffalo milk.
+15,correct,Text lists mycotoxic porcine/chicken nephropathy among mycotoxin-caused diseases.
+16,correct,Ascorbic acid (300 mg/kg) gave protective effect against ochratoxin A in hens.
+17,correct,Wild salmonid fish average 841 mg/100g DHA/EPA; farmed salmonids also high.
+18,correct,Paper states animal-source proteins are an important contributor to human protein supply.
+19,imprecise,"Paper: ruminants relatively protected via rumen flora degradation; 'contaminant' generic, 'relatively' dropped."
+20,imprecise,Paper: improperly managed grazing can contribute to biodiversity loss; condition dropped.
+21,correct,Fumonisin B1 among mycotoxins provoking nephropathy in pigs and chicks.
+22,correct,Risk characterisation compares ADI/TDI with human exposure.
+23,correct,Tables report zinc content of fish; aquatic foods are zinc sources.
+24,imprecise,Ensiling for OTA in barley appears only in a reference title; text does not state it.

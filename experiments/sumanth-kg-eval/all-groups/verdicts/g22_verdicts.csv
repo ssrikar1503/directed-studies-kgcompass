@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,imprecise,"Discussion: Q has antimicrobial action on salmonellae [27]; ""controls"" overstates."
+1,correct,Abstract: soluble and insoluble fractions increased Bifidobacterium (donor-dependent; SF up in donor 1).
+2,correct,Results: soluble and insoluble fiber fractions increased SCFA production.
+3,correct,Discussion: quercetin has anti-inflammatory activities.
+4,correct,"BCSCFAs incl. 3-methylbutanoic acid increased with ISF in donor 1 and 3 (and donor 2 PC, n.s.)."
+5,imprecise,SF decreased Bifidobacterium only in PC of donor 2 (low baseline); abstract says fractions increased it.
+6,wrong,"Intro: in mouse studies INSOLUBLE fibers reduce weight gain, not soluble."
+7,correct,Abstract: insoluble fraction increased SCFA production.
+8,wrong,"Paper says Q (quebracho extract) reduces peristalsis waves in duodenum, not quercetin."
+9,correct,Methods: Tyrode solution composition includes CaCl2.
+10,correct,Pentagalloyl glucose can exemplify the chemistry of the hydrolysable tannin family.
+11,imprecise,"Only cited background that Castanea tannins reduce egg cholesterol; ""affects"" uninformative, not studied here."
+12,correct,Hydrolysable tannins generate smaller bioactive molecules such as gallic acid.
+13,correct,Table 2: castalagin and vescalagin ~30% in ENC (Castanea sativa extract).
+14,imprecise,"Decreased gallbladder contractility, not gallbladder itself, predisposes to biliary lithiasis."
+15,correct,Discussion: Blautia and Roseburia contribute to health of the immune system.
+16,correct,Results: Bifidobacteriaceae significantly increased with SF in lumen (donor 1) and mucosa.
+17,correct,Discussion: SF and ISF caused donor-dependent changes in gut microbial community.
+18,correct,Duodenum: spontaneous contractility decreases; ENC reduces tone 10% at 0.5 mg/mL.
+19,correct,Intro: prior rice bran work did not increase Bifidobacterium and Lactobacillus.
+20,correct,SF elicited donor-specific changes to gut microbiota taxonomic structure.
+21,correct,Abstract: extracts influenced spontaneous intestinal contractility in different ways.
+22,wrong,Intro: reducing antibiotic need may reduce resistance; antibiotic use contributes to it (inverted).
+23,correct,Butanoic acid increased or stable with SF in donors 2 and 3 (decreased in donor 1).
+24,correct,Methods/results: mean contraction amplitude (MCA) used as spontaneous contractility parameter.

@@ -1,0 +1,557 @@
+[
+ {
+  "group": "g10",
+  "label": "g10 Cattle_Influence_Meat",
+  "sample": "all-groups/samples/g10_sample.csv",
+  "n": 25,
+  "papers": [
+   "Comparison of bacterial communities in faeces of beef cattle fed diets containing corn and wet distillers_ grain with solubles.pdf",
+   "Dietary influence on the m. longissimus dorsi fatty acid composition of lambs in relation to protein source.pdf",
+   "Dietary sialic acid supplementation improves learning and memory in piglets.pdf",
+   "Immunopromoter improves liver apoptosis and immune response in Shaoxing ducklings.pdf",
+   "Influence of oils on the Taihe Silky Fowl production performances and fatty acids composition of the meat.pdf",
+   "Lolium multiflorum (ryegrass) diet modifies the productive response and enhances the meat of grass carp (Ctenopharyngodon idella Val.) with omega 3 fatty acid beneficial to human health.pdf",
+   "Major Advances in Applied Dairy Cattle Nutrition.pdf",
+   "Potential of ionophores as a feed additive for sustainable beef cattle production- review article.pdf",
+   "Seasonal variation in heavy metal intake and excretion by dairy cattle in an Indian megacity.pdf"
+  ]
+ },
+ {
+  "group": "g02",
+  "label": "g02 Chicken_Calcium_Enriched",
+  "sample": "all-groups/samples/g02_sample.csv",
+  "n": 25,
+  "papers": [
+   "Calcium-enriched goats_ milk aids recovery of iron status better than calcium-enriched cows_ milk, in rats with nutritional ferropenic anaemia.pdf",
+   "Camelina (Camelina sativa (L.) Crantz) as Feedstuffs in Meat Type Poultry Diet- A Source of Protein and n-3 Fatty Acids.pdf",
+   "Characterization of barley (Horduem vulgare) lys3 mutants identifes genes under the regulation of the prolamin\u2011box binding transcription factor and elucidates its role in endosperm promoter methylation during grain development.pdf",
+   "Chicken egg- a comprehensive overview regarding feed sources and human health aspects.pdf",
+   "Chlorogenic acid alleviates cadmium-induced neuronal injury in chicken cerebral cortex by inhibiting incomplete autophagy mediated by AMPK-ULK1 pathway.pdf",
+   "Comparative metabolomic profiling of eggs from 3 diverse chicken breeds using GC-MS analysis.pdf",
+   "Concentration of copper, iron, manganese and zinc in muscle, fat and bone tissue of lambs of the breed German Merino Landsheep in the course of the growing period and different feeding intensities.pdf",
+   "Conference summary of dairy goats in Asia- Current status, multifunctional contribution to food security and potential improvements.pdf",
+   "Current agronomic practices, harvest &amp_ post-harvest processing of soybeans (Glycine max) - a review.pdf"
+  ]
+ },
+ {
+  "group": "g03",
+  "label": "g03 Model_Production_Male",
+  "sample": "all-groups/samples/g03_sample.csv",
+  "n": 25,
+  "papers": [
+   "Developing a conceptual model of possible benefits of condensed tannins for ruminant production.pdf",
+   "Developmental Programming, Evolution, and Animal Welfare- A Case for Evolutionary Veterinary Science.pdf",
+   "Dietary deacetylated chitin nanoparticles confer protection against diazinon toxicity in male African catfish- evaluation of immune-biochemical, antioxidant, and reproductive profiles.pdf",
+   "Effect different levels of oak fruit processed with sodium hydroxide and urea on ruminal fermentation, morphology, ruminal degradability and microbial protein synthesis in crossed zell and atabai fattening male lambs..pdf",
+   "Effect of ellagic and gallic acid on the mitigation of methane production and ammonia formation in an in vitro model of short-term rumen fermentation.pdf",
+   "Effect of feed supplementation, rearing system and genotype on the fat-soluble vitamins content of eggs- a review.pdf",
+   "Effect of feeding growing\u2013fattening rabbits a diet supplemented with whole white lupin (Lupinus albus cv. Amiga) seeds on fatty acid composition and indexes related to human health in hind leg meat and perirenal fat.pdf",
+   "Effect of organically and conventionally produced diets on jejunal gene expression in chickens.pdf",
+   "Effects of elevated CO2 on maize physiological and biochemical processes..pdf",
+   "Evaluation of the effectiveness of alternative methods for controlling coccidiosis in broiler chickens- a field trial.pdf"
+  ]
+ },
+ {
+  "group": "g22",
+  "label": "g22 Gut_Supplementation_Soluble",
+  "sample": "all-groups/samples/g22_sample.csv",
+  "n": 25,
+  "papers": [
+   "Supplementation with soluble or insoluble rice-bran fibers increases short-chain fatty acid producing bacteria in the gut microbiota in vitro.pdf",
+   "Tannins-Based Extracts- Effects on Gut Chicken Spontaneous Contractility.pdf"
+  ]
+ },
+ {
+  "group": "g32",
+  "label": "g32 Implications_Human_Health",
+  "sample": "all-groups/samples/g32_sample.csv",
+  "n": 25,
+  "papers": [
+   "Bioactive peptides from milk- animal determinants and their implications in human health.pdf",
+   "Contemporary perspectives on the composition of milk fatty acids and implications for human health..pdf",
+   "Growth Promoters in Cattle and Pigs- A Review of Legislation and Implications for Human Health.pdf",
+   "Manipulating dietary PUFA in animal feed- implications for human health.pdf",
+   "Molecular Epidemiology of Nontyphoidal Salmonella in Poultry and Poultry Products in India- Implications for Human Health.pdf",
+   "Salmonella in fish feed_ occurrence and implications for fish and human health in Norway.pdf"
+  ]
+ },
+ {
+  "group": "g16",
+  "label": "g16 Nutrition_Human_Products",
+  "sample": "all-groups/samples/g16_sample.csv",
+  "n": 25,
+  "papers": [
+   "Meat products in human nutrition and health - about hazards and risks.pdf",
+   "Microplastics in animal nutrition- occurrence, spread, and hazard in animals.pdf",
+   "New horizons for selenium in animal nutrition and functional foods.pdf",
+   "New insights into the indigenous knowledge of the uses of the common stinging nettle (Urtica massaica Mildbr.) in Rwanda.pdf",
+   "The impact of animal source food products on human nutrition and health.pdf",
+   "The role of animal nutrition in improving the nutritive value of animal-derived foods in relation to chronic disease.pdf",
+   "The role of probiotics, prebiotics and synbiotics in animal nutrition.pdf"
+  ]
+ },
+ {
+  "group": "g41",
+  "label": "g41 Organic_Acids_Essential",
+  "sample": "all-groups/samples/g41_sample.csv",
+  "n": 25,
+  "papers": [
+   "Potential of organic acids, essential oils and their blends in pig diets as alternatives to antibiotic growth promoters.pdf",
+   "Recent advances in the role of organic acids in poultry nutrition.pdf",
+   "Recent advances of using organic acids and essential oils as in-feed antibiotic alternative in poultry feeds.pdf"
+  ]
+ },
+ {
+  "group": "g15",
+  "label": "g15 Nutrition_Human_Novel",
+  "sample": "all-groups/samples/g15_sample.csv",
+  "n": 25,
+  "papers": [
+   "A new approach to the horse nutrition- nanoparticles.pdf",
+   "A novel fluorescence immunoassay for the quantitative detection of florfenicol in animal-derived foods based on ZnCdSe&#x3a_ZnS quantum dot labelled antibody.pdf",
+   "ANIMAL NUTRITION FOR THE HEALTH OF ANIMALS, HUMAN AND ENVIRONMENT.pdf",
+   "Animal Nutrition and Productions.pdf",
+   "Animal breeding and feeding tools may close human nutrition gaps.pdf",
+   "Animal nutrition in a 360-degree view and a framework for future R&D work- towards sustainable livestock production.pdf",
+   "Cholesterol and Lipid Peroxides in Animal Products and Health Implications - A Review.pdf",
+   "Entomophagy \u2014 a novel option in animal and human nutrition.pdf",
+   "Enzymatic degradation of Ochratoxin A by a novel bacterium, Microbacterium esteraromaticum ASAG1016.pdf"
+  ]
+ },
+ {
+  "group": "g08",
+  "label": "g08 What_Cryptoxanthin_Vitamin",
+  "sample": "all-groups/samples/g08_sample.csv",
+  "n": 25,
+  "papers": [
+   "Vitamin A formation in animals- molecular identification and functional characterization of carotene cleaving enzymes.pdf",
+   "Whey components- millennia of evolution create functionalities for mammalian nutrition- what we know and what we may be overlooking.pdf",
+   "retrieve.pdf",
+   "\u03b2-Cryptoxanthin biofortified maize (Zea mays) increases \u03b2-cryptoxanthin concentration and enhances the color of chicken egg yolk.pdf"
+  ]
+ },
+ {
+  "group": "g30",
+  "label": "g30 Performance_Digestive_Enzymes",
+  "sample": "all-groups/samples/g30_sample.csv",
+  "n": 25,
+  "papers": [
+   "The impact of in ovo injection of cluster bean peptide on hatchability, growth performance, carcass characteristics, digestive enzymes, and blood indices of broiler chickens.pdf",
+   "Tomato pomace as a nontraditional feedstuff- productive and reproductive performance, digestive enzymes, blood metabolites, and the deposition of carotenoids into egg yolk in quail breeders.pdf"
+  ]
+ },
+ {
+  "group": "g28",
+  "label": "g28 Feed_Human_Moringa",
+  "sample": "all-groups/samples/g28_sample.csv",
+  "n": 25,
+  "papers": [
+   "Animal feed formulation - connecting technologies to build a resilient and sustainable system.pdf",
+   "Decontamination and detoxification strategies for the Fusarium mycotoxin deoxynivalenol in animal feed and the effectiveness of microbial biodegradation.pdf",
+   "Dietary Moringa oleifera improves goat milk quality- benefits for human nutrition and the dairy industry.pdf",
+   "Fish Meal in Animal Feed and Human Exposure to Persistent Bioaccumulative and Toxic Substances.pdf",
+   "Moringa oleifera- the miracle tree and its potential as non-conventional animal feed- a review.pdf",
+   "Red and green macroalgae for fish and animal feed and human functional food development.pdf"
+  ]
+ },
+ {
+  "group": "g13",
+  "label": "g13 Iodine_Thyroid_Content",
+  "sample": "all-groups/samples/g13_sample.csv",
+  "n": 25,
+  "papers": [
+   "A high dietary iodine increases thyroid iodine stores and iodine concentration in blood serum but has little effect on muscle iodine content in pigs.pdf",
+   "Effect of iodine source and dose on growth and iodine content in tissue and plasma thyroid hormones in fattening pigs.pdf",
+   "The effect of various iodine supplementations and two different iodine sources on performance and iodine concentrations in different tissues of broilers.pdf"
+  ]
+ },
+ {
+  "group": "g27",
+  "label": "g27 Meat_Quality_Factors",
+  "sample": "all-groups/samples/g27_sample.csv",
+  "n": 25,
+  "papers": [
+   "Animal factors affecting the meat quality of Australian lamb meat.pdf",
+   "Black soldier meal in feed could adversely affect organic broiler meat quality when used for the total or half replacement of diet proteins..pdf",
+   "Chemical composition of dietary alfalfa and its effectiveness on broiler chicken thigh meat quality.pdf",
+   "Comparison of meat quality between eland (Taurotragus oryx) and cattle (Bos taurus) raised under similar conditions.pdf",
+   "Fat deposition, fatty acid composition and meat quality- A review.pdf",
+   "The animal fat paradox and meat quality.pdf"
+  ]
+ },
+ {
+  "group": "g23",
+  "label": "g23 Acid_Fatty_Oil",
+  "sample": "all-groups/samples/g23_sample.csv",
+  "n": 25,
+  "papers": [
+   "Aged-beef quality and fatty acid profile of subcutaneous fat from Nellore and Nellore \u00d7 Angus crossbred young bulls finished in the feedlot with a high-lipid diet.pdf",
+   "Comparison of Ahiflower oil containing stearidonic acid to a high-alpha-linolenic acid flaxseed oil at two dietary levels on omega-3 enrichment of egg yolk and tissues in laying hens.pdf",
+   "Conjugated linoleic acid content of the lamb muscle and liver fed different supplements.pdf",
+   "Effects of fish oil and starch added to a diet containing sunflower-seed oil on dairy goat performance, milk fatty acid composition and in vivo \u03949-desaturation of [13C]vaccenic acid.pdf",
+   "Fatty acid composition and conjugated linoleic acid content of cow and goat cheeses from Northwest Argentina.pdf",
+   "Fish oil a source of omega-3 fatty acids affects hypothalamus heat resistance genes expressions and fatty acid composition in heat-stressed chicks.pdf",
+   "Growth performance and fatty acid profiles of intramuscular and subcutaneous fat from Limousin and Charolais heifers fed extruded linseed.pdf",
+   "Impact of dietary supplementation with Cinnamomum cassia essential oil on silver catfish (Rhamdia quelen)- Toxicological effects and muscle antioxidant and fatty acid profiles.pdf"
+  ]
+ },
+ {
+  "group": "g14",
+  "label": "g14 Acid_Milk_Fatty",
+  "sample": "all-groups/samples/g14_sample.csv",
+  "n": 25,
+  "papers": [
+   "A national systematic literature review for aflatoxin M1 in commonly consumed cheese brands in Iran- Human health risk assessment by Monte Carlo simulation.pdf",
+   "Effects of Hemp Seed on the Production, Fatty Acid Profile, and Antioxidant Capacity of Milk from Goats Fed Hay or a Mixed Shrubs\u2013Grass Rangeland.pdf",
+   "Egg yolk fatty acid profile of avian species \u2013 influence on human nutrition.pdf",
+   "Fatty acid profile and proximate composition of sirloin and chuck of selected Ethiopia cattle type.pdf",
+   "Impact of using oilseed industry byproducts rich in linoleic and alpha-linolenic acid in ruminant nutrition on milk production and milk fatty acid profile.pdf",
+   "Influence of pasture and concentrates in the diet of grazing dairy cows on the fatty acid composition of milk.pdf",
+   "Influence of season on milk fatty acid profile and sensory characteristics of grazing goats in a Mediterranean environment- a sustainable agro-food system.pdf",
+   "Supplementing silicoglycidol for the reduction of aflatoxin M1 in milk and biomarkers of liver dysfunction in dairy cows.pdf"
+  ]
+ },
+ {
+  "group": "g37",
+  "label": "g37 Carcass_Meat_Performance",
+  "sample": "all-groups/samples/g37_sample.csv",
+  "n": 25,
+  "papers": [
+   "Effect of Monascus-fermented Moringa oleifera on production performance, carcass characteristics, and meat quality attributes in broilers.pdf",
+   "Effect of Portulaca oleracea on carcass traits, fatty acid composition, meat quality and oxidative stability of Arabi lambs.pdf",
+   "Growth performance, carcass characteristics, fatty acid composition and CLA concentrations of lambs fed diets supplemented with different oil sources.pdf",
+   "Influence of feed substitution with acorns on fattening performance, carcass characteristics, and meat composition of Prestice Black-Pied pigs finished in a conventional indoor system.pdf",
+   "Orange (Citrus sinensis) essential oil inclusion in high-energy diets for feedlot lambs- productivity, eating behavior, carcass characteristics, rumen morphometry, and fatty acid profile of the meat.pdf",
+   "Potential implications of natural antioxidants from plant to improve nutritional quality, oxidative stability and lipid degradation of egg yolk- A review.pdf",
+   "The effect of nettle flour (Urtica dioica) in diets for broiler chickens on productive performance, lipid quality and oxidative stability of meat.pdf"
+  ]
+ },
+ {
+  "group": "g29",
+  "label": "g29 Performance_Growth_Digest",
+  "sample": "all-groups/samples/g29_sample.csv",
+  "n": 25,
+  "papers": [
+   "Antibiotic Uptake by Plants from Soil Fertilized with Animal Manure.pdf",
+   "Chinese herb feed additives improved the growth performance, meat quality, and nutrient digestibility parameters of pigs.pdf",
+   "Dietary Malondialdehyde Damage to the Growth Performance and Digestive Function of Hybrid Grouper (Epinephelus fuscoguttatus\u2640\u00d7 E. lanceolatu\u2642).pdf",
+   "Dietary strategies can increase cloacal endotoxin levels and modulate the resident microbiota in broiler chickens.pdf",
+   "Effect of Encapsulated Organic Acids on Intestinal Microbial population, Blood Parameters, Digestibility of Nutrients, Carcass characteristics and Performance of Broiler Chickens.pdf",
+   "Effect of fat source and soybean lecithin on performance, nutrient digestibility, and blood parameters of laying hens.pdf",
+   "Influences of Bacillus pumilus SA388 as an environmentally friendly antibiotic alternative on growth performance, blood biochemistry, immunology, cecal microbiota, and meat quality in broiler chickens.pdf",
+   "The effect of a multi-component toxin binder in aflatoxin B1-contaminated diets on growth performance in different raising periods, carcass traits and immune parameters of broilers..pdf",
+   "The effect of oregano, rosemary, and cinnamon powder on growth performance, excreta microbiota, intestinal morphology, and nutrient digestibility of broiler chickens challenged with Campylobacter jejuni..pdf",
+   "The effects of soil intake on the growth performance, rumen microbial community and tissue mineral deposition of German Mutton Merino sheep.pdf"
+  ]
+ },
+ {
+  "group": "g01",
+  "label": "g01 Review_Dairy_Based",
+  "sample": "all-groups/samples/g01_sample.csv",
+  "n": 25,
+  "papers": [
+   "1-s2.0-S0377840112003902-main.pdf",
+   "A comparative study of the composition of microorganisms and metabolites in different \u03b2-casein genetic types of dairy cows based on metagenomics and non-targeted metabolomics.pdf",
+   "A review of the nutritional use of cowpea (Vigna unguiculata L. Walp) for human and animal diets.pdf",
+   "Absorption Studies Show that Phytase from Aspergillus niger Significantly Increases Iron and Zinc Bioavailability from Phytate-Rich Foods.pdf",
+   "Animal board invited review- heritability of nitrogen use efficiency in fattening pigs- current state and possible directions.pdf",
+   "Assessment of selenium in poultry food, chicken, eggs and their potential human health risks in Khyber Pakhtunkhwa, Pakistan.pdf",
+   "Association between dairy production system and milk functionality based on analysis of miRNAs in exosomes from milk.pdf",
+   "Awareness of poultry farmers of interconnected health risks- a cross-sectional study on mycotoxins, biosecurity, and salmonellosis in Jimma, Ethiopia.pdf"
+  ]
+ },
+ {
+  "group": "g07",
+  "label": "g07 Biohydrogenation_Unsat_Fatty",
+  "sample": "all-groups/samples/g07_sample.csv",
+  "n": 25,
+  "papers": [
+   "Seleno\u2010methionine decreases biohydrogenation of C18 unsaturated fatty acids in ovine ruminal fluid incubated in vitro with \u03b1\u2010linolenic acid.pdf",
+   "Sequencing and Characterization of \u03b1s2-Casein Gene (CSN1S2) in the Old-World Camels Have Proven Genetic Variations Useful for the Understanding of Species Diversification.pdf",
+   "Starch plus sunflower oil addition to the diet of dry dairy cows results in a trans-11 to trans-10 shift of biohydrogenation.pdf",
+   "Supplemental Escherichia coli Phytase and Strontium Enhance Bone Strength of Young Pigs Fed a Phosphorus-Adequate Diet.pdf",
+   "The Consumption of Food Products from Linseed-Fed Animals Maintains Erythrocyte Omega-3 Fatty Acids in Obese Humans.pdf",
+   "The Dietary Inclusion of Ensiled Olive Cake Increases Unsaturated Lipids in Milk and Alters the Expression of Lipogenic Genes in Mammary and Adipose Tissue in Goats.pdf",
+   "The Interaction between Feed Bioactive Compounds and Chicken Genome.pdf",
+   "The role of vitamin A in mammalian reproduction and embryonic development.pdf",
+   "Transcriptome-guided breeding for Paspalum notatum- producing apomictic hybrids with enhanced omega-3 content.pdf"
+  ]
+ },
+ {
+  "group": "g40",
+  "label": "g40 Potential_Application_Garlic",
+  "sample": "all-groups/samples/g40_sample.csv",
+  "n": 25,
+  "papers": [
+   "Potential application of pelagic Sargassum spp. in animal feeding.pdf",
+   "Potential effects of garlic (Allium sativum L.) on the performance, immunity, gut health, anti-oxidant status, blood parameters, and intestinal microbiota of poultry- an updated comprehensive review.pdf",
+   "Potential use of garlic products in ruminant feeding- A review.pdf",
+   "Review on the application, health usage, and negative effects of molasses.pdf"
+  ]
+ },
+ {
+  "group": "g04",
+  "label": "g04 High_Dairy_Host",
+  "sample": "all-groups/samples/g04_sample.csv",
+  "n": 25,
+  "papers": [
+   "Evaluation of the quality of beef composition according to breed.pdf",
+   "Exploring AMH levels, homeostasis parameters, and ovarian primordial follicle activation in pubertal infected sheep on a high-protein diet.pdf",
+   "Expression of the hepatitis B surface S and preS2 antigens in tubers of Solanum tuberosum.pdf",
+   "Feeding of by-products completely replaced cereals and pulses in dairy cows and enhanced edible feed conversion ratio.pdf",
+   "Full-fat insect meals in ruminant nutrition- in vitro rumen fermentation characteristics and lipid biohydrogenation.pdf",
+   "Further evidence of the host plasticity of Porcine circovirus-2- detection of the virus in domestic dogs in Namibia.pdf",
+   "Genome-Wide Analysis of Escherichia coli Isolated from Dairy Animals Identifies Virulence Factors and Genes Enriched in Multidrug-Resistant Strains.pdf",
+   "Health applications of bioactive compounds from marine microalgae.pdf",
+   "High-starch diets induce precocious adipogenic gene network up-regulation in longissimus lumborum of early-weaned Angus cattle.pdf",
+   "Host genotype affects endotoxin release in excreta of broilers at slaughter age.pdf"
+  ]
+ },
+ {
+  "group": "g25",
+  "label": "g25 Amino_Acid_Ileal",
+  "sample": "all-groups/samples/g25_sample.csv",
+  "n": 25,
+  "papers": [
+   "Amino acid requirements in humans- with a special emphasis on the metabolic availability of amino acids.pdf",
+   "Decreasing dietary particle size of lupins increases apparent ileal amino acid digestibility and alters fermentation characteristics in the gastrointestinal tract of pigs.pdf",
+   "Ileal digestibility and endogenous flow of minerals and amino acids- responses to dietary phytic acid in piglets.pdf",
+   "Seed protein amino acid composition of important local grain legumes Lupinus angustifolius L., Lupinus luteus L., Pisum sativum L. and Vicia faba L.pdf",
+   "The efficacy of licorice root extract on meat amino acid, fatty acid, vitamin, and mineral composition and productivity of quail.pdf",
+   "True ileal amino acid digestibility and digestible amino acid scores (DIAASs) of the cruciferin and napin fractions of rapeseed- impact of processing.pdf"
+  ]
+ },
+ {
+  "group": "g33",
+  "label": "g33 Pig_Antioxidant_Meta",
+  "sample": "all-groups/samples/g33_sample.csv",
+  "n": 25,
+  "papers": [
+   "Bovine milk consumption affects the transcriptome of porcine adipose stem cells- do exosomes play any role&#x3f_.pdf",
+   "Cytotoxicity and Genotoxicity of Ethoxyquin Used As an Antioxidant.pdf",
+   "Determination of Antioxidant, Antimicrobial, and Antiproliferative Activities of Onobrychis argyrea subsp. argyrea Extracts.pdf",
+   "Determination of mycobiota and mycotoxins in pig feed in central Argentina.pdf",
+   "Dietary acidifiers as an alternative to antibiotics for promoting pig growth performance- A systematic review and meta-analysis.pdf",
+   "Integrated meta-omics reveals the regulatory landscape involved in lipid metabolism between pig breeds..pdf",
+   "Investigation of Ochratoxin A level in feed used in bovine feeding in Ardahan Province..pdf",
+   "Is the milk we drink safe from elevated concentrations of prioritised heavy metals&#x3a_metalloids&#x3f_ - a global systematic review and meta-analysis followed by a cursory risk assessment reporting.pdf",
+   "Kinetics of the appearance of cereal alkylresorcinols in pig plasma.pdf"
+  ]
+ },
+ {
+  "group": "g20",
+  "label": "g20 Feed_Livestock_Feeds",
+  "sample": "all-groups/samples/g20_sample.csv",
+  "n": 25,
+  "papers": [
+   "Adoption of on-farm feed safety practices among livestock farmers- Evidence from Saudi Arabia.pdf",
+   "Detection of Trichothecenes in Animal Feeds and Foodstuffs during the Years 1997 to 2000 in Saudi Arabia.pdf",
+   "First detection of anatoxin-a in human and animal dietary supplements containing cyanobacteria.pdf",
+   "Fungal treated lignocellulosic biomass as ruminant feed ingredient- A review.pdf",
+   "Inputs of polychlorinated biphenyl residues in animal feeds.pdf",
+   "Review- Use of human-edible animal feeds by ruminant livestock.pdf",
+   "Ruminant livestock farmers and industry are leading innovation to deliver human nutrition and improved environmental outcomes through sector lifecycle collaboration- a review of case studies..pdf",
+   "The safety assessment of Pythium irregulare as a producer of biomass and eicosapentaenoic acid for use in dietary supplements and food ingredients.pdf",
+   "Use of biochar as feed supplements for animal farming.pdf"
+  ]
+ },
+ {
+  "group": "g21",
+  "label": "g21 Intestinal_Microbiota_Pigs",
+  "sample": "all-groups/samples/g21_sample.csv",
+  "n": 25,
+  "papers": [
+   "Agaricus subrufescens fermented rye affects the development of intestinal microbiota, local intestinal and innate immunity in suckling-to-nursery pigs.pdf",
+   "Antimicrobial Effects of Plant-Based Supplements on Gut Microbial Diversity in Small Ruminants.pdf",
+   "Astragalus polysaccharide- implication for intestinal barrier, anti-inflammation, and animal production.pdf",
+   "Curcumin alleviates AFB1\u2011induced nephrotoxicity in ducks- regulating mitochondrial oxidative stress, ferritinophagy, and ferroptosis.pdf",
+   "Effects of Clostridium tyrobutyricum on lipid metabolism, intestinal barrier function, and gut microbiota in obese mice induced by high-fat diet..pdf",
+   "Effects of Dietary Fibers on Magnesium Absorption in Animals and Humans.pdf",
+   "Effects of dietary fibre on behaviour and satiety in pigs.pdf",
+   "Gut microbiota and its metabolites- Bridge of dietary nutrients and obesity-related diseases.pdf"
+  ]
+ },
+ {
+  "group": "g12",
+  "label": "g12 Feed_Poultry_Additives",
+  "sample": "all-groups/samples/g12_sample.csv",
+  "n": 25,
+  "papers": [
+   "A glance of feed hygiene and importance of mycotoxins in poultry feedstuffs.pdf",
+   "Improving productivity in rabbits by using some natural feed additives under hot environmental conditions - a review.pdf",
+   "Insights on the use of butyric acid, and nucleotides as feed additives in poultry- a review..pdf",
+   "Promising phytogenic feed additives used as anti-mycotoxin solutions in animal nutrition.pdf",
+   "Synthesis of selenium conjugated insects_ protein in Hermetia illucens larvae as poultry feed.pdf",
+   "The potential of black soldier fly (Hermetia illucens L.) larvae in chicken and swine nutrition. A review..pdf"
+  ]
+ },
+ {
+  "group": "g05",
+  "label": "g05 Dairy_Impact_Goats",
+  "sample": "all-groups/samples/g05_sample.csv",
+  "n": 25,
+  "papers": [
+   "How methods to assess land-use changes influence the resulting global warming potential and cost of optimized diets- a case study on Danish pigs applying life cycle assessment methodology.pdf",
+   "In vitro digestion and fermentation methods, including gas production techniques, as applied to nutritive evaluation of foods in the hindgut of humans and other simple-stomached animals.pdf",
+   "Inclusion of lemon leaves and rice straw into compound feed and its effect on nutrient balance, milk yield, and methane emissions in dairy goats.pdf",
+   "Lipo-nutritional quality of pork- the lipid composition, regulation, and molecular mechanisms of fatty acid deposition.pdf",
+   "MILK Symposium review- Sustainability of dairy production and consumption in low-income countries with emphasis on productivity and environmental impact.pdf",
+   "Metal Concentrations and Histopathological Changes in Goats (Capra hircus) Reared Near an Industrial Area of West Bengal, India.pdf",
+   "Modelling potential human exposure to the nitrification inhibitor dicyandiamide through the environment-food pathway.pdf",
+   "Nanominerals in nutrition- Recent developments, present burning issues and future perspectives.pdf"
+  ]
+ },
+ {
+  "group": "g31",
+  "label": "g31 Dairy_Farms_Food",
+  "sample": "all-groups/samples/g31_sample.csv",
+  "n": 25,
+  "papers": [
+   "Assessment of food-feed competition for producing milk in cow dairy farms.pdf",
+   "Feed-food and land use competition of lowland and mountain dairy cow farms.pdf",
+   "Mycotoxins in Portuguese agricultural maize fields and dairy farms.pdf",
+   "The critical control point of Aspergillus spp. aflatoxin contamination in smallholder dairy farms..pdf"
+  ]
+ },
+ {
+  "group": "g11",
+  "label": "g11 Alfalfa_Intake_Cattle",
+  "sample": "all-groups/samples/g11_sample.csv",
+  "n": 25,
+  "papers": [
+   "Selenium supplementation improves nutrient intake and digestibility, and mitigates CH4 emissions from sheep grazed on the mixed pasture of alfalfa and tall fescue.pdf",
+   "Substituting barley with Soya bean hulls in the concentrate offered to beef cattle as a supplement to grass silage or ad libitum- intake, feed efficiency, carcass and selected meat quality traits.pdf",
+   "Variations in the milk lipidomic profile of lactating dairy cows fed the diets containing alfalfa hay versus alfalfa silage.pdf",
+   "Whole cottonseed in dairy cattle feeding- a review.pdf"
+  ]
+ },
+ {
+  "group": "g26",
+  "label": "g26 Food_Human_Chain",
+  "sample": "all-groups/samples/g26_sample.csv",
+  "n": 25,
+  "papers": [
+   "An approach to including protein quality when assessing the net contribution of livestock to human food supply.pdf",
+   "Contributions of animal agriculture to meeting global human food demand.pdf",
+   "Fish Matters- Importance of Aquatic Foods in Human Nutrition and Global Food Supply.pdf",
+   "Food Safety and Increasing Hazard of Mycotoxin Occurrence in Foods and Feeds.pdf",
+   "Human and animal health risk assessments of chemicals in the food chain- Comparative aspects and future perspectives.pdf",
+   "Review- Optimizing ruminant conversion of feed protein to human food protein.pdf",
+   "Very long chain n-3 polyunsaturated fatty acids in the food chain in the UK and the potential of animal-derived foods to increase intake.pdf",
+   "Wastewater driven trace element transfer up the food chain in peri-urban agricultural lands of Lahore, Pakistan.pdf"
+  ]
+ },
+ {
+  "group": "g18",
+  "label": "g18 Health_Human_Exposure2",
+  "sample": "all-groups/samples/g18_sample.csv",
+  "n": 25,
+  "papers": [
+   "Nitrite in feed- From Animal health to human health.pdf",
+   "Pasture-fnishing of bison improves animal metabolic health and potential health-promoting compounds in meat.pdf",
+   "Potential adverse effects on animal health and performance caused by the addition of mineral adsorbents to feeds to reduce mycotoxin exposure.pdf",
+   "Risk assessment of coccidostatics during feed cross-contamination- Animal and human health aspects.pdf",
+   "Toxicological risk assessment of triadimenol for human exposure, broiler health and food safety.pdf",
+   "Transcriptional modulation in Mediterranean mussel Mytilus galloprovincialis following exposure to four pharmaceuticals widely distributed in coastal areas.pdf"
+  ]
+ },
+ {
+  "group": "g36",
+  "label": "g36 Farm_Animals_Lactation",
+  "sample": "all-groups/samples/g36_sample.csv",
+  "n": 25,
+  "papers": [
+   "Contribution of Research with Farm Animals to Protein Metabolism Concepts- A Historical Perspective.pdf",
+   "Nutrition in mammary gland health and lactation- Advances over eight Biology of Lactation in Farm Animals meetings.pdf",
+   "Pesticides residues in milks and feedstuff of farm animals drawn from Greece.pdf",
+   "Review- welfare in farm animals from an animal-centred point of view.pdf",
+   "Using of Olive Oil By-Products In Farm Animals Feeding.pdf"
+  ]
+ },
+ {
+  "group": "g17",
+  "label": "g17 Health_Human_Exposure",
+  "sample": "all-groups/samples/g17_sample.csv",
+  "n": 25,
+  "papers": [
+   "A short-term exposure to saxitoxin triggers a multitude of deleterious effects in Daphnia magna at levels deemed safe for human health.pdf",
+   "Effect of aflatoxin exposure in livestock and public health- review..pdf",
+   "Estimation of heavy metals in egg varieties- a potential risk assessment for human health.pdf",
+   "Food-producing animals and their health in relation to human health.pdf",
+   "Glucosinolates in Brassica foods- bioavailability in food and significance for human health.pdf",
+   "Human health risk from co-occurring mycotoxins in dairy- a feed-to-fork approach.pdf",
+   "Monitoring mycotoxin exposure in food-producing animals (cattle, pig, poultry, and sheep).pdf"
+  ]
+ },
+ {
+  "group": "g06",
+  "label": "g06 Selenium_Nutrition_Livestock",
+  "sample": "all-groups/samples/g06_sample.csv",
+  "n": 25,
+  "papers": [
+   "Nanominerals- Fabrication Methods, Benefits and Hazards, and Their Applications in Ruminants with Special Reference to Selenium and Zinc Nanoparticles.pdf",
+   "Occurrence of sulfonamide-, tetracycline-, plasmid-mediated quinolone- and macrolide-resistance genes in livestock feedlots in Northern China.pdf",
+   "On-farm welfare conditions of dairy donkeys- a case study in northern Serbia..pdf",
+   "Oral IGF-I Alters the Posttranslational Processing but Not the Activity of Lactase-Phlorizin Hydrolase in Formula-Fed Neonatal Pigs.pdf",
+   "Poultry nutrition- achievement, challenge and strategy.pdf",
+   "Producing selenium-enriched eggs and meat to improve the selenium status of the general population.pdf",
+   "Reducing washout of proteins from defatted soybean flakes by alkaline extraction- fractioning and characterization.pdf",
+   "Review- Feed demand landscape and implications of food-not feed strategy for food security and climate change.pdf",
+   "Review- Trends for meat, milk and egg consumption for the next decades and the role played by livestock systems in the global production of proteins.pdf"
+  ]
+ },
+ {
+  "group": "g35",
+  "label": "g35 Properties_Nutritional_Pot",
+  "sample": "all-groups/samples/g35_sample.csv",
+  "n": 25,
+  "papers": [
+   "Combined in silico investigation and in vitro characterization of the zearalenone detoxification potential of dye-decolorizing peroxidase from Bacillus subtilis 168.pdf",
+   "Fatty Acid Indices and the Nutritional Properties of Karakul Sheep Meat.pdf",
+   "Pharmacological, nutraceutical, and nutritional properties of flaxseed (Linum usitatissimum)- An insight into its functionality and disease mitigation.pdf",
+   "Physical and nutritional properties of buffalo meat finished on hay or maize silage\u2010based diets.pdf",
+   "Physiochemical properties and medicinal, nutritional and industrial applications of Lebanese Sumac (Syrian Sumac - Rhus coriaria)- A review.pdf",
+   "Phytochemical and Potential Properties of Seaweeds and Their Recent Applications- A Review.pdf",
+   "Two Antimicrobial Peptides Derived from Bacillus and Their Properties.pdf"
+  ]
+ },
+ {
+  "group": "g24",
+  "label": "g24 Acid_Cla_Egg",
+  "sample": "all-groups/samples/g24_sample.csv",
+  "n": 25,
+  "papers": [
+   "Neuron-derived neurotrophic factor promotes the differentiation of intramuscular and subcutaneous adipocytes in goat.pdf",
+   "Substitution of dietary fish oil with plant oils is associated with shortened mid intestinal folds in Atlantic salmon (Salmo salar).pdf",
+   "The impact of dietary oregano essential oil supplementation on fatty acid composition and lipid stability in eggs stored at room temperature.pdf",
+   "Trace minerals in laying hen diets and their effects on egg quality.pdf"
+  ]
+ },
+ {
+  "group": "g38",
+  "label": "g38 Nutritional_Value_Meat",
+  "sample": "all-groups/samples/g38_sample.csv",
+  "n": 25,
+  "papers": [
+   "Enhancing the Nutritional Value of Red Meat through Genetic and Feeding Strategies.pdf",
+   "Nutritional Value of Silkworm Pupae (Bombyx mori) with Emphases on Fatty Acids Profile and Their Potential Applications for Humans and Animals.pdf",
+   "Nutritional value of selected macroalgae.pdf",
+   "Using Microalgae as a Sustainable Feed Resource to Enhance Quality and Nutritional Value of Pork and Poultry Meat.pdf"
+  ]
+ },
+ {
+  "group": "g34",
+  "label": "g34 Pig_Bovine_Metagenomic",
+  "sample": "all-groups/samples/g34_sample.csv",
+  "n": 25,
+  "papers": [
+   "Metagenomic Sequencing Analysis of the Effects of Acetylcysteine on the Pig Gut Microbiome.pdf",
+   "Metagenomic insights into isolable bacterial communities and antimicrobial resistance in airborne dust from pig farms.pdf",
+   "Prion biology relevant to bovine spongiform encephalopathy.pdf",
+   "The Effects of Black Mulberry (Morus nigra L.) Leaf Powder on Performance, Egg Quality, Egg Antioxidant Capacity, and Yolk Cholesterol Levels in Laying Hens.pdf",
+   "The occurrence of thiouracil in pig and bovine urine collected from Croatian farms.pdf",
+   "Traditional and emerging Fusarium mycotoxins disrupt homeostasis of bovine mammary cells by altering cell permeability and innate immune function.pdf",
+   "m6A methylation mediates the function of the circRNA-08436&#x3a_miR-195&#x3a_ELOVL6 axis in regards to lipid metabolism in dairy goat mammary glands.pdf"
+  ]
+ }
+]

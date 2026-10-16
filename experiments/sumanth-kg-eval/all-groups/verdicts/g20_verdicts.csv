@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,Extraction/clean-up and TLC steps use acetonitrile-water and toluene-acetonitrile for trichothecene analysis.
+1,imprecise,Paper says biochar can deactivate toxins in broilers' digestive system; not specific to bamboo charcoal or phytotoxins.
+2,wrong,Table: ANFA sample 3 has fibre 3.4 and ashes 6.7; paper never reports cellulose content.
+3,correct,Cited reference title: effect of unsaturated C18 fatty acids on ruminal fermentation and production of fatty acid isomers.
+4,correct,"Paper: NDF is assumed to consist of hemicellulose, cellulose and lignin."
+5,imprecise,"Paper: A. flos-aquae is prone to contamination by other cyanobacteria that produce microcystin, not by microcystin directly."
+6,imprecise,Paper: ruminant use of cereal grains competes with humans for cultivatable land; subject/object misstate it.
+7,correct,Paper: adoption rate of feed safety practices by female farmers is higher than male farmers.
+8,correct,"Paper: marine bacteria, fungi and microalgae are capable of synthesizing EPA de novo."
+9,correct,Paper: meat and eggs are produced by livestock farming in Saudi Arabia.
+10,correct,Paper: activated charcoal long used to treat digestive disorders in humans and animals.
+11,correct,Table 3: HT-2 detected in maize in 2/189 samples (3.1-6.5 ug/kg); description's 6.3 value belongs to NEO but triple holds.
+12,correct,Paper: too frequent transfer can result in fungal degeneration due to decreased genome stability.
+13,correct,Cited reference title: S. cerevisiae effect on ruminal fermentation and fibre degradation of maize silages.
+14,imprecise,"Paper: feedstocks for biochar must be free of rubber; object should be feedstock, not bamboo charcoal itself."
+15,correct,Paper: bamboo biochar decreased pathogenic coliforms and Salmonella in pigs; biochar reduces pathogens via adsorption.
+16,correct,Cited reference: quantitative changes in biochemical composition of lignocellulosic residues during L. edodes growth.
+17,correct,"Paper: microorganisms can produce ARA-, DHA- or EPA-rich SCO."
+18,wrong,"Paper: sugars such as glucose added to culture can induce faster colonization, not lignin."
+19,correct,Paper: bamboo biochar raised IgG and immunity in pigs; effects on animal immunity are reviewed.
+20,correct,Paper lists composition of the extraction solvent as a factor affecting the FUSE analytical process.
+21,correct,Paper: wood decay (white rot) fungi pretreat lignocellulosic biomass for ruminant feed.
+22,imprecise,Paper: high-lignin feedstock yields more biochar (char formation); lignin does not increase bamboo charcoal itself.
+23,correct,Paper: DHASCO-S oil is derived from Schizochytrium and is DHA-based.
+24,correct,Paper: adaptive grazing systems contribute to rangeland restoration.

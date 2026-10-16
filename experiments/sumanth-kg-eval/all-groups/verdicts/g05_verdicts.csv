@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,imprecise,"Cd-cancer appears only as a cited reference title (Nawrot 2006); paper itself reports Cd tissue levels and pathology, not cancer."
+1,correct,Methods: 'cradle to feed-gate' covers all activities in production of a ready-to-eat feed mixture.
+2,correct,"Results: Cd, Pb, Cu and Co were significantly greater in soil, forage and water at the polluted site."
+3,imprecise,"Paper says NPs were tested (added to freezing medium) for protecting semen; no protection shown, and 'inorganic' not stated."
+4,correct,Review lists oligosaccharides among substrates available for colonic fermentation.
+5,correct,Table 1 lists in vitro fermentation studies using citrus pulp as substrate (Sunvold et al. 1995).
+6,correct,Discussion: TLC showed decreased lymphocyte counts due to toxic effects of heavy metals on lymphoid cells.
+7,imprecise,Paper says the LUC assessment METHOD changes GWP results; 'change of cultivation' misstates the entity.
+8,correct,Intro lists nanozymes among nanomaterial applications.
+9,imprecise,Barley appears only as in vitro/in vivo digestibility comparison in pigs; 'has digestible energy' is uninformative and Chen found low correlation.
+10,imprecise,Paper reports DCD leaching losses FROM soil (nitrate/DCD leaching); 'leaches into soil' reverses the direction.
+11,correct,Section 2: limited bioavailability of inorganic salts necessitates higher doses.
+12,correct,"Review: H. saccharovorans among four species that may be key in lipid regulation and upregulate FADS1, FABP4, FASN."
+13,correct,Intro: pesticide application to croplands may result in leaching of toxic substances into groundwater.
+14,correct,Paper: sustainable intensification of milk production addresses food security in low-income countries.
+15,correct,Table 1: ether extract 2% in CON diet vs 4% in LRS diet.
+16,wrong,Results: 'Diet had no effect on milk yield' (2.27 kg/d across diets); influence is contradicted.
+17,correct,Review: SCFA are primary products of hindgut fermentation of dietary fibre.
+18,wrong,"6.2% GWP reduction is optimization vs baseline; including direct LUC raised GWP versus noLUC, so 'dLUC reduces GWP' is inverted."
+19,correct,"Intro: vegetables, soil and water are alarmingly contaminated with toxic metals."
+20,imprecise,Study measured glucose as a minor constituent of goat milk and blood glucose separately; 'blood-glucose in cow milk' conflates entity and species.
+21,correct,Review: fat accumulation results when fatty acid synthesis exceeds degradation.
+22,correct,"Paper: increases in lactating cow numbers drove milk production growth (e.g., Ethiopia, Nepal)."
+23,correct,Results: Cu significantly higher in water at the polluted site; 'inorganic' qualifier is minor.
+24,correct,"Xu et al. 2019 cited: 400 mg/kg APP significantly increased total ALA, DHA and n-3 PUFA in LD of finishing pigs."

@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,Implications: pasture improved UFAs and conjugated linoleic acid isomers (herbage=pasture).
+1,correct,Intro/HRA: AFM1 carcinogenic (IARC group 1); liver cancer risk (LCR) and additional cancer cases computed.
+2,correct,Table: Rubinia pseudoacacia NDF 49.53% DM.
+3,correct,Cites Ip et al. 1994: CLA suppresses mammary carcinogenesis in the rat.
+4,correct,"Intro: n-3 FA (ALA, EPA, DPA) have beneficial effects on human health."
+5,correct,Reference [17]: confirmatory AFM1 method in milk based on immunoaffinity columns and HPLC (cited title only).
+6,imprecise,"Worst n-6/n-3 values were in conventional hay+concentrate (H-C) goat milk only, not goat milk generally."
+7,correct,"Camelina listed among byproducts for dairy cows, sheep, goats (ALA-rich)."
+8,wrong,"Study found AF did not affect liver-health biomarkers; examined effect only, none found."
+9,imprecise,"ATX is a sequestering agent for AF in feed; it reduces AFM1 in milk/urine, not AFM1 itself."
+10,correct,Abstract: sirloin had significantly higher MUFA (42.38%) than chuck.
+11,correct,Concentrate was a rich source of LA; egg paper says grains rich in 18:2n-6.
+12,imprecise,Milk fat concentration was NS across pasture allowance; pasture raised some SFA proportions only.
+13,imprecise,Paper says cheese AFM1 may come from contaminated milk/milk powder; goat milk not specified.
+14,correct,RA comes from ruminal biohydrogenation of dietary LA and ALA; ALA is a precursor.
+15,imprecise,TI lower only in May-June samples vs Aug-Sep; not a general property of goat milk.
+16,correct,Cold-pressed cake defined as byproduct; cakes studied as feed for dairy cows and goats.
+17,correct,iNDF used as internal marker to estimate apparent total-tract digestibility from feces.
+18,correct,Dietary AF was transferred into urine and milk; ATX reduced AFM1 in urine.
+19,correct,"CLA depends on feed retention time in the rumen (hypothesized, ""probably"")."
+20,correct,Milk fat is the richest natural source of CLA.
+21,correct,Cites rumen biohydrogenation intermediates in diet-induced milk fat depression (ref 19).
+22,correct,Cited reference: lutein and zeaxanthin raise concentrations without altering serum lipids in older adults.
+23,imprecise,Pumpkin seed cake is classed as LA-rich; ALA-rich byproducts are camelina and linseed.
+24,correct,Boran cattle contained arachidic acid (C20:0) among their fatty acids.

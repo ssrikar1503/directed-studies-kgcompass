@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,"Trace element (Fe, Cu, Zn) tables list pancreas among tissues measured."
+1,correct,Live weight of a chick per replicate recorded at day 42 before slaughter.
+2,correct,Fig. 1 reports inhibition zones of B. pumilus SA388 against Listeria monocytogenes.
+3,correct,Hindgut samples were placed in RNAlater for mRNA expression analysis.
+4,correct,Abstract: increased dietary MDA linearly reduced the growth rate of hybrid grouper.
+5,correct,"Table 5/6: AST measured in plasma of laying hens, decreased by lecithin."
+6,correct,Abstract: soil ingestion reduced species richness of rumen bacteria.
+7,imprecise,Paper says antibiotics generally select for resistance; erythromycin is never mentioned.
+8,wrong,"Abstract: H/L ratio significantly INCREASED as aflatoxin B1 level rose, not reduced."
+9,correct,Intro: manure used as a source of organic matter to improve soil quality.
+10,correct,Abstract cites thymol as antibacterial compound of the plants incl. oregano.
+11,imprecise,"Paper tested inulin (Fibrofos 60), not FOS by name; relation 'affects' is vague."
+12,wrong,Corn is a diet ingredient for chicks; 'maize is source of broiler chicken' is nonsensical.
+13,correct,Cinnamon powder (3 g/kg) tested for growth performance; effect intermediate.
+14,correct,Abstract: all three crops absorbed chlortetracycline from manure-amended soil.
+15,imprecise,Methionine (not DL-methionine supplement form) was increased in muscle of groups B and C.
+16,correct,Table lists serum Na (mM) measured in pigs.
+17,correct,Discussion: B. pumilus SA388 identified as probiotic with antioxidant properties.
+18,correct,"Rosemary antimicrobial activity attributed to verbenone, cineole, camphor, borneol."
+19,imprecise,Moisture increase refers to breast meat moisture; bare 'moisture' drops that context.
+20,wrong,Carcass results: breast percentage not significantly affected by binder or aflatoxin.
+21,correct,Soybean meal listed among major protein sources in the basal diet.
+22,correct,Discussion: pathogens cause inflammation with obvious negative impact on animal growth.
+23,correct,Abstract: aflatoxin B1 significantly altered heterophil-to-lymphocyte ratio (increased).
+24,correct,Abstract: C. jejuni weakened growth performance of challenged broilers.

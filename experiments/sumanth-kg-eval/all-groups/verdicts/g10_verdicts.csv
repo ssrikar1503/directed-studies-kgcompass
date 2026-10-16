@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,imprecise,Paper reports OTU abundance/community differences between corn and WDGS libraries; 'is associated with OTU' is uninformative.
+1,correct,Abstract: dose-response between sialic acid supplementation and GNE mRNA levels in hippocampus and liver.
+2,correct,Results: IFN-b mRNA significantly increased after injection of all five immunopotentiators incl. astragalus flavone (Fig 3C).
+3,correct,Discussion: ganglioside synthesis increases after long-term active avoidance conditioning.
+4,correct,Piglets received sialic acid via milk replacer at graded doses.
+5,correct,Intro: by the 1970s monensin had become a prevalent feed supplement for ruminants.
+6,correct,Intro: PUFA play important roles in human health.
+7,correct,Discussion: inclusion of fat could improve palatability and feed intake.
+8,correct,Review text: ionophores lead to alterations in ruminal microbiota and fermentation.
+9,correct,Fish oil significantly lowered cholesterol in meat and serum versus control and palm oil.
+10,correct,Discussion cites Thapa et al.: CpG DNA delivery in eggs increased number of macrophages.
+11,imprecise,"Linoleic acid is a measured FA in the muscle, but 'is measured in' is an uninformative relation, not a finding."
+12,correct,Discussion: learning behavior increases brain sialic acid incorporation; sialic acid linked to learning.
+13,correct,Infant formulas provided little sialic acid compared with human milk (~0.7 g/L).
+14,correct,Concentrate feed entailed daily Cr intake of ~5.6-7.8 mg per cow.
+15,correct,Diets with higher P concentrations do not benefit animals and increase P excretion.
+16,correct,Cited result: soybean oil with high-concentrate diet does not affect site and extent of organic matter digestion.
+17,correct,Ionophores disrupt bacterial ion balance and inhibit growth.
+18,imprecise,Paper's GNE result is a dose-response mRNA increase; 'affects' is vague and description only states the aim.
+19,correct,Rumen-protected methionine sometimes supplemented for high-producing cows fed primarily leguminous protein.
+20,imprecise,CpG-DNA decreased anti-apoptotic Bcl2 and raised caspase3; 'increases apoptosis' misstates genes involved.
+21,correct,Pb intake from lake fodder was higher in winter than monsoon/summer; LF-cows ingested Pb from lake fodder.
+22,imprecise,Paper says changes may not suffice to impact human health; 'is associated with' misrepresents this.
+23,correct,Review: ionophores in ruminant diets enhance animal performance and feed efficiency.
+24,correct,Grain diet had lower moisture content than pasture diet (P<.05).

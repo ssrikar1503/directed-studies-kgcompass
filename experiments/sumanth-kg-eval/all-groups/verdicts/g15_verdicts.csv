@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,Paper presents insects/entomophagy as a novel option in human nutrition and a source of valuable proteins.
+1,correct,Alpha-amylase activity increased in coexistence with citrate-reduced gold and silver nanoparticles (Saware 2015).
+2,imprecise,"Paper says oxysterol levels depend on processing temperature generally; 20alpha-hydroxycholesterol is one specific oxysterol, not singled out."
+3,imprecise,Paper says the I/Se ratio is significant; 'is balanced with' is vague and misses that a high I:Se ratio is potentially harmful.
+4,correct,Paper: combat oxidative stress with plant antioxidants/natural feed supplements; nutrition affects oxidative stress.
+5,correct,Paper: strategies can be applied to increase (long chain) n-3 PUFA content of animal fat; pork fat is the focus of 4.1.1.
+6,correct,"'Lipid-based nanoencapsulation systems, which contribute to increased particle solubility and bioavailability'."
+7,imprecise,Paper says horses tolerate urea only within ~15% of plasma urea levels; it does not state that urea increases plasma urea.
+8,correct,"Higher enzyme content increases availability of active sites, accelerating reaction speed."
+9,correct,"Strategies increasing nutrient-use efficiency also enhance animal health, welfare and production."
+10,correct,CoQ10 with vitamin C and E often used to combat oxidative stress in racehorses.
+11,correct,Washing and thorough heating greatly reduces risk of foodborne bacterial diseases.
+12,wrong,"Aspergillus positivity of 71.4%/100% was for sunflower MEAL (feed raw material), not sunflower honey."
+13,correct,Nanoparticles supported by their easy digestibility through the intestinal lumen.
+14,correct,Nanoparticles are frequently used in ruminant and poultry nutrition.
+15,correct,CoQ10 suspensions are often used to combat oxidative stress in racehorses.
+16,correct,"Nutrition involved in regulation of metabolism, among its functions."
+17,correct,"Weaning stress can lead to infections, diarrhea and increased mortality rate."
+18,correct,'Se and vitamin D content in meat may be negatively influenced by breeding choices.'
+19,correct,Table lists mortadella at 27.00 g fat per 100 g.
+20,correct,Ghee is mainly produced from cow's milk or buffalo milk; cow's milk ghee is more stable.
+21,imprecise,Light-effects on A. ochraceus appear only as a reference title in the bibliography; no body-text claim.
+22,correct,Particle size and zeta potential of QDs measured by Malvern analyser (Fig. 2F).
+23,correct,Heavy metal content in Hermetia illucens pupae depends on the growth substrate.
+24,correct,"Strategies increasing nutrient-use efficiency also enhance animal health, welfare and production."

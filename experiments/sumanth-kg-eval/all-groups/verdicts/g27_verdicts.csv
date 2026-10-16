@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,Paper: findings support using breeding values (ASBVs) to improve lean meat yield.
+1,correct,Alfalfa MUFA content discussed (lower than PUFA; 8.3 g/100 g).
+2,imprecise,Origanum vulgare only appears as a reference title; relation 'affects' is uninformative.
+3,correct,Pigs: proportion of 18:0 increased from 10% to 13% over time in subcutaneous fat.
+4,imprecise,Breast lesions were a welfare parameter measured; 'indicator of broiler chicken' misstates it.
+5,correct,Table 3: BSL meal lysine 2.94 g/100 g.
+6,imprecise,Paper discusses muscle fat content affecting FA composition; 'muscle influences fatty acid' is too coarse.
+7,correct,18:2n-6 is a component of muscle total lipid fatty acids.
+8,wrong,Entity '18:2 n/C06' is OCR-garbled (18:2n-6); surface form nonsensical.
+9,imprecise,Fat and long-chain FAs contribute to meat quality generally; 'thigh meat' is not the paper's object.
+10,wrong,Entity '18:3n /O3' is garbled (18:3n-3); surface form nonsensical though ALA in adipose is supported.
+11,correct,Linoleic acid is converted to homogammalinolenic and arachidonic acids.
+12,imprecise,Marbling fat contributes to juiciness/tenderness; 'adipose tissue improves texture' is imprecise.
+13,imprecise,n-6/n-3 ratio is a meat quality indicator generally; 'indicator of thigh meat' is uninformative.
+14,correct,"Alfalfa significantly affected bioactive compounds (zinc, vitamin E, TPC) in thigh meat."
+15,correct,Tables show C20:4 n-6 significantly lower with BSL meal inclusion.
+16,correct,At same backfat thickness entire males had higher 18:2n-6 proportion.
+17,imprecise,Paper says fat tissue is source of characteristic species flavour; not specifically pork.
+18,correct,Marbling fat (total lipid) in longissimus varies with P2 fat thickness.
+19,correct,"Alfalfa 'is a rich zinc-iron, manganese, and zinc source'."
+20,correct,Alfalfa may be a plant-derived antioxidant ingredient with beneficial meat quality effects.
+21,imprecise,Capacity for PUFA incorporation into phospholipid is limited; relation 'incorporation into' omits limitation.
+22,correct,Paper relates fat/lipids to meat quality.
+23,correct,Thawing loss (%) measured in cattle longissimus lumborum (Table).
+24,imprecise,Alfalfa raised zinc concentration in thigh meat (50.63 vs 54.79 mg/kg); 'increases zinc' drops meat concentration.

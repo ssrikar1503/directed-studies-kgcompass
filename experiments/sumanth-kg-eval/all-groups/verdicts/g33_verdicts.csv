@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,Exo-Check array lists ICAM1 among exosome markers used to confirm isolated exosomes.
+1,correct,Water extract (OAW) had highest DPPH activity and strong FRAP reducing power.
+2,correct,F. subglutinans was found in growing feed (2.5%) samples.
+3,imprecise,E. faecium appears only in a cited reference title; paper body makes no such finding and relation 'affects' is uninformative.
+4,correct,Chloroform extract inhibited HT-29 by 67.2% (OAC); abstract reports HT-29 inhibition.
+5,correct,"Text: TNFalpha has been shown to repress PPARgamma, a key adipogenic transcription factor."
+6,correct,Fig. 3C: lipid metabolites identified in porcine serum (fat/lipid wording loose).
+7,correct,Discussion notes lead transfer from bone to other tissues.
+8,correct,Paper says inflammation/obesity strongly linked to insulin resistance.
+9,correct,"Paper reports Pb higher in UHT semi-skimmed than UHT whole milk (Aydin 2021, Istanbul)."
+10,correct,Paneth cells regulate host-bacterial interactions by producing antimicrobial peptides.
+11,correct,Acidifiers are examined as alternatives to antibiotic growth promoters.
+12,correct,Paper concludes OTA in Ardahan feed did not pose a risk to animal and human health.
+13,imprecise,"HEK-293 appears only in a reference title (Baier et al.); claim not made in the body, and 'mirna' is generic."
+14,imprecise,"Trolox standard was compared against the extracts, not the plant species; wrong entity."
+15,correct,OAW had DPPH IC50 21.58 and high FRAP reducing power (282.14).
+16,correct,"Myogenic progenitors expressed PAX7, MYF5 and MYOD1."
+17,imprecise,"AR are biomarkers of wholegrain wheat/rye intake in pigs, not of 'piglet'; object is wrong entity."
+18,correct,Table 1 lists Vitamin B2 in the pig feed concentrate composition.
+19,imprecise,Table gives China's Hg limits for sterilised milk; 'is present in' misstates a regulatory limit as presence.
+20,correct,"EQ activity generates reactive oxygen molecules that may damage proteins, DNA or lipids."
+21,correct,"Simulated mean RQ values As, Hg, Pb, Cd = 0.28, 0.08, 70.77, 9.11; Pb is 70.77."
+22,correct,"scRNA-seq used to construct single-cell atlases of jejunum, colon, liver and muscle."
+23,imprecise,"Extracts (OAC/OAE/OAW) contain total flavonoids, per Table 1, not the plant species per se; entity slightly off."
+24,correct,Na and K channels including SCNN1B expressed in jejunum and colon.

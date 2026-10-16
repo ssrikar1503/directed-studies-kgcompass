@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,Review: 'RXR/RAR heterodimers transduce the retinoid signal in vivo' (vitamin A signaling).
+1,correct,Methods: FA methyl esters were extracted with pentane and analyzed by GC.
+2,correct,Text: posterior hindbrain adversely affected in VAD quail; vitamin A needed for hindbrain segmentation.
+3,wrong,Paper names Megasphaera elsdenii and Propionibacterium acnes as possible trans-10 producers; Lactobacillus not mentioned.
+4,correct,"Review: vitamin A is required for patterning of embryonic nervous system, heart, kidney, lung."
+5,correct,Abstract: control group showed significant reduction in RBC EPA and DHA content.
+6,imprecise,"Paper reports 17 exons in camel vs 18 in cattle; 'contains exon' is uninformative, drops the count."
+7,correct,Intro: ruminal microorganisms use BH as a means of defense against UFA toxicity.
+8,imprecise,Paper: grasses valuable for increasing UFA content in milk; the milk context is dropped.
+9,correct,Review: atRA-inducible Stra genes expressed in placental regions incl. labyrinthine zone of chorioallantoic placenta.
+10,correct,Intro: linoleic and linolenic acids originate from diet and reach the milk via the bloodstream.
+11,correct,Review: atRA can act as a teratogen; excess vitamin A/atRA induces teratogenesis.
+12,imprecise,"Only appears in a cited reference title (agroindustrial by-product, ruminal fermentation), not a finding of this paper."
+13,correct,"Ensiled OC had notable effects on all FAs, oleic acid most; oleic content increased."
+14,correct,Linseed flour plus bread provided 40% of ALA in the experimental diet.
+15,correct,"Intro: selenite/selenate affected abundance of FA, particularly CLA isomers (prior studies)."
+16,correct,"Intro: cis-9,trans-11 CLA is desirable for its anticarcinogenic properties."
+17,correct,Review: vitamin A is required for embryonic development in mammals.
+18,imprecise,Salmonella and egg production appear only in a cited reference title; the paper makes no such claim.
+19,imprecise,"RALDH1 oxidizes retinaldehyde to atRA; atRA is the product, not the substrate, as stated."
+20,correct,Sr increased BMC 6-8% in both bones (P<0.04).
+21,imprecise,VAD causes diaphragm herniation (31% herniated); 'causes diaphragm' omits the defect.
+22,correct,"Text: LINEs such as L1, Bov-B, and L2."
+23,imprecise,"Pig blastocyst retinoic acid is proposed to originate from trophectoderm; it is retinoic acid, not vitamin A."
+24,correct,Review: retinoic acid forms bind to and activate the RARs.

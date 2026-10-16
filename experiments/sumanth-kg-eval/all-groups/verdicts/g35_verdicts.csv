@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,imprecise,Paper says Ecklonia stolonifera contains carotenoid generally; astaxanthin is not named as its content.
+1,correct,Table of fatty acids by muscle lists C16:0 palmitic acid in longissimus dorsi.
+2,correct,Table lists moisture 10.6% fresh and 2.43% dried sumac.
+3,correct,Ammonium sulfate precipitation used to purify antimicrobial peptides from strains 9-1 and 76-1.
+4,imprecise,Text says flaxseed lignans are potentially beneficial for cancer therapy; 'prevents and treats' overstates.
+5,imprecise,Supplementation reduces prostate cancer proliferation rates pre-surgery; surface drops 'proliferation'/men.
+6,correct,Table: diabetic rats on 10% ground flaxseed improved within 8 weeks.
+7,correct,Saturated fatty acids considered major risk factor for coronary heart disease; proatherogenic.
+8,correct,"Abstract: all peptides have good heat, acid and alkali resistance; peptide-II is FSGSGSGTAFTLR."
+9,correct,Fatty acid compositions were able to differentiate hay or maize silage diets.
+10,correct,Table: Chlorella fusca sporopollenin protects cells from UV radiation.
+11,correct,Strain 9-1 showed good inhibitory effects on Salmonella enterica ACCC 01996.
+12,correct,Table lists Fucus vesiculosus fucoidan with antioxidant activity.
+13,correct,Protein concentration was quantified using Bradford assay.
+14,correct,Table 4 lists cystine 0.78 for Durvillaea antarctica.
+15,correct,Phlorofucofuroeckol discussed as phlorotannin from Ecklonia cava/Eisenia bicyclis seaweeds.
+16,imprecise,"Paper discusses seaweed impact on health, but relation 'impacts' is uninformative about direction."
+17,correct,Text: alpha-glucosidase and alpha-amylase break down starch into glucose before absorption.
+18,correct,ZEN oxidation product displayed much less estrogenic activity than ZEN in E-screen.
+19,imprecise,Paper only cites oleic-acid-enriched milks for health effects; oleic acid is not a milk component claim.
+20,correct,"Flaxseed supplementation improved total cholesterol, triglyceride and LDL-C in hyperlipidemic patients."
+21,imprecise,"Antioxidant claim is for Cystoseira barbata carotenoids/vitamins, not astaxanthin specifically."
+22,correct,"Table lists deoxygadusol, palythene and usujirene as antioxidant (Rhodymenia pseudopalmata)."
+23,correct,Rhus coriaria has shown great effect in managing hyperglycemia and hyperlipidemia.
+24,correct,Carrageenans are derived from carrageenophytes including Gigartina skottsbergii.

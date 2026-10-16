@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,"Abstract: elevated CO2 reduces maize nutrient concentrations (N, P, K, folate) while stimulating other traits."
+1,correct,Table 2: testosterone 76.53 control vs 50.02 in diazinon group (significantly lower).
+2,correct,"Discussion: liver damage liberates large quantities of enzymes (AST, ALT) into the blood."
+3,imprecise,Globulin 1.87 under diazinon restored to 4.56 by CNPs; CNPs alone did not raise it (4.58 vs 4.97); condition dropped.
+4,correct,Paper stresses maternal nutritional conditions impact offspring health and welfare.
+5,correct,Cites Carter et al.: CT decreased with drought stress.
+6,correct,Methods: IVOMD = 14.88 + 0.8893 x gas + 0.0448 x crude protein + 0.0651 x ash.
+7,correct,DHNA involves removal of the dihydroneopterin side chain to produce glycolaldehyde and HMDHP.
+8,imprecise,Paper says tannins interact with cell walls OF BACTERIA causing membrane disruption; object 'cell wall' loses entity.
+9,imprecise,"Only a herbal blend (oregano, anise, citrus oils) cited as protective; citrus oils alone not shown to prevent coccidiosis."
+10,correct,Folate section: plants can synthesize their own folate.
+11,correct,Study aims to assess how EA and GA modulate rumen microbial populations; qPCR shows modulation.
+12,correct,Title/methods: oak fruit processed with sodium hydroxide and urea.
+13,correct,Discussion: methanogens use H2 to reduce CO2 to CH4.
+14,correct,Evolutionary veterinary medicine encompasses understanding of developmental programming pathways.
+15,imprecise,HPA axis claim appears only in a reference title; body text does not state maternal undernutrition effect.
+16,correct,Discussion: Insig-1 was higher expressed in chickens fed conventionally.
+17,correct,"Premix composition lists Choline chloride 28,000 mg/kg."
+18,correct,Table 1: creatinine 0.94 in diazinon group vs 0.69 control; text says elevated.
+19,correct,Tricin recently identified as an initiator of lignin chains within the polymer.
+20,correct,"Inaccurate developmental signals cause mismatch impacting health, e.g. susceptibility to metabolic diseases."
+21,correct,DHNA removes side chain to produce glycolaldehyde and HMDHP (6-hydroxymethyldihydropterin).
+22,correct,Werner et al.: village eggs 4.08 vs commercial 2.25 mg/100 g vitamin E.
+23,correct,Results: genes involved in cholesterol biosynthesis differentially expressed between diets.
+24,correct,Abstract: WL diet significantly decreased SFA and PUFA content in hind leg meat.

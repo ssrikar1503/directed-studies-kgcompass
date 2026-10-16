@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,"Table 3 lists beef fillet iron 2.5 mg per 100 g (subject given as cattle, not beef)."
+1,imprecise,"Paper says nettle powder in chicken diet improves carcass quality, egg production; broiler performance only in a reference title."
+2,correct,"Text: hydroxy selenomethionine induces early expression and enhances activity of GPx, thioredoxin, and SeP."
+3,imprecise,Rabbit study: chemical toxicants incl. solvents cited as cause of toxic effects on GI system; 'toxic effects' dropped.
+4,correct,Livestock may directly encounter MPs in their drinking water due to poor water quality.
+5,correct,"Fig. 2 (Pereira): dairy intake associated with lower odds of insulin resistance, though observational."
+6,correct,"Ohmic heating listed among novel technologies with potential to improve quality, preservation, nutritional value of meat."
+7,correct,Table lists Bacillus subtilis probiotic products for poultry.
+8,correct,Se reduces ROS levels and improves intracellular antioxidant activity.
+9,correct,Text: GOS/FOS bonds are degraded by enzymes such as beta-galactosidase.
+10,correct,"Table 4: MUFA challenge changed LDL-cholesterol by -0.19 mmol/l (-5.2%, P=0.006)."
+11,correct,Lambs given YEA-SACC-1026 showed increased body weight.
+12,correct,Doses of 500 and 750 mg/kg feed of probiotic reduced serum triglyceride in chickens.
+13,correct,Milk fatty acid table lists 22:6n-3 (DHA) in milk fat at trace levels.
+14,correct,Aquatic animals more likely to consume MPs because of resemblance to zooplankton.
+15,imprecise,"Paper: impact of MPs depends on retention time, slower peristalsis causing more damage; peristalsis does not 'determine' MPs."
+16,correct,Positive probiotic effect determined from body weight increase data.
+17,imprecise,"Oligosaccharide blend inhibited ETEC/Salmonella adhesion to HT29 cells, not E. coli growth per se."
+18,correct,Urbanised subjects had high sodium intake; higher sodium levels could contribute to hypertension risk.
+19,correct,Probios (Chr Hansen) lists Lactobacillus acidophilus among its strains.
+20,imprecise,"Paper says MPs may worsen the level of microbes in the air in barns, not increase air itself."
+21,correct,Bacillus subtilis listed in probiotic products for poultry.
+22,correct,90 g lamb portion contributes significantly to B vitamin intake.
+23,correct,Polyethylene listed among the most common plastic polymers of microplastics.
+24,imprecise,Paper: a decrease in energy intake yields weight loss; surface relation 'reduces weight loss' is misstated.

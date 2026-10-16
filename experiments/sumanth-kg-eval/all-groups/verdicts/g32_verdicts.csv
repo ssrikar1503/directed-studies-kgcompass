@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,"Paper reports NTS isolated from poultry products (meat, etc.) in India."
+1,imprecise,Paper says yoghurt consumption associated with reduced colon cancer incidence; 'dairy foods' overgeneralizes.
+2,correct,"Oilseed supplementation raises CLA in milk/beef (Glasser review, Table 2 text)."
+3,correct,S. Kentucky listed among important serovars in compound fish feed.
+4,correct,Sunflower in cow diets has beneficial effect on oleic acid content of milk.
+5,imprecise,Paper only notes cancer patients reported frequent meat consumption; triple is trivial/uninformative.
+6,correct,Cows under heat stress had decreased milk yield (Cowley et al. 2015).
+7,correct,Caspases cleave proteins causing morphological changes of apoptosis; caspase-3 discussed.
+8,correct,S. Montevideo among important serovars identified in compound fish feed.
+9,correct,Antithrombotic peptides derived from sheep kappa-casein listed.
+10,correct,"Human cases discussed, mostly outbreaks from imported food; serovars also found in fish feed."
+11,correct,S. Agona listed among important serovars in compound fish feed.
+12,wrong,"'Racetamide' is not in the paper; the compound is ractopamine (RAC), whose urine levels were eliminated after withdrawal."
+13,imprecise,Paper says sheep milk in general has higher caseins; East Friesian is only a breed in a cited study.
+14,imprecise,"Level of dietary inclusion influences ALA content of eggs; 'in eggs' dropped, relation vague."
+15,correct,RAC residues measured in urine of pigs and cattle.
+16,correct,GP used in cattle and pigs to produce protein more efficiently.
+17,imprecise,"Only a reference title on calcium soaps and dry matter intake; relation uninformative, no result stated."
+18,imprecise,Antithrombotic peptides come from sheep lactoferrin; species dropped.
+19,correct,"Grape marc increased abundance of apolipoprotein E, clusterin, butyrophilin subfamily 1 member A1."
+20,correct,Cited study models hydrolysis of goat milk protein by subtilisin and trypsin (reference title only).
+21,correct,Salbutamol listed with symptoms including dizziness.
+22,correct,Predicted grazing intake closely associated with ALA concentrations in milk.
+23,imprecise,"Paper: PUFA raise UFA ratio, 'possibly due to inhibitory effect' of ACC; ACC inhibition, not ACC inhibiting SFA, is hedged."
+24,correct,Courtheyn et al.: glucocorticosteroids found as residue in controlled farm animals.

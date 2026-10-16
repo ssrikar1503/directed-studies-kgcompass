@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,Broiler diet premix contains riboflavin 480 mg/kg premix (Table 1 footnote).
+1,correct,"Li 2012: 10,000 ug I/kg raised thyroid iodine +122%; dose p<0.0001."
+2,correct,Schone 2006: thyroid iodine reflected dietary iodine; Rottger: thyroid I rose with intake.
+3,imprecise,"Li intro says feed iodine transfers to animal foods, but pork carryover was low; generic claim overstates for pork."
+4,correct,Li Table 3: skin iodine dose effect p<0.0001.
+5,correct,Li: carcass characteristics not influenced by iodine dosages or sources.
+6,correct,Li: neither T4 nor T3 nor ratio influenced by iodine supplementation.
+7,correct,"Li: increasing dietary iodine heightened muscle iodine, with source interaction."
+8,correct,"Li discussion: iodine from feed transferred into milk, eggs; carryover into milk higher than pork."
+9,correct,Li: iodized salt used in human nutrition; Schone: half of iodine intake from iodized salt.
+10,correct,Li: T3 and T4 determined in plasma by ELISA.
+11,imprecise,"Rottger: empty body is carcase without head, innards; spleen weighed as a separate organ, not part of it."
+12,wrong,"KI is a dietary iodine source; ""source of milk"" is nonsensical and the cited pig paper does not say it."
+13,imprecise,"Glucosinolates lowered serum IODINE concentration (low iodine only), not blood serum itself."
+14,correct,"Dry matter reported as component of analysed diets (Table 1, 880 g DM/kg)."
+15,correct,Schone abstract: thyroid iodine reflected dietary iodine better than serum iodine.
+16,wrong,Schone: pork is a low-iodine food; iodine cannot be concentrated in meat; thyroid holds most iodine.
+17,correct,Iodine concentration measured in thyroid in all three papers.
+18,correct,Rottger Table 6: liver iodine rose significantly with KI supplementation.
+19,imprecise,"Li intro: EXCESS iodine intake leads to hypothyroidism; dropping ""excess"" changes meaning."
+20,imprecise,"Li found no significant T3 change; ""is associated with"" is uninformative/misleading for a null result."
+21,imprecise,"Rape lowered thyroid iodine concentration/stores, while thyroid weight increased; ""reduces thyroid gland"" misstated."
+22,correct,Schone: crude ash content determined in diets.
+23,imprecise,"High dietary iodine raises serum iodine concentration, not blood serum itself; wrong granularity."
+24,imprecise,"Li cites earlier Schone study for T3 decrease at 10,000 KI but its own data showed no T3 effect."

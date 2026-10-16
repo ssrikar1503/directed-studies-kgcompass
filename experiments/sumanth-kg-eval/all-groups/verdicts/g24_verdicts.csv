@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,Cu is a vital element of lysyl oxidase enzyme (Cu section).
+1,correct,Mid intestine folds significantly shorter in all vegetable-oil groups.
+2,correct,"n-6 LA metabolized to AA, major eicosanoid precursor; same enzymes used."
+3,correct,Ref 8 'Sympathetic system activity in obesity and metabolic syndrome' cited in text.
+4,correct,Cells washed in PBS supplemented with 1% penicillin/streptomycin.
+5,imprecise,Paper: inorganic full-dose or organic half-dose Cu/Mn/Zn/Fe decreased Barnesiellaceae; no nano zinc.
+6,correct,"Dong et al.: Mn (with Cu, Zn, Fe) supplementation decreased harmful Barnesiellaceae; dose/form dropped."
+7,correct,Organic Zn 60-80 ppm activates enzymatic antioxidant system more than 80 ppm inorganic.
+8,correct,Basal diet composed mainly of maize and soybean meal.
+9,correct,Acidic medium needed for dissolving calcium and phosphorus.
+10,correct,"Storage affected oleic, linolenic, linoleic, AA and DHA (p<0.05)."
+11,correct,ORE group got basal diet plus 275 mg/kg oregano oil.
+12,correct,Stearic acid significantly higher in CON than ORE eggs at all timepoints.
+13,imprecise,Paper discusses Mn source/level affecting eggshell quality; object 'egg' too coarse.
+14,correct,Abstract: adipocytes play an important role in human health and meat quality.
+15,correct,Discussion states 'CASC4 causes breast cancer to occur' (citing ref 22).
+16,correct,Organic Se can be transferred to eggs at a higher rate than inorganic Se.
+17,correct,"Organic trace minerals improve eggshell quality, cited in text and refs."
+18,correct,80% of fish oil replaced by vegetable oil blends.
+19,correct,Mn-Met supplementation improved egg internal traits and shell ultrastructure (Li et al.).
+20,correct,Increased lipid droplet signaling in NENF overexpression group.
+21,correct,CON eggs n-3 PUFA at 0/10 d significantly higher than at 21/35 d.
+22,correct,Fat deposition could be improved by genetic manipulation of related genes.
+23,correct,CON oleic acid highest at 21 d vs 0 d (p=0.031).
+24,imprecise,Paper: GIT integrity and mineral absorbability 'may be related to' decrease; GIT itself not the agent.

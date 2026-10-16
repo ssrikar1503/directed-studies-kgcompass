@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,imprecise,Triticale is a diet ingredient and crude ash an analyzed diet nutrient (Table 2); no source-of relation is stated.
+1,correct,"Discussion: L. reuteri supplementation increased plasma IL-2, IFN-a and IFN-b secretion (cited study)."
+2,correct,Results: abundance of Firmicutes and Euryarchaeota was increased when piglets were treated with NAC.
+3,correct,BEA significantly downregulated TLR4 mRNA at 4 h and 48 h in MAC-T cells.
+4,imprecise,Paper only says tetracycline showed promise in vivo against TSE; 'affects' is uninformative.
+5,correct,Intro/methods link antimicrobial use to selective pressure and AMR; possible association with antimicrobial usage noted.
+6,correct,"Table 3: the single Pseudomonas isolate, from feed, was aztreonam resistant 1 (100%)."
+7,correct,Discussion: closure of TJs plays a pivotal role in mammary gland milk composition and yield.
+8,correct,ENB at 2.5 umol/L upregulated ZO-1 mRNA at 24 h.
+9,correct,Conclusion: NAC increased probiotics and reduced the abundance of harmful microorganisms.
+10,correct,Abstract: thiouracil can be naturally present in urine of farm animals; bovine urine 5.92-13.68 ug/L.
+11,correct,BEA at 10 umol/L upregulated ZO-1 mRNA at 24 h.
+12,correct,Text: intravenous infection requires a five- to sevenfold greater dose compared with i.c. inoculation.
+13,correct,"Abstract: main ARDB genes modified in the NAC group were macb, tsnr, norm, bl2be-per, vansb and pbp1b."
+14,correct,"Membrane bound PrP associates with heparan sulfates and laminin (Graner et al., 2000)."
+15,correct,"Transmissible PrPsc demonstrated in blood of infected mice, hamsters and others; vCJD blood transmission discussed."
+16,correct,Airborne dust from pig houses yielded diverse bacterial species and communities (metagenomics).
+17,correct,Results 3.5: miR-195 is one of the miRNAs that binds the 3'-UTR of ELOVL6.
+18,correct,"GO analysis: in the NAC group, cellular process was a dominant term in biological process."
+19,correct,Intro: airborne AMR determinants are an additional route for spread of AMR on a continental or global scale.
+20,correct,Enterobacter isolates (n=9) obtained from airborne dust/farm samples; detected in metagenomics.
+21,correct,"Dorsal root ganglia of cattle 30 mo and older are SRMs, inedible and prohibited for human food."
+22,correct,Penetrating captive-bolt stunning can distribute CNS material into other tissues.
+23,correct,"NAC could increase abundances of Megasphaera, Lactobacillus and Methanobrevibacter vs control."
+24,imprecise,Paper says standard autoclaving gives <3-log reduction and is less effective with lipid; not a flat failure.

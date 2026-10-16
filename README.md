@@ -15,8 +15,8 @@ accuracy.
 
 **`KG_Quality_Evaluation_Report.docx` / `.pdf`** - full evaluation of the
 AnimalRAG GraphRAG knowledge graphs (all 38 topic groups + test set,
-83,554 triples): judged triple accuracy (58% correct / 26% imprecise /
-16% wrong on a verified 50-triple sample), relation-vocabulary analysis
+83,554 triples): judged triple accuracy across ALL 38 groups (950 verified
+triples: 69.5% correct / 26.1% imprecise / 4.4% wrong; per-group 48-88%), relation-vocabulary analysis
 (7,603 relation types, 56% singletons), 15.2% trivial triples, and a
 contradiction census (495 unqualified opposing-claim pairs, present in
 every group). Data behind every number:

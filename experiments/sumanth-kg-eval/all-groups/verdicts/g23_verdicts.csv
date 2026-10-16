@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,imprecise,"Paper: cattle on pasture received a protein and energy supplement (0.2% BW), not milk protein."
+1,wrong,"Object 'C18:1n/C0' is garbled; paper reports C18:1n9 proportions, no such entity."
+2,wrong,Paper states fish oil cuts milk fat in cows but goats showed no decrease in fat content or yield.
+3,imprecise,"Paper says n6/n3 ratio of PUFA was less favorable in LI than CH, not n-6/n-9."
+4,imprecise,"Omega-3 diets increased total n-3 and VLCn-3 FA content in breast, not breast muscle itself."
+5,imprecise,Steaks were grilled (160-180C) to measure cooking loss; grilling does not 'determine' it.
+6,correct,Aging time affected b* with cubic fit Y=0.0002x3-...; interaction P<0.01.
+7,correct,Intro: CLA has anticarcinogenic properties (Shultz 1992; Lee 2005).
+8,correct,Monounsaturated FA were 26.6 g/100 g FA in cow milk.
+9,correct,Ahiflower diets increased total n-3 FA in egg yolk and tissues vs soybean control.
+10,correct,FO gavage significantly increased NPY mRNA in diencephalon under heat stress.
+11,imprecise,Paper only suggests breed differences may reflect enzyme activity in FA synthesis; not shown.
+12,correct,Paper: extensive biohydrogenation of PUFA in the rumen.
+13,correct,Cited reference (Gebauer 2015) concerns trans FA isomers from partially hydrogenated oil.
+14,imprecise,"Fillet MUFA rose significantly only at 0.1% oil, not 0.05%; diet MUFA unchanged."
+15,imprecise,Vitamin E did not affect muscle trans 18:1 but did affect liver trans 18:1 (P<0.05).
+16,correct,Cites Pawlosky 2001: 37% of DPA is converted to DHA in humans.
+17,imprecise,"Chloroform/methanol extracted lipids from milk/cheese samples, not adipose tissue."
+18,correct,"Discussion: n-3 FA helps prevent diseases such as arthritis, depression (Kim 2016)."
+19,imprecise,Charolais had lower feed/gain (7.28 vs 8.53); triple's relation/object is malformed.
+20,correct,SFO raised milk 20:5n-3 and 22:6n-3 in goats.
+21,correct,CLA was 0.96 g/100 g FA in goat milk.
+22,correct,Vaccenic acid is a rumen intermediate of linoleic and linolenic acid metabolism.
+23,correct,Atherogenicity index for cow milk averaged 2.71.
+24,correct,Wheat (47.5) listed as a diet ingredient in the chick feed table.

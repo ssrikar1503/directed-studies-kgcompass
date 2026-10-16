@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,"Intro: mycotoxins cause decreased feeding efficiency, milk productivity, etc."
+1,correct,Farms with lower LUR produce more milk; LUR inversely related to milk yield (R2=0.86).
+2,correct,Larger concentrate input associated with higher eFCR/eECR (Table 6 correlations).
+3,imprecise,"AFB1 is one analyte in the sample preparation protocol; ""measured by protocol"" is an uninformative/inverted relation."
+4,wrong,No H+-translocase 2 in paper; garbled entity (monitored mycotoxins list has none).
+5,imprecise,"Paper reports moniliformin (MON), not ""monilordin""; entity misspelled/garbled."
+6,imprecise,Nutrient surplus risk is cited for by-product replacement of cereals reducing it; concentrate increasing it is only implied.
+7,correct,"""By-products do not compete with human nutrition, and do not impact land use, since the land is cultivated for human food."""
+8,correct,"AFB1 measured in roughage (8.33%) and concentrate feeds, found contaminated."
+9,correct,Farms with higher dairy yield showed lower LUR (R2=0.86).
+10,correct,"Mycotoxins are produced by mycotoxigenic fungi (Aspergillus, Fusarium etc.)."
+11,correct,AFB1 detected in 17% of maize silage and complete feed from dairy farms.
+12,correct,Fusarium listed among most common toxigenic fungi in agricultural products.
+13,correct,Land area of lowland farms was statistically best rated for soil quality and climate.
+14,imprecise,"Paper: increasing milk yield per cow strongly negatively correlates with FCR; ""bovine milk reduces FCR"" loses the yield/per-cow framing."
+15,imprecise,"LUR concept follows a product LCA approach; LCA does not ""determine"" land use requirement, relation misstated."
+16,correct,Feed conversion efficiency expressed as reciprocal of FCR/eFCR (reversed ratio).
+17,correct,"ENNA found in 4% of seeds, ENNB 11%; low frequencies in maize samples (name spelled enniatrin)."
+18,correct,"AFG2 found in one maize seed sample (4%, 285.6 ug/kg); triple holds though description says 7%."
+19,correct,"AFM1 detected in 69.2% of raw milk samples, mean 7.31 ug/kg."
+20,wrong,"Inverted/nonsensical: cakes and extraction meals are feed for dairy cows, not ""used as dairy cow""."
+21,correct,Abstract: improving forage quality may be a suitable strategy to reduce eFCR.
+22,correct,Table 2: high protein concentrate has 489 g CP per kg DM.
+23,correct,"Only grass-based systems can use land unsuitable for crops, a LUR mitigation strategy."
+24,imprecise,"AFB1 found at harvest in a single sample (0.8 ug/kg; grain or forage unspecified), not in seeds; ""contains"" overstated."

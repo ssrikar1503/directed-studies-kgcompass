@@ -1,0 +1,26 @@
+idx,verdict,evidence
+0,correct,"Nitrate exposure is mostly through vegetables, water, beer and other foods."
+1,correct,Nicarbazin and diclazuril are listed among non-ionophoric coccidiostats.
+2,correct,"Signs of ionophore intoxication include anorexia, diarrhoea ... as well as growth retardation."
+3,imprecise,"Subject misspelled 'quart'; paper says accessory minerals such as quartz suggested responsible for toxicity in cells, hedged."
+4,correct,"Zeolite and bentonite in chicken diet decreased serum levels of zinc, copper and manganese."
+5,imprecise,"Intro says producers seek to improve human health by implementing agro-ecological principles; an aim, not a shown effect."
+6,correct,"Nitrate ranges ... intermediate values of 22, 44 and 880 mg/kg in maize, oat grain and alfalfa silage."
+7,imprecise,"Only a reference title (nanoplastics and PCB77 in white hard clams); not a finding of this paper, combined exposure and species dropped."
+8,imprecise,"Nitrite, the anion of salts such as sodium nitrite, is formed by the nitrogen cycle; nitrite not specifically sodium nitrite."
+9,imprecise,"Triadimenol caused degeneration/necrosis OF renal tubular epithelial cells; object is the cells, relation 'causes' misstates damage."
+10,correct,Table: decoquinate max egg concentration 120 ug/kg in kinetic studies (name misspelled).
+11,correct,"Halofuginone exposure estimated from liver, kidney, muscle residues via kinetic data; weakly measured but supported."
+12,correct,Rumen/caecum nitrate reductase activity results in only 10-20% of nitrite absorption; rest metabolised.
+13,imprecise,Paper says adsorbents induce oxidative stress/apoptosis/membrane damage in cells; 'stress response' is vague.
+14,correct,Montmorillonite induced oxidative stress and membrane damage in intestinal INT-407 cells.
+15,wrong,Paper's drug is gemfibrozil (GEM) which up-regulated lipid metabolism; gemcitabine is not studied.
+16,correct,Diclazuril exposure represents 1.5% of ADI; non-ionophoric compounds assessed against ADI.
+17,wrong,"Paper's CEs are ceramides (with TAGs, PEs) linked to glucose intolerance, not cholesteryl esters."
+18,imprecise,"Only a reference title (nanoplastics and PCB77 histopathological damage in white hard clams), not a finding of this paper."
+19,correct,"Body weight at day 21 and 42 did not differ across triadimenol groups (p=0.87, 0.20)."
+20,imprecise,Only a reference title about regulating feed-to-tissue transfer of mycotoxins; relation 'regulates' uninformative.
+21,correct,Microbiota characterised by 16S rRNA amplicon sequencing in mussels exposed to pharmaceuticals.
+22,imprecise,"Creatine kinase ACTIVITY increased in blood serum, reported in dogs; dropped activity/serum/species."
+23,correct,"After depuration all significant terms were down-regulated, mostly immune response and inflammation."
+24,correct,Omega-6:omega-3 ratio in pen-finished bison (3.2) described as relatively favorable.
