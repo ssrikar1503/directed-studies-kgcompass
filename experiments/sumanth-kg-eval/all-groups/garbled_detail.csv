@@ -1,0 +1,49 @@
+group,subject,relation,object,descriptions
+g10,n6/n3 polyunsaturated fatty acids,affects,cardiac diabetic neuropathy,The n6/n3 PUFAs dietary ratio affects cardiac diabetic neuropathy.
+g02,Wassache hen,is result of cross-breeding with,Kokochi/C18,The Wassache hen is a cross-breed between the Kokochi/C18 and Rhode Island Red strains.
+testset,multidrug-resistant strains,contains,IncA/C2,The multidrug-resistant strain ARS-CC9100 contains the IncA/C2 plasmid group. | Multidrug-resistant strains contain the IncA/C2 plasmid group.
+testset,IncA/C2,is associated with,multidrug-resistant,Significant differences in carriage rates were identified for IncA/C2 between MDR and S genomes. | IncA/C2 is associated with multidrug-resistant E. coli in preweaned calves.
+testset,Escherichia coli,contains,IncA/C2,The IncA/C2 plasmid group is present in several strains of Escherichia coli isolated from dairy animals.
+testset,IncA/C2,associated with,multidrug-resistant,The IncA/C2 plasmid is associated with multidrug-resistant strains of Escherichia coli.
+g27,thigh meat,contains,n/C06/n/C03 ratio,The n/C06/n/C03 ratio varies across different animal species in meat.
+g27,muscle,contains,C18:2n/C06,Muscle tissue contains linoleic acid (C18:2n/C06).
+g27,concentrate,decreases proportion of,18:2 n/C06,The proportion of 18:2 n /C06 in total lipid decreased in steers fed a concentrate diet as they aged.
+g27,concentrate,increases,n/C18:3 ratio,Concentrate fed ruminants give n/C18:3 ratios around 6–10.
+g27,grass silage,reduces,18:2 n/C06,Grass silage diets resulted in lower levels of 18:2 n/C06 in the phospholipid fraction compared to concentrate.
+g27,long chain n/C06 polyunsaturated fatty acid,is found in,phospholipid,Long chain n/C06 polyunsaturated fatty acids are mainly found in phospholipid.
+g27,long chain n/C03 polyunsaturated fatty acid,is found in,phospholipid,Long chain n/C03 polyunsaturated fatty acids are mainly found in phospholipid.
+g27,subcutaneous adipose tissue,contains,C18:2n/C06,Subcutaneous adipose tissue contains linoleic acid (C18:2n/C06).
+g27,18:2 n/C06,is component of,phospholipid,18:2 n /C06 is present in the phospholipid fraction.
+g27,18:2 n/C06,is component of,neutral lipid,18:2 n /C06 is present in the neutral lipid fraction.
+g27,18:2 n/C06,is higher in,psoas,The fatty acid profile of psoas is expected to have higher 18:2 n/C06 proportions than longissimus.
+g27,double muscling genotype,has higher proportions of,18:2 n/C06,The mh/mh genotype has higher proportions of 18:2 n /C06 in muscle lipid.
+g27,flaxseed,is source of,18:2 n/C6,Linseed resulted in 33.7% of 18:2 n/C6 in the semimembranosus.
+g27,protected sunflower supplement,increases,18:2 n/C06,The proportion of 18:2 n/C06 increased to 35 g/100 g fatty acids in perirenal fat when steers were given a protected sunflower supplement.
+g27,red clover,increases,18:2 n/C06,Steers fed red clover silage showed significantly increased proportions of 18:2 n/C06 compared to perennial ryegrass.
+g27,fish oil,is source of,18:2 n/C6,Fish oil resulted in 11.5% of 18:2 n/C6 in the semimembranosus.
+g27,marine algae,is source of,22:6 n/C3,A combination of PLS and marine algae resulted in 5.35% of 22:6 n/C3.
+g27,n/C03 polyunsaturated acid,is present in,muscle,The content of n/C03 polyunsaturated acid was manipulated in the muscle of lambs.
+g27,n/C09,describes,unsaturated fatty acids,The notation n/C09 describes the position of the ethylenic bond in unsaturated fatty acids.
+g27,pasture feeding,decreases,n/C18:3 ratio,Finishing ruminants on pasture can decrease the n/C18:3 ratio to a value of two or less.
+g27,n/C06:n/C03,has beneficial effects on,human health,A lower n/C06/n/C03 ratio in steer meat is considered beneficial for human health.
+g23,extruded linseed,is associated with,C18:1n/C0,The study measures the concentration of oleic acid in the fat of heifers fed extruded linseed.
+g23,extruded linseed,increases proportion of,C18:2 n/C0 6i n,The addition of linseed increased the proportion of linoleic acid in the intramuscular neutral lipids of crossbred beef heifers. | Linseed increased the proportion of linoleic acid in various fat tissues of Hanwoo cattle.
+g23,extruded linseed,increases,C18:1n/C0,The experimental diet containing extruded linseed showed a higher concentration of C18:1n/C0.
+g23,extruded linseed,increases,C18:3n/C0,The experimental diet containing extruded linseed showed a higher concentration of C18:3n/C0.
+g23,extruded linseed,decreases,C18:2n/C0,The experimental diet containing extruded linseed resulted in a lower concentration of C18:2n/C0 compared to the control.
+g23,C14:1/C14:1+C14:0 ratio,indicates,D9-desaturase,The C14:1/C14:1+C14:0 ratio is the best indicator of D9-desaturase activity.
+g37,n6/n3 ratio,is measured in,pork,The n6/n3 ratio is a metric for the fatty acid profile of the meat.
+g37,n6/n3 ratio,is component of,human health promotion index,The omega-6/omega-3 ratio is a factor used in calculating the human health promotion index.
+g29,but,increases,gram/C0 /gram+ ratio,BUT showed a trend of a higher gram/C0 /gram+ ratio compared to the control diet.
+g29,high-fiber-low protein,increases,gram/C0 /gram+ ratio,HF-LP showed a trend of a higher gram/C0 /gram+ ratio compared to the control diet.
+g29,diet composition,changes,gram/C0 /gram+ ratio,Diet composition can change the gram/C0 /gram+ ratio in the cloacal microbiota.
+g07,C18:2n-6/C18:3n-3,is measured in,erythrocyte,The ratio of omega-6 to omega-3 fatty acids is measured in human erythrocytes.
+g04,multidrug-resistant strains,contains,IncA/C2,The multidrug-resistant strain ARS-CC9100 contains the IncA/C2 plasmid group. | Multidrug-resistant strains contain the IncA/C2 plasmid group.
+g04,IncA/C2,is associated with,multidrug-resistant,Significant differences in carriage rates were identified for IncA/C2 between MDR and S genomes. | IncA/C2 is associated with multidrug-resistant E. coli in preweaned calves.
+g04,Escherichia coli,contains,IncA/C2,The IncA/C2 plasmid group is present in several strains of Escherichia coli isolated from dairy animals.
+g04,IncA/C2,associated with,multidrug-resistant,The IncA/C2 plasmid is associated with multidrug-resistant strains of Escherichia coli.
+g05,lemon leaves and rice straw,increases,oxidized phosphorus / heat production,The ratio of oxidized phosphorus to heat production was higher in the LRS group.
+g05,lemon leaves and rice straw,reduces,oxidized cholesterol / heat production,The ratio of oxidized cholesterol to heat production was lower in the LRS group.
+g26,ochratoxin A,induces,G0/G1 phase arrest,Ochratoxin A induces G0/G1 phase arrest involving DNA methylation alteration.
+g35,Rhus coriaria,decreases,apoB apoA/C0 I ratio,A significant decrease in the apoB apoA/C0 I ratio was seen in the sumac group.
+g34,DMEM/F12,is used for culture of,mammary epithelial cells,DMEM/F12 serves as a basal medium for the culture of primary mammary epithelial cells.

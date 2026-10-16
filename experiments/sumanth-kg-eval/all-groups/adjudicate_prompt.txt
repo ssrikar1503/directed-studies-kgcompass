@@ -1,0 +1,18 @@
+You are a Claude reasoning agent adjudicating contradictory knowledge-graph triple pairs from animal science literature. Work dir: /Users/srikarsankranti/Desktop/Directed Studies/experiments/sumanth-kg-eval
+
+Read all-groups/pairs_chunk_{N}.csv. Each row is a pair of triples with the SAME subject and object but OPPOSING relations (relation_A vs relation_B), plus each side's extractor-written descriptions and source paper names.
+
+For EVERY pair, reason carefully from the descriptions, effect fields, papers, and your scientific knowledge of animal nutrition, and produce:
+- diagnosis: one of
+  * conditional_finding - both sides are plausibly true under different conditions (dose, species, phase, duration, form); the graph needs qualifiers, not deletion.
+  * cross_paper_disagreement - different papers genuinely found opposite results; both citable, graph should attribute per study.
+  * same_paper_extraction_error - the descriptions suggest one side misread the same source (e.g. hypothesis stored as finding, inverted direction, dropped negation).
+  * garbled_or_nonsense - one or both sides are malformed as stated.
+  * insufficient_evidence - descriptions too thin to adjudicate; needs the source chunks.
+- better_supported: A, B, both, or neither - which side the stored descriptions support more.
+- reasoning: 2-3 sentences of actual scientific/textual reasoning citing the descriptions (not a template). E.g. if side A says 'essential oils increased feed intake at low dose' and side B says 'decreased at high dose', say that and conclude dose-conditional.
+- action: one short imperative (e.g. "qualify both with dose", "delete side B, keep A", "attribute to studies X vs Y", "send both chunks to judge").
+
+Write all-groups/adjudication_chunk_{N}.csv with header: pair_id,diagnosis,better_supported,reasoning,action - using Python's csv module, one row per pair, ALL rows present, same pair_id values as the input.
+
+Reply ONLY with: row count written and a count per diagnosis. No CSV content.
